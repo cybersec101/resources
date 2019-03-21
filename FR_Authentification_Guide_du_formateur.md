@@ -41,7 +41,7 @@ Les	mots	de	passe	servent	à	confirmer votre identité lorsque	vous	êtes	en	lig
 	- L’authentification	à	deux	facteurs	vise à compenser la faiblesse	de l’authentification	à	un	facteur en requérant	deux	éléments	indépendants.
 
 		- Il	peut	s’agir	d’un	élément physique et de quelque	chose	que	vous	savez.
-		- Citons	comme	exemple	les	carte intelligentes et	les	générateurs de	numéros	d’utilisateur	comme	SecurID	de	RSA	et	 Yubikey[^footnote1].
+		- Citons	comme	exemple	les	carte intelligentes et	les	générateurs de	numéros	d’utilisateur	comme	SecurID	de	RSA	et	 Yubikey[^footnote1](#^footnote1).
 		- Vous	devez	vous	identifier	de	deux	façons	avant	de	vous	connecter ou	d’utiliser	un	service.
 
 			- 	Par 	exemple,	lorsque	vous	retirez	de	l’argent	d’un	guichet automatique, vous devez	insérer	votre	carte,	puis	entrer votre	NIP	(numéro	d’identification	personnel).
