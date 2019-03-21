@@ -361,12 +361,11 @@ La	méthode	Diceware	consiste	à	créer un mot	de	passe	aléatoire,	unique,	long
 
      - Lancez	le	dé,	puis	notez	le	résultat. Écrivez	les	chiffres	en	groupe	de	cinq.
 
-     		- Faites	autant	de	groupes	que	le	nombre	de	mots	voulu.
+     	- Faites	autant	de	groupes	que	le	nombre	de	mots	voulu.
 
-        	- Lancez	un	dé	à	la	fois	ou	cinq	dés	d’un	coup,	peu	importe.
+      - Lancez	un	dé	à	la	fois	ou	cinq	dés	d’un	coup,	peu	importe.
 
-        	- Si	cinq	dés	sont	lancés	en	même	temps,	notez	les	chiffres	de	gauche
-à	droite.
+      - Si	cinq	dés	sont	lancés	en	même	temps,	notez	les	chiffres	de	gauche à	droite.
 
 
 		- Recherchez	chaque	suite	de	cinq	chiffres dans la liste Diceware,	puis	notez les	mots qui y	sont associés. Par exemple,	la	combinaison 21124 donnera	le mot clip (voir la liste	ci-dessus).
