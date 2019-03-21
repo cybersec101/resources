@@ -325,7 +325,6 @@ and grammar rules.
 
 
 <table>
-
  	<tr>
  		<td>16655	clause </td>
  		<td>16656	claw </td>
@@ -380,7 +379,6 @@ and grammar rules.
  		<td>21131	clock </td>
 
  	</tr>
-
  </table>
 
 
