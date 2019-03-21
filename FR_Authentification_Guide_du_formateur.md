@@ -437,7 +437,7 @@ Nom d’utilisateur|Nom	unique	donné	à	un système informatique ou à un utili
 Phrase de passe|Phrase	connue	d’une	seule personne servant à l’identification de	celle-ci.
 
 
-######## Footnote 1
+# Footnote 1
 [Two-factor authentication: Understanding the options](https://nakedsecurity.sophos.com/2014/11/14/understanding-the-options-2fa/).
 
 [^footnote2]: Un	examen	rigoureux	de	35 mots de passe en fonction	de	25 critères	d’évaluation	a démontré que les mots	de	passe	sont	la	meilleure	option sur tous les plans.
