@@ -48,10 +48,10 @@ avoid a common point of compromise.
 
 			- This could be something physical that you have and something that
     you know.
-			
+
 			- Common examples are smart cards and login number generators such as the
     RSA SecurID, and Yubikeys [^footnote1].
-    
+
 
 
 			- You need to prove yourself in two ways before you can log in or use a service.
@@ -127,7 +127,7 @@ passwords. Some of the ways we try to make this easier work against us [^footnot
 
 
 			- Reusing passwords has direct security implications as leaks at one website can compromise security at another.
-	
+
 				- Concentrate on never reusing passwords for important accounts (bank,
 email etc.).
 
@@ -262,7 +262,7 @@ instead of ‘and’, ‘?’ where there is a question, etc. or substitute numb
     can remember your password.
 
 	- Examples:
-	
+
 Phrase|Password
 -----|:-------
 I love to ski with Derek at Banff in winter|Il2swD@Biw
@@ -308,9 +308,9 @@ and grammar rules.
 
 	- The Diceware list is a list of numbers and words. Here is a short excerpt:
 
-	
+
 <!--This table is not being used because Markdown do not handle merging cells properly.-|-
------|:------	
+-----|:------
 16655 clause|16656 claw
 16661 clay|16662 clean
 16663 clear|16664 cleat
@@ -321,66 +321,66 @@ and grammar rules.
 21121 clink|21122 clint
 21123 clio|21124 clip
 21125 clive|21126 cloak
-21131 clock|--->
+21131 clock|- -->
 
 
 <table>
- 
+
  	<tr>
  		<td>16655	clause </td>
  		<td>16656	claw </td>
  	</tr>
- 	
+
  	<tr>
  		<td>16661	clay </td>
  		<td>16662 clean </td>
  	</tr>
- 	
+
  	<tr>
  		<td>16663 clear </td>
  		<td>16664	cleat </td>
  	</tr>
- 	
+
  	<tr>
  		<td>16665	cleft </td>
  		<td>16666	clerk </td>
  	</tr>
- 	
+
  	<tr>
  		<td>21111 cliche </td>
  		<td>21112	click </td>
  	</tr>
- 	
+
  	<tr>
  		<td>21113	cliff </td>
  		<td>21114	climb </td>
  	</tr>
- 	
+
  	<tr>
  		<td>21115	clime </td>
  		<td>21116	cling </td>
  	</tr>
- 	
+
  	<tr>
  		<td>21121	clink </td>
  		<td>21122 clint </td>
  	</tr>
- 	
+
  	<tr>
  		<td>21123 clio </td>
  		<td>21124	clip </td>
  	</tr>
- 	
+
  	<tr>
  		<td>21125	clive </td>
  		<td>21126	cloak </td>
  	</tr>
- 	
+
  	<tr>
  		<td>21131	clock </td>
- 		
+
  	</tr>
- 
+
  </table>
 
 
@@ -395,7 +395,7 @@ and grammar rules.
 
 
 
-    
+
 
 	- Decide how many words you want in your passphrase. You can use four, five,
     six or more. The more words, the better the passphrase.
@@ -484,7 +484,7 @@ DO consider password managers if you access many accounts frequently.
 ## Glossary of Terms
 
 Terms|Definitions
------|:------- 
+-----|:-------
 Diceware method|A method of creating long random passphrases using dice and a word list.
 Encryption|A process of converting information to a form unreadable to untrusted parties that still contains the original information and is able to be read by the intended recipient.
 Mnemonic|A system or pattern of ideas or associations which assists in remembering something.
