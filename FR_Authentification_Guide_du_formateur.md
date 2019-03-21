@@ -30,12 +30,12 @@ Les	mots	de	passe	servent	à	confirmer votre identité lorsque	vous	êtes	en	lig
 - Authentification
 
 	- Il	se	peut	que	vous deviez	vous	identifier en	tant	que	la	personne	unique	que	vous êtes, que	ce	soit	pour	obtenir	des	services personnalisés ou	pour	confirmer	que	vous	êtes	la seule personne à	avoir	accès	à	un	service	(comme	l’accès à votre	compte	de	banque).
-	
+
 		- Vous	pouvez	prouver	votre	identit au moyen	d’un	élément	unique, comme une	carte, une clé ou	une	caractéristique	biologique	(empreinte digitale), ou	en	connaissant	la	réponse	à	une	question secrète.
 
 			- Toutes	ces	méthodes	ont	des	forces	et	des	faiblesses.
-			
-			
+
+
 - Authentification	à	deux	facteurs
 
 	- L’authentification	à	deux	facteurs	vise à compenser la faiblesse	de l’authentification	à	un	facteur en requérant	deux	éléments	indépendants.
@@ -43,13 +43,13 @@ Les	mots	de	passe	servent	à	confirmer votre identité lorsque	vous	êtes	en	lig
 		- Il	peut	s’agir	d’un	élément physique et de quelque	chose	que	vous	savez.
 		- Citons	comme	exemple	les	carte intelligentes et	les	générateurs de	numéros	d’utilisateur	comme	SecurID	de	RSA	et	 Yubikey[^footnote1].
 		- Vous	devez	vous	identifier	de	deux	façons	avant	de	vous	connecter ou	d’utiliser	un	service.
-		
+
 			- 	Par 	exemple,	lorsque	vous	retirez	de	l’argent	d’un	guichet automatique, vous devez	insérer	votre	carte,	puis	entrer votre	NIP	(numéro	d’identification	personnel).
 			-  Sur	Internet,	votre	mot	de	passe est comme	votre	NIP.	Vous	seul	le connaissez. La méthode d’authentification	à	deux	facteurs	combine le mot de passe	à	un	autre	élément	qui	vous	est propre, comme un numéro	de	téléphone	ou	un	dispositif	que vous seul possédez.
-			
+
 
 		- Ainsi,	si	quelqu’un	veut	usurper	votre	identité,	il	doit	faire	de	même et entrer les	mêmes	renseignements.
-		
+
 
 
 	- Code SMS
@@ -60,13 +60,13 @@ Les	mots	de	passe	servent	à	confirmer votre identité lorsque	vous	êtes	en	lig
 	- Applications	d’authentification
 
 		- Les	applications	d’authentification agissent	de	la	même	façon	que les codes SMS. Toutefois,	le	code	ne	vous	est	pas	envoyé	:	il  est	plutôt généré	 directement	sur	votre	téléphone intelligent	ou	votre	tablette.
-	
-	
+
+
 - Mots de passe
 
 
 	- Actuellement,	les	mots	de	passe	sont la meilleure	option	pour	la	plupart des	méthodes	d’authentification sur	Internet[^footnote2].
-	
+
 		- On appelle parfois les mots de passe des **_phrases de passe_**.
 
 			- Les	phrases	de	passe	sont	simplement	plus	longues	que	les	mots
@@ -99,7 +99,7 @@ mot	de	passe;
 épaule	ou	à	l’aide	d’un	logiciel	espion;
 
 		- devinant	votre	mot	de	passe	au	moyen	d’un	logiciel	automatisé;
-		
+
 		- réutilisant des noms d’utilisateur et des mots passe usurpés pour un	autre	service.
 
 
@@ -127,7 +127,7 @@ aucune	donnée	financière).
 
 
 		- Vous	pouvez	inscrire	vos	mots	de	passe	sur	papier	à	la	maison.
-		
+
 			- En	consignant	vos	mots	de	passe	et	en	les	conservant	dans	un	endroit	sûr, vous	vous	donnez	de	fortes	chances	de	les	protéger	de	la	plupart
 des	moyens	habituellement	utilisés	pour	les	subtiliser.
 
@@ -290,9 +290,9 @@ La	méthode	Diceware	consiste	à	créer un mot	de	passe	aléatoire,	unique,	long
 	- La	phrase	ainsi	obtenue	est	difficile	à	deviner,	car	elle	ne	suit	aucune règle	grammaticale	ou	syntaxique.
 	- La	liste	Diceware	associe	des	mots	à	des	nombres.	En	voici	un	extrait :
 
- 
+
  <!--This table is not being used because Markdown do not handle merging cells properly.-|-
------|:------	
+-----|:------
 16655 clause|16656 claw
 16661 clay|16662 clean
 16663 clear|16664 cleat
@@ -304,80 +304,67 @@ La	méthode	Diceware	consiste	à	créer un mot	de	passe	aléatoire,	unique,	long
 21123 clio|21124 clip
 21125 clive|21126 cloak
 21131 clock|--->
- 
+
  <table>
- 
  	<tr>
  		<td>16655	clause </td>
  		<td>16656	claw </td>
  	</tr>
- 	
  	<tr>
  		<td>16661	clay </td>
  		<td>16662 clean </td>
  	</tr>
- 	
  	<tr>
  		<td>16663 clear </td>
  		<td>16664	cleat </td>
  	</tr>
- 	
  	<tr>
  		<td>16665	cleft </td>
  		<td>16666	clerk </td>
  	</tr>
- 	
  	<tr>
  		<td>21111 cliche </td>
  		<td>21112	click </td>
  	</tr>
- 	
  	<tr>
  		<td>21113	cliff </td>
  		<td>21114	climb </td>
  	</tr>
- 	
  	<tr>
  		<td>21115	clime </td>
  		<td>21116	cling </td>
  	</tr>
- 	
  	<tr>
  		<td>21121	clink </td>
  		<td>21122 clint </td>
  	</tr>
- 	
  	<tr>
  		<td>21123 clio </td>
  		<td>21124	clip </td>
  	</tr>
- 	
  	<tr>
  		<td>21125	clive </td>
  		<td>21126	cloak </td>
  	</tr>
- 	
  	<tr>
  		<td>21131	clock </td>
- 		
  	</tr>
- 
  </table>
- 
+
 
 
    - Pour	utiliser	la	méthode	Diceware :
 
      - Téléchargez,	puis	sauvegardez	la	liste	Diceware[^footnote4] ou la liste Beale[^footnote5]. Imprimez-la	au	besoin.
-     
+
      - Déterminez	le	nombre	de	mots	qui	figureront	dans	la	phrase	de	passe (quatre,	cinq,	six	ou	plus).	Plus	il	y	a	de	mots,	meilleure	est	la	phrase.
-     
+
      - Lancez	le	dé,	puis	notez	le	résultat. Écrivez	les	chiffres	en	groupe	de	cinq.
-     		
+
      		- Faites	autant	de	groupes	que	le	nombre	de	mots	voulu.
-        	
+
         	- Lancez	un	dé	à	la	fois	ou	cinq	dés	d’un	coup,	peu	importe.
-        	
+
         	- Si	cinq	dés	sont	lancés	en	même	temps,	notez	les	chiffres	de	gauche
 à	droite.
 
@@ -421,16 +408,16 @@ Les	gestionnaires	de	mots	de	passe	sont des programmes informatiques	qui	servent
 
 - Comme	toujours,	procurez-vous	ces	applications sur	des	sites	dignes	de	confiance	comme ceux	des	fournisseurs	connus,	l’iTunes	Store	ou	Google	Play	pour	éviter	de	télécharger	des logiciels	inefficaces	ou	des	programmes malveillants. Certaines	banques	et	institutions financières pourraient considérer	que	l’utilisation	de	gestionnaires de mots de passe	équivaut à inscrire son mot de passe sur papier et contribue à une utilisation non autorisée de leur système. Validez	auprès	de	votre	institution	avant d’utiliser un gestionnaire	de	mots	de	passe.
 
- 
+
 
 - Les	gestionnaires	de	mots	de	passe	ne	sont	pas	très	mobiles.
 
-	- Il	se	pourrait	que	vous	n’y	ayez	pas	accès	sur	un	appareil	alors	que	vous	en	avez	besoin. Le	cas	échéant,	vous	devrez	tenter	de	 vous	souvenir	du	mot	de	passe	en	question	ou d’attendre	pour	vous	connecter. 
-	
+	- Il	se	pourrait	que	vous	n’y	ayez	pas	accès	sur	un	appareil	alors	que	vous	en	avez	besoin. Le	cas	échéant,	vous	devrez	tenter	de	 vous	souvenir	du	mot	de	passe	en	question	ou d’attendre	pour	vous	connecter.
+
 	- Il	y	a	cependant	une	solution	à	ce	problème : les	gestionnaires	de	mots	de	passeninfonuagiques.
-	
+
 		- Ils	sont	plus	accessibles.
-		
+
 		- Ils	sont	moins	sécuritaires,	vu	que	les	mots	de	passe	sont	stockés	dans	le	nuage.
 
 #### 4.3 En pratique
