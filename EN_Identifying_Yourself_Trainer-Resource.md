@@ -335,45 +335,36 @@ and grammar rules.
 	  <td>16663 clear </td>
 		<td>16664	cleat </td>
 	</tr>
-
- 	<tr>
- 		<td>16665	cleft </td>
- 		<td>16666	clerk </td>
+	<tr>
+	  <td>16665	cleft </td>
+		<td>16666	clerk </td>
  	</tr>
-
  	<tr>
  		<td>21111 cliche </td>
  		<td>21112	click </td>
  	</tr>
-
  	<tr>
  		<td>21113	cliff </td>
  		<td>21114	climb </td>
  	</tr>
-
  	<tr>
  		<td>21115	clime </td>
  		<td>21116	cling </td>
  	</tr>
-
  	<tr>
  		<td>21121	clink </td>
  		<td>21122 clint </td>
  	</tr>
-
  	<tr>
  		<td>21123 clio </td>
  		<td>21124	clip </td>
  	</tr>
-
  	<tr>
  		<td>21125	clive </td>
  		<td>21126	cloak </td>
  	</tr>
-
  	<tr>
  		<td>21131	clock </td>
-
  	</tr>
  </table>
 
