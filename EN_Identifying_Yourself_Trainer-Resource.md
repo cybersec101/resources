@@ -325,10 +325,10 @@ and grammar rules.
 
 
 <table>
- 	<tr>
- 		<td>16655	clause </td>
+  <tr>
+	  <td>16655	clause </td>
  		<td>16656	claw </td>
- 	</tr>
+	</tr>
 
  	<tr>
  		<td>16661	clay </td>
