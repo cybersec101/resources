@@ -308,21 +308,33 @@ and grammar rules.
 
 	- The Diceware list is a list of numbers and words. Here is a short excerpt:
 
+<!--This table is not being used because Markdown do not handle merging cells properly.-|-
+-----|:------
+16655 clause|16656 claw
+16661 clay|16662 clean
+16663 clear|16664 cleat
+16665 cleft|16666 clerk
+21111 cliche|21112 click
+21113 cliff|21114 climb
+21115 clime|21116 cling
+21121 clink|21122 clint
+21123 clio|21124 clip
+21125 clive|21126 cloak
+21131 clock|- -->
+
 <table>
   <tr>
 	  <td>16655	clause </td>
  		<td>16656	claw </td>
 	</tr>
-
- 	<tr>
- 		<td>16661	clay </td>
- 		<td>16662 clean </td>
+	<tr>
+	  <td>16661	clay </td>
+		<td>16662 clean </td>
  	</tr>
-
- 	<tr>
- 		<td>16663 clear </td>
- 		<td>16664	cleat </td>
- 	</tr>
+	<tr>
+	  <td>16663 clear </td>
+		<td>16664	cleat </td>
+	</tr>
 
  	<tr>
  		<td>16665	cleft </td>
