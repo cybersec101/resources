@@ -367,12 +367,8 @@ La	méthode	Diceware	consiste	à	créer un mot	de	passe	aléatoire,	unique,	long
 
       - Si	cinq	dés	sont	lancés	en	même	temps,	notez	les	chiffres	de	gauche à	droite.
 
-
 		- Recherchez	chaque	suite	de	cinq	chiffres dans la liste Diceware,	puis	notez les	mots qui y	sont associés. Par exemple,	la	combinaison 21124 donnera	le mot clip (voir la liste	ci-dessus).
 		- Les	mots	ainsi	trouvés	formeront	la phrase de passe.
-
-
-
 	- Certaines personnes tentent de faire des liens entre les mots de la phrase pour la	mémoriser	plus	facilement.
 	- Il	n’y 	a	aucun	risque	à	consigner	la	phrase	de	passe	et	à	la	conserver	dans un	endroit	sûr[^footnote6].
 		- Exemples	de	phrases	de	passe	générées	par	la	méthode	Diceware	:
