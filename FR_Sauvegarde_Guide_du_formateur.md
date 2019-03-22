@@ -32,18 +32,18 @@ où	quelque	chose	arriverait	aux	fichiers originaux.
 
 #### 1.2 En détail
 
-	
+
 - Il	y	a	deux	processus	possibles :	l’archivage	et	la	sauvegarde.	L’archivage	consiste
 à	déplacer	les	fichiers	vers	un	emplacement	de	stockage,	alors	que	la	sauvegarde
 consiste à en faire une copie.
 
-	
+
 
 
 - Le	processus	est	plus	important	que	le	support.	Idéalement,	vous	devriez	avoir	un	lecteur
 pour	la	sauvegarde	et	un	autre	pour	l’archivage,	mais	les	deux	peuvent	être	du	même	type.
 
-	
+
 
 
 - Une sauvegarde est une copie	de	l’information	enregistrée	sur	un	ordinateur,	une	tablette
@@ -57,7 +57,7 @@ ou un téléphone.
 	- Il	s’agit	d’un	processus	très	régulier;	vous	pouvez	donc	avoir	de	nombreuses	copies.
 	- Il	existe	des	logiciels	qui	le	font	pour	vous.
 
-	
+
 
 
 - L’archivage consiste à déplacer	les	fichiers	vers	un	endroit	sûr	et,	donc,	à	les	retirer
@@ -68,7 +68,7 @@ de l’ordinateur.
 	- Pour 	consulter	le	document,	il	faut	d’abord	le	récupérer.
 	- Il	s’agit	d’un	processus	occasionnel,	souvent	réalisé	manuellement	(copie	et	suppression).
 
-	
+
 
 - Il	est	de	plus	en	plus	important	de	sauvegarder	les	données	d’ordinateur,	car	les	gens	n’en
 ont souvent aucune autre copie.
@@ -110,7 +110,7 @@ risque	de	perte	ou	de	vol 	de	données.
 
 #### 2.2 En détail
 
-	
+
 - Choisissez	les	fichiers	à	archiver.
 
 	- Privilégiez	les	fichiers	uniques	et	de	grande	valeur 	à	ceux	qui	existent	ailleurs	ou	qui	sont
@@ -148,12 +148,12 @@ et	même	utiliser	le	micro,	la	caméra	et	les	haut-parleurs	de	l’ordinateur.
 
 		- Les	fichiers	archivés	ne	sont	pas	exposés	à	de	tels	programmes	malveillants.
 
-	
+
 
 
 - L’archivage	vous	protège	des	conséquences	des	logiciels	de	rançon.
 
-	- Les	logiciels	de	rançon	sont	un	type	de	logiciel	malveillant	qui	verrouille	l’ordinateur	ou	
+	- Les	logiciels	de	rançon	sont	un	type	de	logiciel	malveillant	qui	verrouille	l’ordinateur	ou
 chiffre	des	données.	Le	logiciel	demande	ensuite	le	paiement	d’une	rançon	en	échange
 d’une	clé	pour	regagner	accès	aux	données	ou	à	l‘appareil.	Certains	logiciels	de	rançon
 s’attaquent	même	aux	disques	de	sauvegarde.	L’archivage	offre	une	alternative	au
@@ -210,13 +210,13 @@ Si	 votre	 ordinateur	comprend	un	 disque	 dur	de	 256 Go,	 l’idéal	serait	 
 à magasiner (ils sont généralement situés sur les côtés de votre ordinateur	portable	ou	derrière	votre	ordinateur	de	bureau).
 
 
-				- Le port USB est la meilleure option pour la plupart des ordinateurs. 
-				- Un	port	USB	est	généralement	identifié	par	ce	symbole: ![alt text](tbd.png)
+				- Le port USB est la meilleure option pour la plupart des ordinateurs.
+				- Un	port	USB	est	généralement	identifié	par	ce	symbole: ![Image n'est pas disponible](/images/FR_Sauvegarde_01.png)
 				- Les ports USB sont rectangulaires et font un peu plus d’un centimètre (environ ½ pouce) de large.
-					- USB 3.0 ![alt text](tbd.png)
-					- USB 2.0 ![alt text](tbd.png)
-					- Thunderbolt et USB 3![alt text](tbd.png)
-	
+					- USB 3.0 ![Image n'est pas disponible](/images/FR_Sauvegarde_02.png)
+					- USB 2.0 ![Image n'est pas disponible](/images/FR_Sauvegarde_03.png)
+					- Thunderbolt et USB 3![Image n'est pas disponible](/images/FR_Sauvegarde_04.png)
+
 
 				- Le	type	de	port	USB	importe	peu.	Un	lecteur	USB 3.0	transférera	les données	plus	rapidement	au	port USB	3.0,	mais	la	différence	de	vitesse
 ne	changera	pas	grand-chose	à	l’utilisation	du	disque	de	sauvegarde.
@@ -227,7 +227,7 @@ ne	changera	pas	grand-chose	à	l’utilisation	du	disque	de	sauvegarde.
 	 				- Les	disques	qui	utilisent	des	ports	Thunderbolt	sont
 généralement	plus	dispendieux	et	la	différence	de vitesse n’est pas vraiment un avantage.
 
-	
+
 
 
 - Vous pouvez sauvegarder vos données dans le nuage.
@@ -255,7 +255,7 @@ vous sauvegardez des données dans le nuage.
 		- Les	données	des	appareils	mobiles	peuvent	aussi	être	sauvegardées sur	un	ordinateur	configuré	à	cette	fin.
 			- L’application de synchronisation du téléphone et de l’ordinateur permet aussi de sauvegarder les données de l’appareil.
 
-	
+
 
 
 - Le	choix	du	support	de	sauvegarde	dépend	de	l’usage	de	l’appareil	ou	de	l’ordinateur.
@@ -280,7 +280,7 @@ La	sauvegarde	des	données	devrait	vous	préparer	à	affronter	deux	types	de	pro
 
 #### 4.2 En détail
 
-	
+
 - La	sauvegarde	des	données	devrait	vous	préparer	à	affronter	deux	types	de	problèmes	:
 
 	- Perte	ou	altération	des	fichiers	enregistrés	sur	l’ordinateur
@@ -298,23 +298,23 @@ La	sauvegarde	des	données	devrait	vous	préparer	à	affronter	deux	types	de	pro
 ou	qu’un	programme	malveillant	est	installé
 sur	l’ordinateur.	Un	tel	programme
 peut passer inaperçu pendant un certain temps et infecter tout le système.
-		
+
 		- La sauvegarde permet de restaurer le système dans un état antérieur.
 
-	
+
 
 
 - Garder 	une	série	de	sauvegardes	représentant	l’état	de	fonctionnement	du	système
 à	différentes	dates	permet	de	restaurer	le	système	selon	la	date	choisie.
 
-	
+
 
 
 - Prévoir un système d’archivage distinct est une autre solution intéressante en cas	de	défaillance	informatique	touchant	tout	le	système,	y	compris	les	supports de sauvegarde connectés.
 
 	- Ces	archivages	sont	généralement	manuels	et	moins	fréquents.
 
-	
+
 
 
 - Il	vous	faut	donc	deux	disques	externes	:
@@ -324,7 +324,7 @@ peut passer inaperçu pendant un certain temps et infecter tout le système.
 	- un	archivage	périodique	hors	ligne	sur	un	support	non	connecté	à	l’appareil
 en permanence (pour éviter la corruption des données).
 
-	
+
 
 
 - Un	plan	écrit	formel	pour	ces	sauvegardes	comprend	:
@@ -348,7 +348,7 @@ une	fonction	de	sauvegarde	automatique.
 
 #### 5.2 En détail
 
-	
+
 
 
 - Les	systèmes	de	sauvegarde	de	Windows	et	d’Apple	sont	différents.
@@ -359,29 +359,29 @@ une	fonction	de	sauvegarde	automatique.
 
 			- Si	 Time	Machine	ne	vous	demande	pas	de	choisir	un	disque	de	sauvegarde	:
 
-				- Ouvrez les **_préférences Time Machine_** 	en	cliquant	sur	l’icône ![alt text](tbd.png)	 dans la	barre	des	menus,	ou	sélectionnez	 **_Menu Apple > Préférences Système_** , puis	cliquez	sur **_Time Machine_**.
+				- Ouvrez les **_préférences Time Machine_** 	en	cliquant	sur	l’icône ![Image n'est pas disponible](/images/FR_Sauvegarde_05.png)	 dans la	barre	des	menus,	ou	sélectionnez	 **_Menu Apple > Préférences Système_** , puis	cliquez	sur **_Time Machine_**.
 
 
 				- Cliquez	sur	Choisir	un	disque	de	sauvegarde.
 				- Sélectionnez	un	disque	dur	externe,	une	borne	d’accès	 **_Time Capsule_** ou
 un	support	de	stockage	dans	la	liste,	puis	cliquez	sur **_Utiliser le disque_**.
-				- Une	fois	le	disque	sélectionné,	vous	pouvez	cliquer	sur	 **_Ajouter ou supprimer le disque de sauvegarde_** pour accroître la sécurité et la commodité	en	ajoutant	des	supports	supplémentaires. ![alt text](tbd.png "Optional Title")
+				- Une	fois	le	disque	sélectionné,	vous	pouvez	cliquer	sur	 **_Ajouter ou supprimer le disque de sauvegarde_** pour accroître la sécurité et la commodité	en	ajoutant	des	supports	supplémentaires. ![Image n'est pas disponible](/images/FR_Sauvegarde_06.png "Sauvegarde	avec	Time	Machine")
 
 
 
 			- Sauvegarde	avec	Time	Machine
-			
+
 				- Une	fois	configuré,	Time	Machine	sauvegardera	automatiquement les	données	des	24 dernières	heures	toutes	les	heures,	les	données du	mois	précédent	tous	les	jours,	et	les	données	des	mois	antérieurs toutes	les	semaines.	Lorsque	le	disque	est	saturé,	les	sauvegardes	les plus anciennes sont supprimées.
-				
+
 				- Pour sauvegarder immédiatement les données au lieu d’attendre la	prochaine	sauvegarde	automatique,	choisissez	 **_Sauvegarder maintenant_** dans le **_menu Time Machine_**.
-				
+
 				- Pour 	mettre	fin	aux	sauvegardes	automatiques,	désactivez	 **_Time Machine_** dans les **_préférences_** .	Vous	pourrez	toujours	sauvegarder vos données manuellement en sélectionnant **_Sauvegarder maintenant_** dans le menu **_Time Machine_**.
-				
+
 				- Pour 	mettre	une	sauvegarde	en	pause,	sélectionnez	 **_Arrêter la sauvegarde_** dans le **_menu Time Machine_** .	Pour	la	reprendre, choisissez **_Sauvegarder maintenant_**.
-				- Pour 	vérifier 	l’état	de	la	sauvegarde,	consultez	le	 **_menu Time Machine_**. L’icône ![alt text](tbd.png)	s’affiche	lorsqu’une	sauvegarde	est	en	cours.	L’icône ![alt text](tbd.png) s’affiche	lorsqu’aucune	sauvegarde	n’est	prévue	avant	la	prochaine sauvegarde	automatique	ou	lorsque	la	sauvegarde	est	impossible.
-				
-				- Pour 	exclure	des	éléments	de	la	sauvegarde,	ouvrez	les	 **_préférences Time Machine_** dans le **_menu Time Machine_** , cliquez	sur **_Options_** ,	puis	sur l’icône ![alt text](tbd.png)	et	sélectionnez l’élément	en	question.
-				- _Image :_ ![alt text](tbd.png)
+				- Pour 	vérifier 	l’état	de	la	sauvegarde,	consultez	le	 **_menu Time Machine_**. L’icône ![Image n'est pas disponible](/images/FR_Sauvegarde_07.png)	s’affiche	lorsqu’une	sauvegarde	est	en	cours.	L’icône ![Image n'est pas disponible](/images/FR_Sauvegarde_08.png) s’affiche	lorsqu’aucune	sauvegarde	n’est	prévue	avant	la	prochaine sauvegarde	automatique	ou	lorsque	la	sauvegarde	est	impossible.
+
+				- Pour 	exclure	des	éléments	de	la	sauvegarde,	ouvrez	les	 **_préférences Time Machine_** dans le **_menu Time Machine_** , cliquez	sur **_Options_** ,	puis	sur l’icône ![Image n'est pas disponible](/images/FR_Sauvegarde_09.png)	et	sélectionnez l’élément	en	question.
+				- _Image :_ ![Image n'est pas disponible](/images/FR_Sauvegarde_10.png)
 
 
 			- La	première	sauvegarde	peut prendre	un	certain	temps,	selon	le	nombre de	fichiers	que	vous	avez.
@@ -394,7 +394,7 @@ un	support	de	stockage	dans	la	liste,	puis	cliquez	sur **_Utiliser le disque_**.
 sauvegarde	précédente,	ce	qui	accélère	les	sauvegardes	subséquentes [Note 2](#note-2) [Note 3](#note-3).
 
 
- 
+
 
 
 		- Les	ordinateurs	fonctionnant	sous	Windows	ont	une	fonction	appelée «	 Historique	des	fichiers	»	et	une	fonction	distincte	pour	la	restauration du système.
@@ -406,11 +406,11 @@ chaque	 version	de	Windows	est	légèrement	différente.	Dans	Windows 7,
 l’historique	des	fichiers	se	nomme	«	Sauvegarde	».
 
 			- Windows 10
-				
+
 				- Configuration	de	la	sauvegarde
-					
-					- Cliquez	sur	le	 **_bouton Démarrer_** ![alt text](tbd.png), puis	sélectionnez **_Paramètres > Mise à jour et sécurité > Sauvegarde > Ajouter un lecteur_** ,	et	choisissez un	disque	dur	externe	ou	un	emplacement réseau pour vos sauvegardes.
-					
+
+					- Cliquez	sur	le	 **_bouton Démarrer_** ![Image n'est pas disponible](/images/FR_Sauvegarde_11.png), puis	sélectionnez **_Paramètres > Mise à jour et sécurité > Sauvegarde > Ajouter un lecteur_** ,	et	choisissez un	disque	dur	externe	ou	un	emplacement réseau pour vos sauvegardes.
+
 					- Toutes	les	heures,	Windows	sauvegardera	le	contenu	de	votre dossier	utilisateur	(C:\Users\username).	Pour	modifier	les	fichiers que	 vous	 voulez	sauvegarder	ou	la	fréquence	des	sauvegardes, rendez-vous dans Plus d’options [Note 4](#note-4).
 
 
@@ -422,9 +422,9 @@ vers l’un de ces répertoires.
 
 
 				- Configuration	d’un	lecteur	pour	l’historique	des	fichiers
-				 
+
 					- Si	 vous	utilisez	un	nouveau	lecteur	externe,	branchez-le	sur votre ordinateur.
-				
+
 					- Si	on	 vous	invite	à	configurer	le	lecteur	pour	l’Historique	des fichiers,	acceptez	et	activez	l’option	dans	l’écran	qui	apparaît.
 
 
@@ -441,42 +441,42 @@ cliquez	sur	Rechercher).
 l’emplacement	réseau	ou	le	lecteur	externe	que	vous	 voulez utiliser.
 
 						- Activez	l’Historique	des	fichiers [Note 5](#note-5).
-						
-						- _Image :_ ![alt text](tbd.png "Optional Title")
+
+						- _Image :_ ![Image n'est pas disponible](/images/FR_Sauvegarde_12.png "Sauvegarde	avec	Windows")
 
 
 
 
 
 			- Windows	7
-			
+
 				- Création d’une nouvelle sauvegarde complète
-					
+
 					- Une	fois	la	première	sauvegarde	créée,	Windows	ajoutera	les informations	nouvelles	ou	modifiées	aux	sauvegardes	suivantes.
-					- Si	 vous	sauvegardez	vos	données	sur	un	disque	dur	ou	dans un	emplacement	réseau,	Windows	créera automatiquement une	nouvelle	sauvegarde	complète	au	besoin. 
+					- Si	 vous	sauvegardez	vos	données	sur	un	disque	dur	ou	dans un	emplacement	réseau,	Windows	créera automatiquement une	nouvelle	sauvegarde	complète	au	besoin.
 					- Si	 vous	sauvegardez	vos	données	sur	un	CD	ou	un	DVD	et	que vous	n’arrivez	pas	à	trouver	un	disque	de	sauvegarde,	ou	si	vous voulez	créer	une	nouvelle	sauvegarde	de	tous	les	fichiers	de l’ordinateur,	vous	pouvez	créer	une	sauvegarde	complète.
 
 
 
 
 				- Création d’une sauvegarde complète
-				
-					- Pour ouvrir **_Sauvegarde et Restauration_** ,	cliquez	sur	le	bouton **_Démarrer_** ![alt text](tbd.png) 	,	puis	sur **_Panneau de configuration_** ,	sur **_Système et maintenance_** ,	et	sur **_Sauvegarder et restaurer_**. 
-					
+
+					- Pour ouvrir **_Sauvegarde et Restauration_** ,	cliquez	sur	le	bouton **_Démarrer_** ![Image n'est pas disponible](/images/FR_Sauvegarde_13.png) 	,	puis	sur **_Panneau de configuration_** ,	sur **_Système et maintenance_** ,	et	sur **_Sauvegarder et restaurer_**.
+
 					- Dans	le	 volet	gauche,	cliquez	sur **_Créer une nouvelle sauvegarde complète_**.
 
 
 
 
 				- Sauvegarde	des	fichiers
-				
-					- Pour ouvrir **_Sauvegarde et Restauration_** ,	cliquez	sur	le	bouton Démarrer ![alt text](tbd.png) 	,	puis	sur	Panneau	de	configuration,	sur	Système	e maintenance,	et	sur	Sauvegarder	et	restaurer.
-				
+
+					- Pour ouvrir **_Sauvegarde et Restauration_** ,	cliquez	sur	le	bouton Démarrer ![Image n'est pas disponible](/images/FR_Sauvegarde_14.png) 	,	puis	sur	Panneau	de	configuration,	sur	Système	e maintenance,	et	sur	Sauvegarder	et	restaurer.
+
 					- Procédez	ensuite	à	l’une	des	opérations	suivantes	:
-				
+
 						- Si	 vous	n’avez	jamais	utilisé	la	sauvegarde	Windows,	cliquez
 sur **_Configurer la sauvegarde_** ,	puis	suivez	les	étapes	de
-l’assistant. ![alt text](tbd.png) Entrez le mot de passe administrateur ou la
+l’assistant. ![Image n'est pas disponible](/images/FR_Sauvegarde_15.png) Entrez le mot de passe administrateur ou la
 confirmation	si	on	vous	les	demande.
 
 
@@ -484,7 +484,7 @@ confirmation	si	on	vous	les	demande.
 
 						- Si	 vous	avez	déjà	créé	une	sauvegarde,	vous	pouvez	attendre
 la sauvegarde programmée ou en créer une nouvelle
-manuellement	en	cliquant	sur **_Sauvegarder maintenant_** ![alt text](tbd.png).
+manuellement	en	cliquant	sur **_Sauvegarder maintenant_** ![Image n'est pas disponible](/images/FR_Sauvegarde_16.png).
 Entrez	le	mot	de	passe	administrateur	ou	la	confirmation	si	on
 vous les demande [Note 6](#note-6).
 
@@ -503,7 +503,7 @@ Vous	pouvez	restaurer	un	fichier	seul	ou	le	système	en	entier	à	partir 	d’un
 
 #### 6.2 En détail
 
-	
+
 
 
 - Apple
@@ -513,7 +513,7 @@ Vous	pouvez	restaurer	un	fichier	seul	ou	le	système	en	entier	à	partir 	d’un
 		- Pour 	restaurer	des	fichiers	spécifiques :
 
 
-		- Choisissez **_Entrer_** dans le menu **_Time Machine_** ![alt text](tbd.png) 	ou	cliquez	sur Time Machine dans	le	Dock.
+		- Choisissez **_Entrer_** dans le menu **_Time Machine_** ![Image n'est pas disponible](/images/FR_Sauvegarde_17.png) 	ou	cliquez	sur Time Machine dans	le	Dock.
 
 		- Pour 	trouver 	les	fichiers	à	restaurer	:
 
@@ -538,14 +538,14 @@ un	aperçu	et	vérifier 	qu’il	s’agit	bien	de	celui	que	vous	cherchiez.
 
 
 
-	- _Image_: ![alt text](tbd.png "Optional Title")
+	- _Image_: ![Image n'est pas disponible](/images/FR_Sauvegarde_18.png "Restaurer	un	système	Apple")
 
 
-	- Windows	
+	- Windows
 
 
 		- Restauration	de	fichiers	ou	de	dossiers
-	
+
 			- Balayez	 vers	la	gauche	à	partir	du	bord	droit	de	l’écran,	puis	appuyez	sur **_Rechercher_** .	(Si	vous	utilisez	une	souris,	pointez	le	coin	supérieur	droit	de	l’écran,
 puis	glissez	vers	le	bas	et	cliquez	sur **_Rechercher_** ),	entrez	 **_Restaurer vos fichiers_**
 dans	le	champ	de	recherche,	puis	sélectionnez	 **_Restaurer vos fichiers à l’aide de
@@ -567,11 +567,11 @@ différent,	tenez	le	bouton	 **_Restaurer_** 	enfoncé	ou	faites	un	clic	droit	d
 
 
 		- Restauration	de	l’ordinateur	à	une	date	précise
-		
+
 			- Balayez	 vers	la	gauche	à	partir	du	bord	droit	de	l’écran,	puis	sélectionnez **_Rechercher_** 	(si	vous	utilisez	une	souris,	pointez	le	coin	supérieur	droit	de l’écran,	puis	glissez	vers	le	bas	et	cliquez	sur **_Rechercher_** ).
-			
+
 			- Entrez **_Panneau de configuration_** 	dans	le	champ	de	recherche,	puis	sélectionnez **_Panneau de configuration_**.
-		
+
 			- Entrez **_Restauration_** 	dans	le	champ	de	recherche	du	panneau	de	configuration, puis sélectionnez **_Restauration_**.
 
 
@@ -601,32 +601,32 @@ Thunderbolt|Connexion	haute	vitesse	permettant	de relier plusieurs périphériqu
 Time Machine|Service de sauvegarde d’Apple. Les données peuvent être sauvegardées	sur	un	disque	dur	externe	connecté à l’appareil par fil	ou	par 	Wi-Fi	aux	bornes	AirPort	Extreme ou AirPort Time Capsule d’Apple.
 USB|Bus	série	universel	permettant	la	connexion de pratiquement n’importe	quel	périphérique	et	le	transfert de données et d’électricité	par	un	câble	court.
 
-##### Note 1 
+##### Note 1
  [Which cloud storage service is best for your needs?](https://www.consumerreports.org/cro/2013/11/cloud-storage-services-comparison/index.htm)
 
-##### Note 2 
+##### Note 2
  [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
 
-##### Note 3 
+##### Note 3
  [Back up your Mac with Time Machine](https://support.apple.com/en-us/HT201250)
 
-##### Note 4 
+##### Note 4
  [Sauvegarder et restaurer vos fichiers](https://support.microsoft.com/fr-fr/help/17143/windows-10-back-up-your-files)
 
-##### Note 5 
+##### Note 5
  [Historique des fichiers dans Windows](https://support.microsoft.com/fr-fr/help/17128/windows-8-file-history)
 
-##### Note 6 
+##### Note 6
  [Sauvegarder et restaurer votre PC](https://support.microsoft.com/fr-fr/help/17127/windows-back-up-restore#1TC=windows-7)
 
-##### Note 7 
+##### Note 7
  [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
 
-##### Note 9 
+##### Note 9
  [Historique des fichiers dans Windows](https://support.microsoft.com/fr-fr/help/17128/windows-8-file-history)
 
-##### Note 8 
+##### Note 8
  [À propos de la fonctionnalité de récupération de macOS](https://support.apple.com/fr-ca/HT201314)
 
-##### Note 10 
+##### Note 10
  [Actualisation, réinitialisation ou restauration de votre PC](https://support.microsoft.com/fr-fr/help/17085/windows-8-restore-refresh-reset-pc)
