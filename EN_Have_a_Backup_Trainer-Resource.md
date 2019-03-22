@@ -107,7 +107,7 @@ even access the computer’s microphone, camera and speaker.
 	- Files that are archived will not be accessible to such malware.
 
 - Archiving protects you against the impact of Ransomware.
-	
+
 	- Ransomware is a type of malware that locks your data and demands that you pay a ransom before a key is given to unlock it. Some ransomware will lock backups as well. An archive provides an alternative to paying or losing all of your data.
 
 #### 2.3 In Practice
@@ -140,7 +140,7 @@ a regular basis.
  		- The _capacity_ of the disk and the _reliability_ of the drive are more important.
 
 			- Reliability is not guaranteed on consumer grade disks; however, you should stick to well-established manufactures such as Western Digital or Seagate that offer warranties.
-	
+
 			- Choose a drive that has twice the capacity of the drive in your computer. If your computer disk is 256 Gb, a 500 Gb external disk is a good solution. This will allow the backup drive to hold:
 
 				- A full copy of the contents of your computer; and
@@ -155,27 +155,27 @@ a regular basis.
 
     			- A USB drive is the best option for most computers.
 				- A USB port on your computer will often be marked with this symbol:
-				
-				- Image :  ![alt text](tbd.png "Optional Title")
 
-				
-				
+				- Image :  ![Image Missing](EN_Have_a_Backup_01.png "Optional Title")
+
+
+
 				- USB ports are rectangular and are a little over a centimeter:
 (about ½ inch) wide.
 
 
-					-  USB 3.0 Ports ![alt text](tbd.png)
-					
-					-  USB 2.0 Ports ![alt text](tbd.png)
-					
-					-  Thunderbolt & USB 3.0 Ports![alt text](tbd.png)
-		
-		
+					-  USB 3.0 Ports ![Image Missing](EN_Have_a_Backup_02.png)
+
+					-  USB 2.0 Ports ![Image Missing](EN_Have_a_Backup_03.png)
+
+					-  Thunderbolt & USB 3.0 Ports![Image Missing](EN_Have_a_Backup_04.png)
+
+
 				- The standard of USB is not of great importance either. A USB 3.0 disk
 will provide faster data transfer when connected to a USB 3.0 port,
 but the difference in speed will not make a practical difference to the
 operation of a backup.
-		
+
 				- You may use a Thunderbolt connection for a Mac computer.
 					- Drives using Thunderbolt connections are generally more
     expensive and the difference in connection speed is no
@@ -187,7 +187,7 @@ operation of a backup.
 	- A cloud service provides storage space on a server in another location on the Internet.
 	- Drop Box, Google Drive and Apple iCloud are a few examples of Cloud Service Providers.
     Other examples can be found in the Consumer Report[Note 1](#note-1) below.
-    
+
 
 
 
@@ -307,7 +307,7 @@ Windows and Apple computers both include a feature for automatic backups.
 
 
 
- 				- Open **_Time Machine_** preferences from the **_Time Machine menu_**  ![alt text](tbd.png) in the menu bar. Or choose **_Apple menu > System Preferences,_** then click **_Time Machine._**
+ 				- Open **_Time Machine_** preferences from the **_Time Machine menu_**  ![Image Missing](EN_Have_a_Backup_05.png) in the menu bar. Or choose **_Apple menu > System Preferences,_** then click **_Time Machine._**
 
 				- Click **_Select Backup Disk._**
 
@@ -315,8 +315,8 @@ Windows and Apple computers both include a feature for automatic backups.
 from the list, then click **_Use Disk._**
 
 				- After you choose a backup disk, optionally click **_Add_** or **_Remove Backup Disk_** to add more backup disks for extra security and convenience.   
-				
-				- Image : ![alt text](tbd.png "Optional Title") 
+
+				- Image : ![Image Missing](EN_Have_a_Backup_06.png "Optional Title")
 
 
 
@@ -327,7 +327,7 @@ from the list, then click **_Use Disk._**
 of the past 24 hours, daily backups for the past month, and weekly
 backups for all previous months. The oldest backups are deleted when
 your backup drive is full.
- 
+
 				- To back up now instead of waiting for the next automatic backup,
 choose **_Back Up Now_** from the Time Machine menu.
 
@@ -339,14 +339,14 @@ from the **_Time Machine menu._**
 To resume, choose **_Back Up Now._**
 
 				- To check the status of a backup, use the **_Time Machine menu._**
-The icon shows when Time Machine is backing up ![alt text](tbd.png) , whether it is idle
-until the next automatic backup ![alt text](tbd.png) , or unable to complete the backup.
+The icon shows when Time Machine is backing up ![Image Missing](EN_Have_a_Backup_07.png) , whether it is idle
+until the next automatic backup ![Image Missing](EN_Have_a_Backup_08.png) , or unable to complete the backup.
 
 - To exclude items from your backup, open **_Time Machine preferences_**
-from the Time machine menu, click **_Options,_** then click **_Add_** ![alt text](tbd.png)
+from the Time machine menu, click **_Options,_** then click **_Add_** ![Image Missing](EN_Have_a_Backup_09.png)
 and select the item to exclude.  
 
-- Image : ![alt text](tbd.png "Optional Title") 
+- Image : ![Image Missing](EN_Have_a_Backup_10.png "Optional Title")
 
 
 
@@ -365,19 +365,19 @@ system recovery.
 
 	- These are configured separately. Unfortunately all the versions of Windows
     are configured slightly differently. Windows 7 computers call File History ‘Backup’.
-		
+
 		- Windows 10
 
  			- Set up your backup.
 
-				- Select the Start button  ![alt text](tbd.png), then select **_Settings > Update &_**
+				- Select the Start button  ![Image Missing](EN_Have_a_Backup_11.png), then select **_Settings > Update &_**
     **_Security > Backup > Add a drive_** , and choose an external drive or
     network location for your backups.
 
 				- Every hour, Windows backs up everything in your user folder
     (C:\Users\username). To change which files get backed up or how
     often backups happen, go to More options [Note 4](#note-4).
-    
+
 
 
 				- File History only backs up files in the Documents, Music, Pictures,
@@ -409,8 +409,8 @@ system recovery.
     drive you want to use.
 
 				- Turn on **_File History._** [Note 5](#note-5).
-				
-				- Image :L ![alt text](tbd.png) 
+
+				- Image :L ![Image Missing](EN_Have_a_Backup_12.png)
 
 
 
@@ -434,7 +434,7 @@ system recovery.
 
 			- To create a full backup:
 
-				- Open Backup and Restore by clicking the **_Start_** button ![alt text](tbd.png) ,
+				- Open Backup and Restore by clicking the **_Start_** button ![Image Missing](EN_Have_a_Backup_13.png) ,
     clicking **_Control Panel,_** clicking **_System and Maintenance,_** and then
     clicking **_Backup and Restore._**
 
@@ -444,7 +444,7 @@ system recovery.
 			- To back up your files:
 
 
-				- Open Backup and Restore by clicking the **_Start_** button ![alt text](tbd.png) ,
+				- Open Backup and Restore by clicking the **_Start_** button ![Image Missing](EN_Have_a_Backup_14.png) ,
     clicking **_Control Panel,_** clicking **_System and Maintenance,_** and then
     clicking **_Backup and Restore._**
 
@@ -452,18 +452,18 @@ system recovery.
 
 
 				- Do one of the following:
-   
+
    					- If you've never used Windows Backup before, click **_Set up_**
-       **_backup,_** then follow the steps in the wizard ![alt text](tbd.png). If you are
+       **_backup,_** then follow the steps in the wizard ![Image Missing](EN_Have_a_Backup_15.png). If you are
        prompted for an administrator password or confirmation, type
        the password or provide confirmation.
-    
+
 					- If you've created a backup before, you can wait for your
        regularly scheduled backup or manually create a new backup
-       by clicking **_Back up now_** ![alt text](tbd.png). If you are prompted for an
+       by clicking **_Back up now_** ![Image Missing](EN_Have_a_Backup_16.png). If you are prompted for an
        administrator password or confirmation, type the password or
        provide confirmation [Note 6](#note-6).
-       
+
 
 
 #### 5.3 In Practice
@@ -483,8 +483,8 @@ You can restore a single file or the complete system from your backup.
 	- Restore from a Time Machine backup:
 
 		- Restore specific files:
- 
-		- Choose from the Time Machine menu ![alt text](tbd.png) , or click **_Enter Time Machine_** in the Dock.
+
+		- Choose from the Time Machine menu ![Image Missing](EN_Have_a_Backup_17.png) , or click **_Enter Time Machine_** in the Dock.
  Find the files to restore:
 
 			- Use the timeline on the edge of the screen to see the files in your Time
@@ -504,9 +504,9 @@ other options [Note 7](#note-7).
 
 
 
-	- Recover an Apple system by holding down the command and R keys at start up with the backup drive connected [Note 8](#note-8). 
-	
-	- Image : ![alt text](tbd.png "Optional Title") 
+	- Recover an Apple system by holding down the command and R keys at start up with the backup drive connected [Note 8](#note-8).
+
+	- Image : ![Image Missing](EN_Have_a_Backup_18.png "Optional Title")
 
 
 
@@ -567,32 +567,32 @@ USB|A connection that allows for the connection of nearly any type of device and
 
 
 
-##### Note 1 
+##### Note 1
  [Which cloud storage service is best for your needs?](http://www.consumerreports.org/cro/2013/11/cloud-storage-services-comparison/index.htm)
 
-##### Note 2 
+##### Note 2
  [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
 
-##### Note 3 
- [Back up your Mac with Time Machine](https://support.apple.com/en-us/HT201250) 
+##### Note 3
+ [Back up your Mac with Time Machine](https://support.apple.com/en-us/HT201250)
 
-##### Note 4 
+##### Note 4
  [Back up and restore your files](https://support.microsoft.com/en-ca/help/17143/windows-10-back-up-your-files)
 
-##### Note 5 
+##### Note 5
  [File History in Windows](https://support.microsoft.com/en-ca/help/17128/windows-8-file-history)
 
-##### Note 6 
+##### Note 6
  [Back up and restore your PC](https://support.microsoft.com/en-ca/help/17127/windows-back-up-restore#1TC=windows-7)
 
-##### Note 7 
+##### Note 7
  [Back up your Mac with Time Machine](https://support.apple.com/en-ca/HT201250)
 
-##### Note 8 
+##### Note 8
  [About macOS Recovery](https://support.apple.com/en-ca/HT201314)
 
-##### Note 9 
+##### Note 9
  [File History in Windows](https://support.microsoft.com/en-ca/help/17128/windows-8-file-history)
 
-##### Note 10 
+##### Note 10
  [How to refresh, reset, or restore your PC](https://support.microsoft.com/en-ca/help/17085/windows-8-restore-refresh-reset-pc)
