@@ -1,4 +1,4 @@
-#Checking the mail
+# Checking the Mail
 
 
 This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
