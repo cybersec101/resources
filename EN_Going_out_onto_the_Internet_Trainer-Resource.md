@@ -148,7 +148,7 @@ phishing	sites,	or	serve	malware.
   <tr>
     <td>xample.com, example.com, xemple.com</td>
     <td>Misspelled address</td>
-    <td rowspan="3">WARNING:	Do	not	visit any of  these sites. Some are known	to	contain	malware.</td>
+    <td rowspan="3">:skull: WARNING:	Do	not	visit any of  these sites. Some are known	to	contain	malware.:skull:</td>
   </tr>
 
   <tr>
@@ -923,28 +923,28 @@ dangerous	website.
 
 		- A	number	of 	clues	on	this	page	show	that	it	is	dangerous.	Two	are	very	clear indicators	(1 & 2).	Two	are	less	clear	(3 & 4)	but	add	to	the	assessment.
 
-			*1*	 There	is	no	lock	icon	or	green	in	the	address	box.	This	tells	us	that	the	page	is not	using	a	secure	connection	and	that	there	is	no	certificate.	We	expect	that our	outlook.com	page	would	have	both.
+			_1_:	 There	is	no	lock	icon	or	green	in	the	address	box.	This	tells	us	that	the	page	is not	using	a	secure	connection	and	that	there	is	no	certificate.	We	expect	that our	outlook.com	page	would	have	both.
 
-			*2*	 The	domain	name	is	not	a	Microsoft	name.	“native-adventure.com”	is	not	a
+			_2_:	 The	domain	name	is	not	a	Microsoft	name.	“native-adventure.com”	is	not	a
 name	that	we	 would	expect	to	see.	This	indicates	that	this	page	is	probably	a fake	used	for	phishing.
 
-			*3*	 Threatening	language.	It	is	not	normal	for 	a	legitimate	business	to	threaten their	customers	with	account	deactivation.
+			_3_:	 Threatening	language.	It	is	not	normal	for 	a	legitimate	business	to	threaten their	customers	with	account	deactivation.
 
-			*4*	 Poor	grammar.	A	major	corporation	like	Microsoft	is	unlikely	to	publish	a	page with	poor	grammar.
+			_4_:	 Poor	grammar.	A	major	corporation	like	Microsoft	is	unlikely	to	publish	a	page with	poor	grammar.
 
 
 		- Some	indicators	on	this	page	provide	clues	that	the	page	is	legitimate:
 
 		- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_20.png "Image_title")
-			*1*	 A	green	lock	symbol.	This	indicates	a	secure	connection.
-			*2*	 A	certificate	belonging	to	the	organization	you	would	expect	to	own
+			_1_:	 A	green	lock	symbol.	This	indicates	a	secure	connection.
+			_2_:	 A	certificate	belonging	to	the	organization	you	would	expect	to	own
 this	website.
 
-			*3*	 The	domain	name	is	a	bit	odd.	However,	the	green	box	showing	ownership
+			_3_:	 The	domain	name	is	a	bit	odd.	However,	the	green	box	showing	ownership
 provides	reassurance.	(Live.com	is	a	brand	used	to	unify	a	number
 of 	Microsoft	services	to	assist	with	living;	such	as	Hotmail,	outlook,	and
 MSN	Messenger).
-			*4* 	Note,	the	lack	of	grammar	errors	or	threatening	language.
+			_4_: 	Note,	the	lack	of	grammar	errors	or	threatening	language.
 
 		- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_21.png "Image_title")
 
