@@ -1,11 +1,11 @@
 #Comportement d’autrui
 
 
-_Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
+Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
 
 Les connaissances que l’apprenant doit avoir acquises au terme du module se trouvent dans la section « Objectifs d’apprentissage ».
 
-La section « Contexte et détail pour le formateur » contient quant à elle une description du contenu ainsi que des liens vers des références permettant au formateur d’en apprendre plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière. Par ailleurs, chaque élément de la section « Contexte et détail pour le formateur » vient étayer une partie du scénario._
+La section « Contexte et détail pour le formateur » contient quant à elle une description du contenu ainsi que des liens vers des références permettant au formateur d’en apprendre plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière. Par ailleurs, chaque élément de la section « Contexte et détail pour le formateur » vient étayer une partie du scénario.
 
 ### Objectifs d’apprentissage
 

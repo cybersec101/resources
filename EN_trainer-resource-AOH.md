@@ -1,11 +1,11 @@
 # Addressing Online Hate
 
 
-_This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
+This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
 
 The Learning Objectives summarize the knowledge that learners should have gained by the time they reach the end of the module.
 
-The Background and Detail for Trainer provides greater details on the content, and links to references. It will allow trainers to learn more about the topic so they can lead discussions or answer questions confidently without being limited to the classroom content. Each item in the Background supports a section in the Lesson Script._
+The Background and Detail for Trainer provides greater details on the content, and links to references. It will allow trainers to learn more about the topic so they can lead discussions or answer questions confidently without being limited to the classroom content. Each item in the Background supports a section in the Lesson Script.
 
 ### Learning objectives
 
