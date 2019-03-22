@@ -322,7 +322,7 @@ the	URL,	make	sure	you	have	the	right	location.
 		- The	phishing	filter	can	help	protect	you	from	phishing	attacks,	online	fraud	and fake	websites.
 
 
--  Internet Explorer address bar with phishing warning ![alt text](/images/EN_Going_out_onto_the_Internet_1.png "Image_title")
+-  Internet Explorer address bar with phishing warning ![alt text](/images/EN_Going_out_onto_the_Internet_01.png "Image_title")
 
 
 
@@ -331,7 +331,7 @@ the	URL,	make	sure	you	have	the	right	location.
 	- Protected	mode	can	help	protect	your	computer	from	websites	that	try	to	install malicious	software	or	to	save	files	on	your	computer	without	your	consent.
 
 
-- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_2.png "Image_title")
+- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_02.png "Image_title")
 
 - _Image tag : Protected Mode status indicator_
 
@@ -351,7 +351,7 @@ Internet	Explorer	now	supports	Extended	Validation	(EV)	certificates	to
 help	make	a	more	positive	identification	of	website	owners
 and	organizations.
 
-- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_3.png "Image_title")
+- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_03.png "Image_title")
 
 - _Image tag : Security Status Bar (right side of address bar)_
 
@@ -388,7 +388,7 @@ Green | The	certificate	uses	extended	validation.	This	means	that communication	
 		- If 	you	click	the	lock	icon,	you	will	see	a	dialog	box	saying	that	“Safari	is	using an	encrypted	connection	to	www.icloud.com.”	This	tells	you	the	connection is	secure.
 
 
- - Image : ![alt text](/images/EN_Going_out_onto_the_Internet_4.png "Image_title")
+ - Image : ![alt text](/images/EN_Going_out_onto_the_Internet_04.png "Image_title")
 
 
  - _Image tag : Connected to a legitimate site on Safari_
@@ -397,7 +397,7 @@ Green | The	certificate	uses	extended	validation.	This	means	that communication	
 	- If 	you	connect	to	a	website	that	isn’t	secure,	you	will	see	a	message that	says	“Safari	can’t	verify	the	identity	of 	the	website.”	If 	you	see	this message,	do	not	proceed	or	attempt	to	sign	in[Note 3](#note-3).
 
 
-	- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_5.png "Image_title")
+	- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_05.png "Image_title")
 
 	- _Image tag : An unverified site on Safari_
 
@@ -411,7 +411,7 @@ Green | The	certificate	uses	extended	validation.	This	means	that communication	
 enter	web	addresses;	called	the	“omnibox”	because	it	will	take	either	a	search
 or	a	 webpage	address.
 
- 	- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_6.png "Image_title")
+ 	- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_06.png "Image_title")
 
 
 	- Image tag : The 'omnibox' in Chrome
@@ -430,19 +430,19 @@ or	a	 webpage	address.
 			- This	space	will	display	the	status	of	the	connection	and	the	page certificate.	It	can	display	any	of 	the	following:
 
 
-	 			- Green	lock	icon ![alt text](/images/EN_Going_out_onto_the_Internet_7.png)
+	 			- Green	lock	icon ![alt text](/images/EN_Going_out_onto_the_Internet_07.png)
 
 					- The	site's	certificate	is	valid,	and	its	identity	has	been	verified by 	a	trusted	third-party.	Google	Chrome	has	established	a secure	connection	with	the	site	you're	viewing.
 
 
-	 			- Orange	exclamation	icon ![alt text](/images/EN_Going_out_onto_the_Internet_8.png)
+	 			- Orange	exclamation	icon ![alt text](/images/EN_Going_out_onto_the_Internet_08.png)
 
 					- The	site	has	not	provided	the	browser	with	a	certificate.	This	is
 normal	for 	regular	HTTP	sites	because	certificates	are	usually
 provided	only	if 	the	site	uses	encryption.
 
 
-	 			- Webpage icon ![alt text](/images/EN_Going_out_onto_the_Internet_9.png)
+	 			- Webpage icon ![alt text](/images/EN_Going_out_onto_the_Internet_09.png)
 
 					- Your	connection	to	the	site	is	not	encrypted.	This	is	normal	for
 regular	http	sites.
