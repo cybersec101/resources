@@ -226,7 +226,7 @@ Social	networks	allow	us	to	share	in	a public or semi-private way.	They	are	an	e
 				- These	can	lead	to	other	pages,	which	install	malware	and	can	spread to	 your	social	media	contacts,	such	as	by	disguising	a	“share”	or 	‘like’ button	as	an	“X”.
 
 
-Image : ![Hidden Clickbait](/images/EN_Behaving_Yourself_1.png "The box on the right contains a hidden button,as revealed in the image on the left, to share where the “X” is shown to trick the user into sharing the posting.")
+Image : ![Hidden Clickbait](images/EN_Checking_the_Mail_01.png "The box on the right contains a hidden button,as revealed in the image on the left, to share where the “X” is shown to trick the user into sharing the posting.")
 
 
 Figure 1 : [Analyzing a Facebook Clickbait Worm](https://blog.sucuri.net/2015/06/analyzing-a-facebook-clickbait-worm.html)
@@ -282,29 +282,29 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 	- Locate	the	icon	beside	the	date	of	publication	of	the	post.	It	will	be	a	globe,	two	silhouettes, a	lock	or	a	gear.	Click	on	this	icon	to	change	the	audience	who	can	see	the	post.
 
-		- Globe	=	Public ![Globe icon](/images/EN_Behaving_Yourself_2.png)
+		- Globe	=	Public ![Globe icon](images/EN_Checking_the_Mail_02.png)
 
 			- Everyone	on	Facebook	and	anyone	who	searches	for	you	on	Google	(unless searching	is	turned	off).
 
-		- Two	Silhouettes	=	Friends ![Friends icon](/images/EN_Behaving_Yourself_3.png)
+		- Two	Silhouettes	=	Friends ![Friends icon](images/EN_Checking_the_Mail_03.png)
 
 			- Only	those	in	your	friends’	list,	and	all	of 	their	friends	if	you	tagged	someone. You	may	sometimes	see	three	silhouettes,	which	signifies	“friends	of friends”	or 	one	full	silhouette	with	a	faint	one	behind	it	for	“friends	except acquaintances.”
 
-		- Lock	 =	Only	Me ![Me icon](/images/EN_Behaving_Yourself_4.png)
+		- Lock	 =	Only	Me ![Me icon](images/EN_Checking_the_Mail_04.png)
 
 			- Only	you	can	see	the	content.
 
-		- Gear = Custom ![customize icon](/images/EN_Behaving_Yourself_5.png)
+		- Gear = Custom ![customize icon](images/EN_Checking_the_Mail_05.png)
 
 			- Certain	custom	groups	(groups	made	on	Facebook	to	include	certain	people such	as	family,	school	or 	work	groups)	may	see	your	post.	Also,	individual people	on	Facebook	can	be	set	to	not	see	the	post,	even	if	they	are	in	your friends	list.
 
-			- Image : ![Set Visibility](/images/EN_Behaving_Yourself_6.png)
+			- Image : ![Set Visibility](images/EN_Checking_the_Mail_06.png)
 
 	- Although	the	profile	picture	posts	give	you	the	option	to	change	the	audience,	this is	exclusively	for 	the	“post”	itself,	not	for	the	visibility	of 	the	profile	picture.
 
 		- If 	you	want	to	change	the	visibility	of 	a	profile	picture,	you	must	go	to	the actual	photo.
 
-		- Image : ![Change Visibility](/images/EN_Behaving_Yourself_7.png)
+		- Image : ![Change Visibility](images/EN_Checking_the_Mail_07.png)
 
 - Keep	in	mind	that	your	current	profile	picture	and	cover	photos	are	public.
 
@@ -312,11 +312,11 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 	- Once	there	are	multiple	profile	pictures,	however,	these	can	be	set	to	different audiences.	Again,	the	first	and	current	profile picture	may	be	seen	by	anyone	as	a thumbnail,	no	matter	the	privacy	setting.	Cover	photos	and	their	posts	are	always public.
 
-	- Image : ![Profile Privacy Settings](/images/EN_Behaving_Yourself_8.png)
+	- Image : ![Profile Privacy Settings](images/EN_Checking_the_Mail_08.png)
 
 - To	rapidly	choose	those	who	should	see	posts,	go	to	the	“privacy	shortcut”	icon	in	the	top right-hand	corner	of 	their	profile.
 
-- Image : ![Profile Settings](/images/EN_Behaving_Yourself_9.png)
+- Image : ![Profile Settings](images/EN_Checking_the_Mail_09.png)
 
 	- There	are	three	options:
 
