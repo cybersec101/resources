@@ -109,7 +109,8 @@ d’Internet à des entreprises de marketing.
 vous devez donc la désélectionner manuellement [Note 1](#note-1).
 
 
-Image:![Alt Text](tbd.jpg "Optional Title")
+- ![Image n'est pas disponible](/images/FR_Un_ordinateur_en_bon_etat_01.png "Lisez attentivement les directives")
+- _Image : lire les directives pendant le processus d’installation pour voir l’option d’installer le logiciel secondaire_
 
 
 - Lisez attentivement les directives lorsque vous installez des applications.
@@ -129,7 +130,7 @@ d’interrompre l’installation.
 - Évaluez attentivement l’application avant de l’installer.
 
     - La vigilance aide à comprendre ce que vous installez et pourquoi vous le faites.
-    
+
     - Lorsque vous installez un logiciel, activez les mises à jour automatiques s’il y a lieu.
 
 #### 1.3 En pratique
@@ -183,9 +184,9 @@ assurent une plus grande sécurité à l’appareil.
                 - Activer toutes les options de mise à jour automatique.
 
                 - Il pourrait être nécessaire de cliquer sur le cadenas dans le coin inférieur gauche et d’entrer le mot de passe pour pouvoir appliquer les changements [Note 2](#note-2).
-                
-                
-                - Image : ![alt text](tbd.png)
+
+
+                - Image : ![Image n'est pas disponible](/images/FR_Un_ordinateur_en_bon_etat_02.png)
 
 
         - Windows
@@ -193,23 +194,25 @@ assurent une plus grande sécurité à l’appareil.
             - Windows 10
 
                 - Ouvrir __Windows Mise à jour__ en effectuant un balayage à partir du bord droit de l’écran ou, avec une souris, en faisant glisser le pointeur vers le haut à partir du coin inférieur droit de l’écran.
-                
+
                 - Sélectionner __Paramètres__ , __Modifier les paramètres du PC__ , puis Mise à jour et récupération . Ensuite, sélectionner __Choisir le mode d’installation des mises à jour__. Sous __Mises à jouR importantes__ , choisir l’option de mise à jour automatique.
 
                 - Sous __Mises à jour recommandées__ , cocher la case __Me communiquer les mises à jour recommandées de la même façon que je reçois les mises à jour importantes__.
 
                 - Sous __Microsoft Update__ , cocher la case __Me communiquer les mises à jour d’autres produits Microsoft lorsque je mets à jour Windows__ , puis appuyer ou cliquer sur Appliquer [Note 3](#note-3) .
-                
-                - Image : ![alt text](tbd.png) 
 
-            - Windows 8 
+                - ![Image n'est pas disponible](/images/FR_Un_ordinateur_en_bon_etat_03.png "Les mises à jour")
+                - _Image: les mises à jour_
+
+            - Windows 8
 
                 - Effectuer un balayage à parti du bord droit de l’écran, puis appuyer sur __Rechercher__ , ou, avec une souris, déplacer le pointeur dans le coin inférieur droit de l’écran, puis cliquer sur __Rechercher__.
 
 
                 - Taper __Windows Update__ dans le champ de recherche, puis accéder aux Paramètres . Sélectionner ensuite __Activer ou désactiver la mise à jour automatique__.
 
-                - _Image:_ ![alt text](tbd.png "Optional Title") 
+                - ![Image n'est pas disponible](/images/FR_Un_ordinateur_en_bon_etat_04.png "Activer la mise à jour automatique")
+                - _Image: Activer la mise à jour automatique_
 
 
                 - Sous __Mises à jour importantes__ , sélectionner __Installer les mises à jour automatiquement (recommandé__).
@@ -220,7 +223,8 @@ assurent une plus grande sécurité à l’appareil.
 
             - Windows 7
 
-                - _Image:_ ![alt text](tbd.png "Optional Title")
+                - ![Image n'est pas disponible](/images/FR_Un_ordinateur_en_bon_etat_05.png "Activer la mises à jour automatique : Windows 7")
+                - _Image: Activer la mises à jour automatique : Windows 7_
 
 
                 - Ouvrir __Windows Update__ en cliquant sur le bouton __Démarrer__ , puis sur __Tous les programmes__. Cliquer ensuite sur __Windows Update__ , puis sur __Modifier les paramètres__ dans le volet de gauche.
@@ -238,13 +242,13 @@ assurent une plus grande sécurité à l’appareil.
                 - Cliquer sur __OK__ . Si demandé, fournir un mot de passe administrateur ou une confirmation.
 
 
-        - iPhone ou iPad [Note 5](#note-5) 
+        - iPhone ou iPad [Note 5](#note-5)
 
 
             - Si un message indique qu’une mise à jour est disponible, appuyer sur __Installer__ , ou suivre les étapes suivantes :
 
                 - Brancher l’appareil sur une source d’alimentation, puis le connecter à Internet à l’aide du Wi-Fi.
-                
+
                 - Appuyer sur __Réglages__ , puis sur __Général > Mise à jour logicielle__.
 
                 - Un écran s’affichera et donnera des renseignements sur la mise à jour, comme le numéro de la version, la taille et les principales modifications qu’elle comporte.
@@ -263,7 +267,7 @@ assurent une plus grande sécurité à l’appareil.
         - Téléphone Android ou tablette [Note 6](#note-6)
 
 
-            - Ouvrir Google Play Store ![alt text](tbd.png) . Appuyer sur l’icône de menu ![alt text](tbd.png) , puis sur __Paramètres__ . Appuyer sur __Mise à jour automatique des applis__.
+            - Ouvrir Google Play Store ![Image n'est pas disponible](/images/FR_Un_ordinateur_en_bon_etat_06.png) . Appuyer sur l’icône de menu ![Image n'est pas disponible](/images/FR_Un_ordinateur_en_bon_etat_07.png) , puis sur __Paramètres__ . Appuyer sur __Mise à jour automatique des applis__.
 
 
 
@@ -293,26 +297,26 @@ Système d’exploitation|Logiciel    de  base    d’un    ordinateur, tel que 
 
 <!--[comment]: # (footnote 1 = link not working = http://www.avgjoeguide.com/wordpress/just-because-its-freeware-doesnt-mean-that-it-doesnt-contain-crapware)-->
 
-##### Note 1 
+##### Note 1
  Ce type de logiciel est appelé logiciel espion (Spyware) lorsqu’il collecte des renseignements, logiciel publicitaire (Adware) lorsqu’il affiche de la publicité ou inflagiciel (Crapware) lorsqu’il occupe une place considérable sur le disque dur.
 
-##### Note 2 
- [Procédure de mise à jour des logiciels de votre Mac](https://support.apple.com/fr-ca/HT201541) 
+##### Note 2
+ [Procédure de mise à jour des logiciels de votre Mac](https://support.apple.com/fr-ca/HT201541)
 
-##### Note 3 
+##### Note 3
  [Windows Update : Forum Aux Questions](https://support.microsoft.com/fr-fr/help/12373/windows-update-faq#turn-automatic-updating-on-off=windows-8)
 
-##### Note 4 
+##### Note 4
  [Windows Update : Forum Aux Questions](https://support.microsoft.com/fr-fr/help/12373/windows-update-faq#turn-automatic-updating-on-off=windows-8)
 
-##### Note 5 
+##### Note 5
  [Mise à jour de votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT204204)
 
-##### Note 6 
+##### Note 6
  [Mettre à jour vos applications Android](https://support.google.com/googleplay/answer/113412?hl=fr)
 
-##### Note 7 
+##### Note 7
  [Navigateur](http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=506713)
 
-##### Note 8 
+##### Note 8
  [Système d'exploitation](http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=8358548)

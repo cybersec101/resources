@@ -381,8 +381,8 @@ un	support	de	stockage	dans	la	liste,	puis	cliquez	sur **_Utiliser le disque_**.
 				- Pour 	vérifier 	l’état	de	la	sauvegarde,	consultez	le	 **_menu Time Machine_**. L’icône ![Image n'est pas disponible](/images/FR_Sauvegarde_07.png)	s’affiche	lorsqu’une	sauvegarde	est	en	cours.	L’icône ![Image n'est pas disponible](/images/FR_Sauvegarde_08.png) s’affiche	lorsqu’aucune	sauvegarde	n’est	prévue	avant	la	prochaine sauvegarde	automatique	ou	lorsque	la	sauvegarde	est	impossible.
 
 				- Pour 	exclure	des	éléments	de	la	sauvegarde,	ouvrez	les	 **_préférences Time Machine_** dans le **_menu Time Machine_** , cliquez	sur **_Options_** ,	puis	sur l’icône ![Image n'est pas disponible](/images/FR_Sauvegarde_09.png)	et	sélectionnez l’élément	en	question.
-				- _Image :_ ![Image n'est pas disponible](/images/FR_Sauvegarde_10.png)
-
+				- ![Image n'est pas disponible](/images/FR_Sauvegarde_10.png)
+				- _Image : Sauvgarde Termine_
 
 			- La	première	sauvegarde	peut prendre	un	certain	temps,	selon	le	nombre de	fichiers	que	vous	avez.
 
@@ -442,7 +442,8 @@ l’emplacement	réseau	ou	le	lecteur	externe	que	vous	 voulez utiliser.
 
 						- Activez	l’Historique	des	fichiers [Note 5](#note-5).
 
-						- _Image :_ ![Image n'est pas disponible](/images/FR_Sauvegarde_12.png "Sauvegarde	avec	Windows")
+						- ![Image n'est pas disponible](/images/FR_Sauvegarde_12.png "Sauvegarde	avec	Windows")
+						- _Image : Sauvegarde avec Windows_
 
 
 

@@ -355,7 +355,7 @@ au	sérieux.	Vérifiez	l’URL	de	nouveau	et	assurez-vous	que	c’est	bien	la	bo
 
 		- Le	filtre	d’hameçonnage	peut	vous aider à	 vous	protéger	de	l’hameçonnage, de	la	fraude	en	ligne	et	des	faux	sites	Web.
 
-		-  ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_01.png "Optional Title")
+		-  ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_01.png "Le	filtre	d’hameçonnage")
 
 
 
@@ -363,7 +363,7 @@ au	sérieux.	Vérifiez	l’URL	de	nouveau	et	assurez-vous	que	c’est	bien	la	bo
 
 		- Le	mode	protégé	peut	aider à protéger votre ordinateur	des	sites	qui	tenteraient d’installer	des	programmes	malveillants	ou	d’enregistrer	des	fichiers	sur	votre ordinateur à votre insu.
 
-		- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_02.png "Optional Title")
+		- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_02.png "Indicateur d’état du mode protégé")
 
 		- _Image : Indicateur d’état du mode protégé_
 
@@ -371,7 +371,7 @@ au	sérieux.	Vérifiez	l’URL	de	nouveau	et	assurez-vous	que	c’est	bien	la	bo
 				- Plus	le	niveau	de	sécurité	est	élevé,	plus	vous	êtes	susceptible	d’être à	l’abri	des	pirates	informatiques	et	des	attaques.
 				- La	barre	d’état	affiche	l’identité	des	sites	sécurisés	pour	éclairer	vos décisions	lorsque	vous	faites	des	transactions	sur	le	 Web.	De	plus, comme	Internet Explorer	prend	désormais	en	charge	les	certificats EV, les	propriétaires	des	sites	Web	y	sont	encore	mieux	identifiés.
 
-		- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_03.png "Optional Title")
+		- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_03.png "Barre d’état")
 
 		- _Image : Barre d’état (côté droit de la barre d’adresse)_
 
@@ -881,7 +881,7 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 			- Vérifiez	le	nom	de	domaine	et	soyez	à	l’affût	des	possibles	coquilles,	comme 0	pour	O	ou	vv	pour	w.
 
-- Examiner	la	page ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_19.png "Optional Title")
+- Examiner	la	page ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_19.png "Vérifiez	le	nom	de	domaine")
 
 
 
@@ -900,12 +900,11 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 		- _1_: L’icône	de	cadenas	verte	confirme	la	présence	d’une	connexion	sécurisée.
 		- _2_: Il	y	a	un	certificat	de	sécurité	provenant	de	l’organisation	qui	est	censée posséder	ce	site.
 		- _3_: Le	nom	de	domaine	est	particulier;	toutefois,	la	boîte	verte	indiquant	le propriétaire	de	la	page	vient	l’appuyer	(live.com	est	une	marque	utilisée	par Microsoft	pour	rassembler	plusieurs	services	comme	Hotmail,	Outlook	et MSN).
-			- À	noter	aussi	l’absence	d’erreur	de	grammaire	et	de	propos	menaçant. ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_21.png "Optional Title")
+			- À	noter	aussi	l’absence	d’erreur	de	grammaire	et	de	propos	menaçant.
+
+		- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_21.png "Cliquez	sur	le	bouton	de	retour")
 
 		- Une	page	comme	celle-ci	est	un	clair	avertissement	que	la	page	à	laquelle	vous tentez	d’accéder	est	dangereuse.	Elle	s’affiche	lorsque	le	navigateur	détecte	que la	page	a	un	problème.	Cliquez	sur	le	bouton	de	retour	pour	éviter	le	site.
-
-
-
 
 
 		- Si	 vous	croyez	avoir	fait	une	erreur,	modifiez	vos	mots	de	passe	sans	attendre.

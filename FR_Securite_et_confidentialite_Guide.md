@@ -51,8 +51,8 @@ sur	l’authentification.
 
 		- Windows: Go to **_Control panel_** > **_user accounts and family safety_** >
 **_Change password._**
-	
-	
+
+
 - Pare-feu	(barrière	de	sécurité	entre	l’ordinateur	et	le	réseau,	aussi	appelée	«	coupe-feu	»)
 
 	- Activation	du	pare-feu	de	l’ordinateur [Note 1](#note-1).
@@ -70,7 +70,7 @@ le mot de passe_**.
 et contrôle parental_** > **_Modifier le mot de passe_**[Note 2](#note-2).
 
 
-	
+
 - Paramètres	de	confidentialité
 
 	- Souvent, les appareils connectés à Internet communiquent avec des services externes.
@@ -95,7 +95,7 @@ simplement	vous	fier	aux	paramètres	par	défaut	du	fabricant.
 
 
 				- Apple
-	 
+
 					 - Ouvrez le menu **_Apple_** dans le coin supérieur gauche de l’écran,
 puis sélectionnez **_Préférences Système_** > **_Spotlight_** > **_Résultats
 de la recherche_** , et décochez les cases **_Suggestions Spotlight_**
@@ -105,8 +105,8 @@ et **_Résultats Bing_**.
 puis cliquez sur **_Confidentialité_**.
 
 	 					- Ouvrez les services de localisation.
-	 			
- 
+
+
  							- Sélectionnez les applications qui peuvent accéder à vos données
 de localisation.
 
@@ -117,7 +117,7 @@ de localisation.
 
 								- Si vous choisissez de laisser certaines applications utiliser
     vos données de localisation automatiquement, décochez
-    les autres cases, cliquez sur **_Services système_** et décochez l’option **_Suggestions Safari et Spotlight_**. ![alt text](tbd.png)
+    les autres cases, cliquez sur **_Services système_** et décochez l’option **_Suggestions Safari et Spotlight_**. ![Image n'est pas disponible](/images/FR_Securite_et_confidentialite_01.png)
 
 
 	 						- Désactivez les recherches Web automatiques.
@@ -131,7 +131,7 @@ de localisation.
 				- Windows[Note 3](#note-3)
 
 
-	
+
 	 				- Rendez-vous	dans	 **_Paramètres_** > **_Confidentialité_** > **_Général_**.
 
 						- Désactivez l’option **_Laisser les applications utiliser mon identifiant de publicité_**.
@@ -151,21 +151,21 @@ de localisation.
 						- Dans le menu **_Démarrer_** , commencez à entrer un mot, puis cliquez sur le carnet dans le volet gauche et sélectionnez **_Paramètres_**. Désactivez Cortana.
 
 						- Lorsque vous désactivez Cortana, l’option **_Rechercher en ligne et inclure les résultats web_** 	s’affiche.	Désactivez-la.
-				
+
 					- Rendez-vous	dans	 **_Paramètres > Confidentialité > Voix_**, entrée manuscrite et frappe.
 
 
 						- Cliquez sur **_Arrêter_** de me connaître pour désactiver l’option **_Apprendre à me connaître_**.
 
 				- Microsoft	Edge	(nouveau	navigateur	de	 Windows 10)
-				
+
 	 				- Comme la plupart des navigateurs modernes
 (notamment	Chrome	et	Firefox),	Edge	comprend
 des fonctions de rappel périodique. Vous les trouverez
 dans **_Paramètres_** > **_Paramètres avancés_** :
 
 						- **_Autoriser Cortana à m’aider dans Microsoft Edge_** enregistre
-    votre	historique	de	navigation	pour	pouvoir 	s’y	référer 	lorsque	
+    votre	historique	de	navigation	pour	pouvoir 	s’y	référer 	lorsque
     vous posez des questions à Cortana. Vous pouvez désactiver
     cette	fonction	dans	les	paramètres	avancés	de	Microsoft	Edge.
 
@@ -196,20 +196,20 @@ dans **_Paramètres_** > **_Paramètres avancés_** :
     avec votre ordinateur et désirez que certaines applications
     se mettent à jour automatiquement, comme la météo,
     sélectionnez-les.	Autrement,	décochez-les.
-    
-    
+
+
 
 				- Verrouillage de l’écran des appareils mobiles
-	 
-	 
+
+
 	 				- Il	est	très	important	de	verrouiller	l’écran	des	appareils	mobiles.
 Cette mesure fournit un degré minimal d’imputabilité. Si vous
 perdez	 votre	téléphone,	il	sera	plus	difficile	pour	les	autres
 d’accéder à vos données et à vos services.
-	 
+
 	 				- Si possible, utilisez un mot de passe composé de lettres
 et	de	chiffres.
-	 
+
 	 				-	Il	peut	aussi	être	avisé	d’utiliser	la	fonction	de	balayage	des
 empreintes digitales. Si vous choisissez un schéma, évitez
 les formes simples, comme les L, les triangles et les carrés.
@@ -237,8 +237,8 @@ suivre	les	instructions	après	avoir	sélectionné	l’option.
 
 
 				- Android
-				
-	 				- Ouvrez les **_Paramètres_**  ![alt text](tbd.png)	de	 votre	appareil,	puis	faites	défiler
+
+	 				- Ouvrez les **_Paramètres_**  ![Image n'est pas disbonible](/images/FR_Securite_et_confidentialite_02.png)	de	 votre	appareil,	puis	faites	défiler
 les options et sélectionnez **_Sécurité_** > **_Verrouillage de l’écran_**.
 
 						- Si	 vous	avez	déjà	configuré	le	verrouillage,	entrez	le	schéma,
@@ -247,8 +247,8 @@ les options et sélectionnez **_Sécurité_** > **_Verrouillage de l’écran_**
 
 						- Sélectionnez	le	type	de	verrouillage	que	vous	désirez	et	suivez
     les instructions [Note 6](#note-6).
-    
-    
+
+
 
 
 
@@ -284,8 +284,8 @@ si vous ne portez pas votre ceinture.
 
 	- Il	n’est	pas	possible	de	recommander	un	produit	spécifique,	mais	il	existe	une	liste	de ce qu’il ne faut pas acheter. De nombreuses applications prétendent être des antivirus,
     mais	ne	sont	en	réalité	que	des	arnaques	ou	des	virus	eux-mêmes.
-    
-    
+
+
 [comment]: # (the footnote 7 was after the word: eux-mêmes. original links not working = http://asafercomputer.co.uk/?q=Library)
 
 
@@ -309,7 +309,7 @@ bien vous protéger.
 
 - Les logiciels de sécurité peuvent nuire à la performance de votre ordinateur.
 
-	- La	raison	est	simple	:	ils	lisent	tous	les	fichiers	que	vous	ouvrez	pour	vérifier 	qu’ils	
+	- La	raison	est	simple	:	ils	lisent	tous	les	fichiers	que	vous	ouvrez	pour	vérifier 	qu’ils
     sont sécuritaires.
 
 		- Il	n’y 	a	aucun	moyen	d’éviter	cette	réduction	de	la	performance.
@@ -319,7 +319,7 @@ bien vous protéger.
 
 			- La	plupart	des	logiciels	de	sécurité	populaires	(ceux	qui	sont	vendus
     en	magasin)	ne	réduisent	que	légèrement	la	performance [Note 8](#note-8).
-    
+
 
 
 			- Si	 votre	ordinateur	est	beaucoup	plus	lent	après	l’installation	d’un	nouveau logiciel de sécurité, ce peut être pour l’une des raisons suivantes :
@@ -373,7 +373,7 @@ de détection active.
     et	les	ordinateurs	Apple	offrent	un	certain	degré	de	protection	intégrée.
 
 		- Ces	applications	ne	sont	pas	dédiées	à	la	sécurité,	alors	elles	n’offrent pas nécessairement le même degré de sécurité ni les mêmes possibilités de personnalisation	des	alertes	et	des	notifications	qu’une	application	spécialisée.
-	
+
 - Soyez	conscient	qu’il	y	a	des	arnaqueurs.	Microsoft	ne	vous	appellera	jamais.	Les	fournisseurs
 de logiciels de sécurité authentiques non plus.
 
@@ -416,11 +416,11 @@ Couvrez votre caméra Web pour éviter d’être espionné.
 
 
 	- Certains	programmes	malveillants, appelés « cheval  de	 Troie	 » [Note 11](#note-11) ,	sont	conçus pour donner secrètement	accès	à	votre	ordinateur à d’autres personnes. Un	criminel	peut	 vous	amener à	installer le programme malveillant	en	le	dissimulant	dans	un autre fichier ou programme ou en vous invitant à cliquer sur un lien ou à visiter un site Web frauduleux. Il peut ensuite voir tout ce que	vous	faites	sur	votre	ordinateur,	accéder à vos fichiers et	activer	la	caméra et le micro.
-	
+
 		- Couvrir la caméra garantit que personne ne pourra vous voir à la maison et assure un minimum de vie privée.
-    	
-		
- 
+
+
+
 - Il est facile de couvrir la caméra.
 
 	- Vous n’avez qu’à coller un morceau de papier sur la lentille et à la retirer seulement lorsque
@@ -455,32 +455,32 @@ Verrouillage de l’écran|Barrière	prévenant l’accès aux fonctions	d’un	
 
 <!--[comment]: # (footnote 1 = original link not working = http://windows.microsoft.com/fr-ca/windows-8/Windows-Firewall-from-start-to-finish)-->
 
-##### Note 1 
+##### Note 1
  [Pare-feu et protection réseau dans Sécurité Windows](https://support.microsoft.com/fr-ca/help/4012988/windows-10-firewall-network-protection-windows-security)
 
-##### Note 2 
+##### Note 2
  [Activer ou désactiver le Pare-feu Windows Defender](https://support.microsoft.com/fr-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
 
-##### Note 3 
+##### Note 3
  [Obtenez un avantage contre les cybermenaces](https://www.microsoft.com/fr-fr/security)
 
-##### Note 4 
+##### Note 4
  [Most Common iPhone Passcodes](http://danielamitay.com/blog/2011/6/13/most-common-iphone-passcodes)
 
-##### Note 5 
+##### Note 5
  [Utilisation d’un code d’accès sur votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT204060)
 
-##### Note 6 
+##### Note 6
  [Définir le verrouillage de l'écran sur un appareil Android](https://support.google.com/android/answer/9079129?hl=fr&visit_id=636876620493051287-2664977431&rd=1)
 
-##### Note 8 
+##### Note 8
  [Pour	voir	une	comparaison	de	la	performance](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf)
- 
-##### Note 9 
+
+##### Note 9
  Bureau	de	la	concurrence	du	Canada.	[Le	petit	livre	noir](www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/vwapj/Little-Black-Book-Scams-f.pdf/$FILE/Little-Black-Book-Scams-f.pdf)
 
-##### Note 10 
+##### Note 10
  [Cam Spyware](http://130.18.86.27/faculty/warkentin/SecurityPapers/Merrill/Thompson2005_CACM48_8_Spyware.pdf)
 
-##### Note 11 
+##### Note 11
  [Remote access trojan](http://www.trusteer.com/en/glossary/remote-access-trojan-rat)
