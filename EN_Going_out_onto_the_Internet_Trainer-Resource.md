@@ -322,7 +322,7 @@ the	URL,	make	sure	you	have	the	right	location.
 		- The	phishing	filter	can	help	protect	you	from	phishing	attacks,	online	fraud	and fake	websites.
 
 
--  Internet Explorer address bar with phishing warning ![alt text](/images/EN_Going_out_onto_the_Internet_01.png "Image_title")
+-  Internet Explorer address bar with phishing warning ![phishing warning](/images/EN_Going_out_onto_the_Internet_01.png "phishing warning")
 
 
 
@@ -331,9 +331,9 @@ the	URL,	make	sure	you	have	the	right	location.
 	- Protected	mode	can	help	protect	your	computer	from	websites	that	try	to	install malicious	software	or	to	save	files	on	your	computer	without	your	consent.
 
 
-- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_02.png "Image_title")
+- ![Protected Mode status indicator](/images/EN_Going_out_onto_the_Internet_02.png "Protected Mode status indicator")
 
-- _Image tag : Protected Mode status indicator_
+- _Image : Protected Mode status indicator_
 
 
 
@@ -351,9 +351,9 @@ Internet	Explorer	now	supports	Extended	Validation	(EV)	certificates	to
 help	make	a	more	positive	identification	of	website	owners
 and	organizations.
 
-- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_03.png "Image_title")
+- ![Security Status Bar](/images/EN_Going_out_onto_the_Internet_03.png "Security Status Bar")
 
-- _Image tag : Security Status Bar (right side of address bar)_
+- _Image : Security Status Bar (right side of address bar)_
 
 
 
@@ -388,18 +388,18 @@ Green | The	certificate	uses	extended	validation.	This	means	that communication	
 		- If 	you	click	the	lock	icon,	you	will	see	a	dialog	box	saying	that	“Safari	is	using an	encrypted	connection	to	www.icloud.com.”	This	tells	you	the	connection is	secure.
 
 
- - Image : ![alt text](/images/EN_Going_out_onto_the_Internet_04.png "Image_title")
+ - ![legitimate site on Safari](/images/EN_Going_out_onto_the_Internet_04.png "Legitimate site on Safari")
 
 
- - _Image tag : Connected to a legitimate site on Safari_
+ - _Image : Connected to a legitimate site on Safari_
 
 
 	- If 	you	connect	to	a	website	that	isn’t	secure,	you	will	see	a	message that	says	“Safari	can’t	verify	the	identity	of 	the	website.”	If 	you	see	this message,	do	not	proceed	or	attempt	to	sign	in[Note 3](#note-3).
 
 
-	- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_05.png "Image_title")
+	- ![unverified site on Safari](/images/EN_Going_out_onto_the_Internet_05.png "unverified site on Safari")
 
-	- _Image tag : An unverified site on Safari_
+	- _Image : An unverified site on Safari_
 
 
 
@@ -411,10 +411,10 @@ Green | The	certificate	uses	extended	validation.	This	means	that communication	
 enter	web	addresses;	called	the	“omnibox”	because	it	will	take	either	a	search
 or	a	 webpage	address.
 
- 	- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_06.png "Image_title")
+ 	- ![Image Missing](/images/EN_Going_out_onto_the_Internet_06.png "Image_title")
 
 
-	- Image tag : The 'omnibox' in Chrome
+	- _Image : The 'omnibox' in Chrome_
 
 
 		- The	first	thing	to	notice	is	the	domain	name	of	the	website.	The	domain	name indicates	which	website	is	being	displayed	in	the	current	tab.	Google	Chrome highlights	it	in	a	slightly	darker	colour.	For	example,	the	domain	name	in	the image	above	is	“www.google.com.”
@@ -430,25 +430,25 @@ or	a	 webpage	address.
 			- This	space	will	display	the	status	of	the	connection	and	the	page certificate.	It	can	display	any	of 	the	following:
 
 
-	 			- Green	lock	icon ![alt text](/images/EN_Going_out_onto_the_Internet_07.png)
+	 			- Green	lock	icon ![Image Missing](/images/EN_Going_out_onto_the_Internet_07.png)
 
 					- The	site's	certificate	is	valid,	and	its	identity	has	been	verified by 	a	trusted	third-party.	Google	Chrome	has	established	a secure	connection	with	the	site	you're	viewing.
 
 
-	 			- Orange	exclamation	icon ![alt text](/images/EN_Going_out_onto_the_Internet_08.png)
+	 			- Orange	exclamation	icon ![Image Missing](/images/EN_Going_out_onto_the_Internet_08.png)
 
 					- The	site	has	not	provided	the	browser	with	a	certificate.	This	is
 normal	for 	regular	HTTP	sites	because	certificates	are	usually
 provided	only	if 	the	site	uses	encryption.
 
 
-	 			- Webpage icon ![alt text](/images/EN_Going_out_onto_the_Internet_09.png)
+	 			- Webpage icon ![Image Missing](/images/EN_Going_out_onto_the_Internet_09.png)
 
 					- Your	connection	to	the	site	is	not	encrypted.	This	is	normal	for
 regular	http	sites.
 
 
-	 			- Lock	icon	with	yellow	warning	triangle ![alt text](/images/EN_Going_out_onto_the_Internet_10.png)
+	 			- Lock	icon	with	yellow	warning	triangle ![Image Missing](/images/EN_Going_out_onto_the_Internet_10.png)
 
 
 					- Google	Chrome	can	see	the	site’s	certificate	and	your
@@ -465,7 +465,7 @@ personal	information	on	this	page.
 
 
 
-	 			- Red	lock	icon ![alt text](/images/EN_Going_out_onto_the_Internet_11.png)
+	 			- Red	lock	icon ![Image Missing](/images/EN_Going_out_onto_the_Internet_11.png)
 
 					- There	are	problems	with	the	site's	certificate	or	mixed	scripting.
 
@@ -478,11 +478,11 @@ page	is	safe	or	not.	Proceed	with	caution[Note 4](#note-4).
 			- Extended	validation	(EV)	certificate	(see	green	box	over	the	lock	icon  and	the	web	address	in	the	image	below).
 
 
-- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_12.png "Image_title")
+- ![Extended validation Certificate](/images/EN_Going_out_onto_the_Internet_12.png "Extended validation Certificate")
 
 
 
-- Image tag : An Extended validation Certificate from PayPal
+- _Image : An Extended validation Certificate from PayPal_
 
 	- The	EV	certificate	helps	the	browser	determine the name of	the organization	that	runs	the	web	site.
 	- The	extended	validation	indicator	helps you determine
@@ -553,7 +553,7 @@ without	using	cookies.
 			- Google	Chrome
 
 
-				- Select	the	Chrome	menu icon ![alt text](/images/EN_Going_out_onto_the_Internet_13.png).
+				- Select	the	Chrome	menu icon ![Image Missing](/images/EN_Going_out_onto_the_Internet_13.png).
 
 				- Select _**Settings**_.
 
@@ -580,12 +580,12 @@ without	using	cookies.
 
 
 
-				- Open	Internet	Explorer	by 	clicking	the	 _**Start button**_ ![alt text](/images/EN_Going_out_onto_the_Internet_14.png).
+				- Open	Internet	Explorer	by 	clicking	the	 _**Start button**_ ![Image Missing](/images/EN_Going_out_onto_the_Internet_14.png).
 In the search box,	type	 _**Internet Explorer**_, 	and	then,	in	the	list	of	results,	click	 _**Internet Explorer**_.
 
 
 
-				- Click the _**Tools button**_ ![alt text](/images/EN_Going_out_onto_the_Internet_15.png),
+				- Click the _**Tools button**_ ![Image Missing](/images/EN_Going_out_onto_the_Internet_15.png),
 point to _**Safety**_, and then click _**Delete browsing history**_.
 
 
@@ -647,9 +647,9 @@ cookies	and	data	on	your	Mac.
 			- Android
 
 
-				- Open	the	Chrome	app ![alt text](/images/EN_Going_out_onto_the_Internet_16.png);
+				- Open	the	Chrome	app ![Image Missing](/images/EN_Going_out_onto_the_Internet_16.png);
 
-				- Touch	the	menu ![alt text](/images/EN_Going_out_onto_the_Internet_17.png);
+				- Touch	the	menu ![Image Missing](/images/EN_Going_out_onto_the_Internet_17.png);
 
 				- Touch	 _**Site settings**_;
 
@@ -675,7 +675,7 @@ be	 very	high.
 			- Google	Chrome
 
 
-				- Select	the	Chrome	menu	icon ![alt text](/images/EN_Going_out_onto_the_Internet_18.png).
+				- Select	the	Chrome	menu	icon ![Image Missing](/images/EN_Going_out_onto_the_Internet_18.png).
 
 
 				- Select _**Settings**_.
@@ -917,7 +917,7 @@ dangerous	website.
 
 		- Also	 **_look for misspelled domain names_** 	and	subtle	substitutions	such	as	0	for O	or	vv	for 	w.
 
-	- _Assessing the page_  ![alt text](/images/EN_Going_out_onto_the_Internet_19.png "Image_title")
+	- _Assessing the page_  ![Image Missing](/images/EN_Going_out_onto_the_Internet_19.png "Image_title")
 
 
 
@@ -935,7 +935,7 @@ name	that	we	 would	expect	to	see.	This	indicates	that	this	page	is	probably	a f
 
 		- Some	indicators	on	this	page	provide	clues	that	the	page	is	legitimate:
 
-		- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_20.png "Image_title")
+		- ![Image Missing](/images/EN_Going_out_onto_the_Internet_20.png "Image_title")
 			_1_:	 A	green	lock	symbol.	This	indicates	a	secure	connection.
 			_2_:	 A	certificate	belonging	to	the	organization	you	would	expect	to	own
 this	website.
@@ -946,7 +946,7 @@ of 	Microsoft	services	to	assist	with	living;	such	as	Hotmail,	outlook,	and
 MSN	Messenger).
 			_4_: 	Note,	the	lack	of	grammar	errors	or	threatening	language.
 
-		- Image : ![alt text](/images/EN_Going_out_onto_the_Internet_21.png "Image_title")
+		- ![Image Missing](/images/EN_Going_out_onto_the_Internet_21.png "Image_title")
 
 
 
