@@ -944,9 +944,9 @@ this	website.
 provides	reassurance.	(Live.com	is	a	brand	used	to	unify	a	number
 of 	Microsoft	services	to	assist	with	living;	such	as	Hotmail,	outlook,	and
 MSN	Messenger).
-				- Also,	note	the	lack	of	grammar	errors	or	threatening	language.  
+		- Also,	note	the	lack	of	grammar	errors	or	threatening	language.
 
-				- Image : ![alt text](tbd.png "Optional Title")
+	- Image : ![alt text](tbd.png "Optional Title")
 
 
 
