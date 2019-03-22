@@ -156,7 +156,7 @@ a regular basis.
     			- A USB drive is the best option for most computers.
 				- A USB port on your computer will often be marked with this symbol:
 
-				- Image :  ![Image Missing](EN_Have_a_Backup_01.png "Optional Title")
+				- Image :  ![Image Missing](/images/EN_Have_a_Backup_01.png "Optional Title")
 
 
 
@@ -164,11 +164,11 @@ a regular basis.
 (about ½ inch) wide.
 
 
-					-  USB 3.0 Ports ![Image Missing](EN_Have_a_Backup_02.png)
+					-  USB 3.0 Ports ![Image Missing](/images/EN_Have_a_Backup_02.png)
 
-					-  USB 2.0 Ports ![Image Missing](EN_Have_a_Backup_03.png)
+					-  USB 2.0 Ports ![Image Missing](/images/EN_Have_a_Backup_03.png)
 
-					-  Thunderbolt & USB 3.0 Ports![Image Missing](EN_Have_a_Backup_04.png)
+					-  Thunderbolt & USB 3.0 Ports![Image Missing](/images/EN_Have_a_Backup_04.png)
 
 
 				- The standard of USB is not of great importance either. A USB 3.0 disk
@@ -307,7 +307,7 @@ Windows and Apple computers both include a feature for automatic backups.
 
 
 
- 				- Open **_Time Machine_** preferences from the **_Time Machine menu_**  ![Image Missing](EN_Have_a_Backup_05.png) in the menu bar. Or choose **_Apple menu > System Preferences,_** then click **_Time Machine._**
+ 				- Open **_Time Machine_** preferences from the **_Time Machine menu_**  ![Image Missing](/images/EN_Have_a_Backup_05.png) in the menu bar. Or choose **_Apple menu > System Preferences,_** then click **_Time Machine._**
 
 				- Click **_Select Backup Disk._**
 
@@ -316,7 +316,7 @@ from the list, then click **_Use Disk._**
 
 				- After you choose a backup disk, optionally click **_Add_** or **_Remove Backup Disk_** to add more backup disks for extra security and convenience.   
 
-				- Image : ![Image Missing](EN_Have_a_Backup_06.png "Optional Title")
+				- Image : ![Image Missing](/images/EN_Have_a_Backup_06.png "Optional Title")
 
 
 
@@ -339,14 +339,14 @@ from the **_Time Machine menu._**
 To resume, choose **_Back Up Now._**
 
 				- To check the status of a backup, use the **_Time Machine menu._**
-The icon shows when Time Machine is backing up ![Image Missing](EN_Have_a_Backup_07.png) , whether it is idle
-until the next automatic backup ![Image Missing](EN_Have_a_Backup_08.png) , or unable to complete the backup.
+The icon shows when Time Machine is backing up ![Image Missing](/images/EN_Have_a_Backup_07.png) , whether it is idle
+until the next automatic backup ![Image Missing](/images/EN_Have_a_Backup_08.png) , or unable to complete the backup.
 
 - To exclude items from your backup, open **_Time Machine preferences_**
-from the Time machine menu, click **_Options,_** then click **_Add_** ![Image Missing](EN_Have_a_Backup_09.png)
+from the Time machine menu, click **_Options,_** then click **_Add_** ![Image Missing](/images/EN_Have_a_Backup_09.png)
 and select the item to exclude.  
 
-- Image : ![Image Missing](EN_Have_a_Backup_10.png "Optional Title")
+- Image : ![Image Missing](/images/EN_Have_a_Backup_10.png "Optional Title")
 
 
 
@@ -370,7 +370,7 @@ system recovery.
 
  			- Set up your backup.
 
-				- Select the Start button  ![Image Missing](EN_Have_a_Backup_11.png), then select **_Settings > Update &_**
+				- Select the Start button  ![Image Missing](/images/EN_Have_a_Backup_11.png), then select **_Settings > Update &_**
     **_Security > Backup > Add a drive_** , and choose an external drive or
     network location for your backups.
 
@@ -410,7 +410,7 @@ system recovery.
 
 				- Turn on **_File History._** [Note 5](#note-5).
 
-				- Image :L ![Image Missing](EN_Have_a_Backup_12.png)
+				- Image :L ![Image Missing](/images/EN_Have_a_Backup_12.png)
 
 
 
@@ -434,7 +434,7 @@ system recovery.
 
 			- To create a full backup:
 
-				- Open Backup and Restore by clicking the **_Start_** button ![Image Missing](EN_Have_a_Backup_13.png) ,
+				- Open Backup and Restore by clicking the **_Start_** button ![Image Missing](/images/EN_Have_a_Backup_13.png) ,
     clicking **_Control Panel,_** clicking **_System and Maintenance,_** and then
     clicking **_Backup and Restore._**
 
@@ -444,7 +444,7 @@ system recovery.
 			- To back up your files:
 
 
-				- Open Backup and Restore by clicking the **_Start_** button ![Image Missing](EN_Have_a_Backup_14.png) ,
+				- Open Backup and Restore by clicking the **_Start_** button ![Image Missing](/images/EN_Have_a_Backup_14.png) ,
     clicking **_Control Panel,_** clicking **_System and Maintenance,_** and then
     clicking **_Backup and Restore._**
 
@@ -454,13 +454,13 @@ system recovery.
 				- Do one of the following:
 
    					- If you've never used Windows Backup before, click **_Set up_**
-       **_backup,_** then follow the steps in the wizard ![Image Missing](EN_Have_a_Backup_15.png). If you are
+       **_backup,_** then follow the steps in the wizard ![Image Missing](/images/EN_Have_a_Backup_15.png). If you are
        prompted for an administrator password or confirmation, type
        the password or provide confirmation.
 
 					- If you've created a backup before, you can wait for your
        regularly scheduled backup or manually create a new backup
-       by clicking **_Back up now_** ![Image Missing](EN_Have_a_Backup_16.png). If you are prompted for an
+       by clicking **_Back up now_** ![Image Missing](/images/EN_Have_a_Backup_16.png). If you are prompted for an
        administrator password or confirmation, type the password or
        provide confirmation [Note 6](#note-6).
 
@@ -484,7 +484,7 @@ You can restore a single file or the complete system from your backup.
 
 		- Restore specific files:
 
-		- Choose from the Time Machine menu ![Image Missing](EN_Have_a_Backup_17.png) , or click **_Enter Time Machine_** in the Dock.
+		- Choose from the Time Machine menu ![Image Missing](/images/EN_Have_a_Backup_17.png) , or click **_Enter Time Machine_** in the Dock.
  Find the files to restore:
 
 			- Use the timeline on the edge of the screen to see the files in your Time
@@ -506,7 +506,7 @@ other options [Note 7](#note-7).
 
 	- Recover an Apple system by holding down the command and R keys at start up with the backup drive connected [Note 8](#note-8).
 
-	- Image : ![Image Missing](EN_Have_a_Backup_18.png "Optional Title")
+	- Image : ![Image Missing](/images/EN_Have_a_Backup_18.png "Optional Title")
 
 
 
