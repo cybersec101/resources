@@ -226,12 +226,12 @@ Social	networks	allow	us	to	share	in	a public or semi-private way.	They	are	an	e
 				- These	can	lead	to	other	pages,	which	install	malware	and	can	spread to	 your	social	media	contacts,	such	as	by	disguising	a	“share”	or 	‘like’ button	as	an	“X”.
 
 
-Image : ![Hidden Clickbait](/images/EN_Behaving_Yourself_1.png "The box on the right contains a hidden button to share where the “X” is shown to trick the user into sharing the posting.")
+Image : ![Hidden Clickbait](/images/EN_Behaving_Yourself_1.png "The box on the right contains a hidden button,as revealed in the image on the left, to share where the “X” is shown to trick the user into sharing the posting.")
 
 
 Figure 1 : [Analyzing a Facebook Clickbait Worm](https://blog.sucuri.net/2015/06/analyzing-a-facebook-clickbait-worm.html)
 
-The box on the right contains a hidden button to share where the “X” is shown (as revealed in the image on the left) to trick the user into sharing the posting.
+
 
 - Social	networks	also	present	more	subtle	harms	as	they	can:
 	- Be	a	source	of	irritation	because	of	inappropriate	or	annoying	content,	like spam	email;
@@ -282,29 +282,29 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 	- Locate	the	icon	beside	the	date	of	publication	of	the	post.	It	will	be	a	globe,	two	silhouettes, a	lock	or	a	gear.	Click	on	this	icon	to	change	the	audience	who	can	see	the	post.
 
-		- Globe	=	Public ![alt text](tbd.png)
+		- Globe	=	Public ![Globe icon](/images/EN_Behaving_Yourself_2.png)
 
 			- Everyone	on	Facebook	and	anyone	who	searches	for	you	on	Google	(unless searching	is	turned	off).
 
-		- Two	Silhouettes	=	Friends ![alt text](tbd.png)
+		- Two	Silhouettes	=	Friends ![Friends icon](/images/EN_Behaving_Yourself_3.png)
 
 			- Only	those	in	your	friends’	list,	and	all	of 	their	friends	if	you	tagged	someone. You	may	sometimes	see	three	silhouettes,	which	signifies	“friends	of friends”	or 	one	full	silhouette	with	a	faint	one	behind	it	for	“friends	except acquaintances.”
 
-		- Lock	 =	Only	Me ![alt text](tbd.png)
+		- Lock	 =	Only	Me ![Me icon](/images/EN_Behaving_Yourself_4.png)
 
 			- Only	you	can	see	the	content.
 
-		- Gear = Custom ![alt text](tbd.png)
+		- Gear = Custom ![customize icon](/images/EN_Behaving_Yourself_5.png)
 
 			- Certain	custom	groups	(groups	made	on	Facebook	to	include	certain	people such	as	family,	school	or 	work	groups)	may	see	your	post.	Also,	individual people	on	Facebook	can	be	set	to	not	see	the	post,	even	if	they	are	in	your friends	list.
 
-			- Image : ![alt text](tbd.png)
+			- Image : ![Set Visibility](/images/EN_Behaving_Yourself_6.png)
 
 	- Although	the	profile	picture	posts	give	you	the	option	to	change	the	audience,	this is	exclusively	for 	the	“post”	itself,	not	for	the	visibility	of 	the	profile	picture.
 
 		- If 	you	want	to	change	the	visibility	of 	a	profile	picture,	you	must	go	to	the actual	photo.
 
-		- Image : ![alt text](tbd.png)
+		- Image : ![Change Visibility](/images/EN_Behaving_Yourself_7.png)
 
 - Keep	in	mind	that	your	current	profile	picture	and	cover	photos	are	public.
 
@@ -312,11 +312,11 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 	- Once	there	are	multiple	profile	pictures,	however,	these	can	be	set	to	different audiences.	Again,	the	first	and	current	profile picture	may	be	seen	by	anyone	as	a thumbnail,	no	matter	the	privacy	setting.	Cover	photos	and	their	posts	are	always public.
 
-	- Image : ![alt text](tbd.png)
+	- Image : ![Profile Privacy Settings](/images/EN_Behaving_Yourself_8.png)
 
 - To	rapidly	choose	those	who	should	see	posts,	go	to	the	“privacy	shortcut”	icon	in	the	top right-hand	corner	of 	their	profile.
 
-- Image : ![alt text](tbd.png)
+- Image : ![Profile Settings](/images/EN_Behaving_Yourself_9.png)
 
 	- There	are	three	options:
 
@@ -326,11 +326,11 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 		- How	do	I	stop	someone	from	bothering	me?
 
-		- Image : ![alt text](tbd.png)
+		- Image : ![Profile Privacy Settings](/images/EN_Behaving_Yourself_10.png)
 
 	- Click	on	the	“who	can	see	my	stuff”	option	to	reveal	options	to	better	control	the visibility	of 	your	posts.
 
-	- Image : ![alt text](tbd.png)
+	- Image : ![Profile Privacy Settings](/images/EN_Behaving_Yourself_11.png)
 
 - Remember	that	your	online	privacy	is	determined	by	the	privacy	settings	of	your	profile,	and by 	how	you	interact	with	other	profiles.
 
@@ -346,7 +346,7 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 		- If 	someone	tags	you	in	a	post	that	you	do	not	want	to	be	tagged	in,	you	may remove	the	tag.
 
-		- Image : ![alt text](tbd.png)
+		- Image : ![Tagging](/images/EN_Behaving_Yourself_12.png)
 
 		- Facebook	then	warns	you	that,	although	the	tag	has	been	removed,	it	will	still appear	in	other’s	news	feeds	or	in	searches.
 
@@ -354,9 +354,9 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 			- You	also	have	the	option	to	report	the	content	in	which	you	were	tagged.
 
-			- Image : ![alt text](tbd.png)
+			- Image : ![Tagging](/images/EN_Behaving_Yourself_14.png)
 
-			- Image : ![alt text](tbd.png)  
+			- Image : ![Tagging](/images/EN_Behaving_Yourself_15.png)  
 
 		- You	can	see	that	the	name	remains	in	the	post;	however,	it	no	longer	redirects	to your	profile.	All	the	friends	of	the	person	who	made	the	originally	post	can	still see	it.
 
@@ -372,11 +372,11 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 			- For 	example,	when	sharing	employment	information,	you	may	set	whom	they want	their	job	to	be	visible	to.
 
-			- Image : ![alt text](tbd.png)
+			- Image : ![Employment Visibility](/images/EN_Behaving_Yourself_16.png)
 
 			- Once	the	information	has	been	saved,	Facebook	asks	whether	you	would	like to	share	it	as	a	post.	When	the	post	is	created,	you	may	change	the	audience as	 you	would	with	any	other	post.
 
-			- Image : ![alt text](tbd.png)
+			- Image : ![Audiences](/images/EN_Behaving_Yourself_17.png)
 
 			- **Caution:** 	certain	external	sources,	such	as	Facebook	comment	sections	on popular	websites	like	Buzzfeed	and	Huffington	Post,	and	applications	like Tinder,	will	publicly	display	your	employment	and	vocational	information, even	if	it	is	not	public	on	your	account.
 
@@ -384,9 +384,9 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 				- This	allows	you	to	view	your	profile	as	any	preferred	audience:	as	your friends	in	general,	as	a	specific	group,	a	specific	profile,	the	public	or only	to	 you.
 
-				- Image : ![alt text](tbd.png)
+				- Image : ![Post Settings](/images/EN_Behaving_Yourself_18.png)
 
-				- Imagfe : ![alt text](tbd.png)
+				- Imagfe : ![Post Settings](/images/EN_Behaving_Yourself_19.png)
 
 				- This	way,	you	can	go	over	items	that	you	want	the	public,	your	friends, certain	friends	and	groups	to	see.
 
@@ -398,7 +398,7 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 			- These	options	may	be	found	in	the	“see	more	settings”	link	in	the	“privacy shortcut”	icon	shown	above.
 
-			- Image : ![alt text](tbd.png)
+			- Image : ![Post Settings](/images/EN_Behaving_Yourself_20.png)
 
 		- You	can	change	who	can	contact	you	in	these	settings.	If	you	do	not	want	people to	find	you	through	your	email	or 	phone	number,	deactivate	these	settings	here.
 
@@ -408,7 +408,7 @@ Facebook	provides	controls	over	the	privacy of  your profile and interactions.	T
 
 			- If 	you	like	a	public	page,	this	activity	will	be	available	on	Google,	even	if	you have	turned	searching	off	and	changed	the	privacy	of 	your	liked	pages.
 
-			- Image : ![alt text](tbd.png)
+			- Image : ![Discoverability](/images/EN_Behaving_Yourself_21.png)
 
 				- For 	example,	a	search	for	Sionn	Fortemain,	a	profile	for	which	searching
 is	turned	off,	still	reveals	one	liked page	(even	though	liked	pages	are not	publicly	visible	on	this	account).
