@@ -1,11 +1,11 @@
 # Internet Concepts
 
 
-This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
+_This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
 
 The Learning Objectives summarize the knowledge that learners should have gained by the time they reach the end of the module.
 
-The Background and Detail for Trainer provides greater details on the content, and links to references. It will allow trainers to learn more about the topic so they can lead discussions or answer questions confidently without being limited to the classroom content. Each item in the Background supports a section in the Lesson Script.
+The Background and Detail for Trainer provides greater details on the content, and links to references. It will allow trainers to learn more about the topic so they can lead discussions or answer questions confidently without being limited to the classroom content. Each item in the Background supports a section in the Lesson Script._
 
 ### Learning objectives
 
@@ -48,7 +48,7 @@ The	Internet	connects	people	and	information through services	such	as	email,	gam
 
 
 
-		- Teaching	initiatives	such	as	Khan	Academy [Note 2](#note-2) and 
+		- Teaching	initiatives	such	as	Khan	Academy [Note 2](#note-2) and
 
 
 
@@ -65,7 +65,7 @@ There	are	3.2	billion	Internet	users,	2	billion	of	whom	live	in	developing	count
 
 
 
-	
+
 
 - Besides	the	well-established	uses	such	as	email	and	online	bulletin	boards	or	forums,	use	of
 social	media	services	is	growing.
@@ -107,7 +107,7 @@ The	risks	on	the	Internet	relate	mainly	to:
 activities	as	well	as	of	low-cost	global	access	and	industrial-scale	automation	to	find	new
 scams	and	frauds.
 
-	
+
 - The	cost	of	cybercrime	and	cyber	security	is	estimated	in	millions	and	billions	of	dollars[Note 8](#note-8). However,	estimations	don’t	explain	the	privacy	and	security	implications	of	the	technology,
 and	don’t	put	the	risks	into	a	helpful	perspective.
 
@@ -126,7 +126,7 @@ DO	be	aware	of	dangers	online	and	learn	to	minimize	risk.
 
 #### 3.1 In Brief
 
-	
+
 The	Internet	is	made	up	of	millions	of	computers	linked	together	to	allow	information	to	flow
 freely	between	them.
 
@@ -205,15 +205,15 @@ a	home,	or	to	a	mobile	point,	like	a	cellular	telephone.
 
 #### 4.2 In Detail
 
-	
+
 - Canada	has	many	ISPs.
 
 	- Many	ISPs	buy	wholesale	services	from	other	ISPs	and	resell	them.
 
-	
+
 - Access	to	physical	infrastructure	limits	Internet	access	across	Canada.
 
-	
+
 - How	ISPs	connect	to	the	rest	of	the	Internet	is	important	to	consider.
 
 	- The	far	North	of	Canada	is	connected	to	the	Internet	via	England,	Ireland,	Japan,	Alaska
@@ -246,7 +246,7 @@ connection	strength	is	shown	(the	bars). 3rd
 
 
 
-	
+
 
 
 - It	is	important	to	know	who	your	ISP 	is	as	it	is	often	a	good	source	of	support	for	issues	that
@@ -262,11 +262,11 @@ Do	look	for	a	3G,	4G	or	LTE	symbol	on	 your	smartphone	before	using	the	Internet
 
 #### 5.1 In Brief
 
-	
+
 
 - Broadband	Internet	connections	allow	home	networks	to	access	the	Internet.
 
-	
+
 - Wireless	home	networks	(Wi-Fi)	should	be	used	with	the	security	features	turned	on.
 
 #### 5.2 In Detail
@@ -362,7 +362,7 @@ Take	extra	care	when	sharing	information	if	you	connect	to	these	networks.
 	- With	a	corporate	network,	a	company	provides	access	to	its	network	to	a	restricted	set	of
 people	and	maintains	a	list	of	their	names.
 
-	
+
 
 
 - A	public	network	has	little	restriction	or	accounting	of	who	uses	the	network.
@@ -441,72 +441,72 @@ Wireless|Sending	and	receiving	electronic signals by using radio	waves.
 WPA, WPA2|Wi-Fi	Protected	Access	and	Wi-Fi Protected Access 2 are	two security	protocols	designed	to	protect Wi-Fi networks.		These protocols were developed to resolve issues in the earlier ‘Wired	Equivalent	Privacy”(WEP) security protocol.
 
 
-##### Note 1 
- [New York	Public	Library](https://digitalcollections.nypl.org/) 
+##### Note 1
+ [New York	Public	Library](https://digitalcollections.nypl.org/)
 
-##### Note 2 
+##### Note 2
  [Khan	Academy](https://www.khanacademy.org/)
 
-##### Note 3 
+##### Note 3
  [Google	n-Grams](https://books.google.com/ngrams)
 
-##### Note 4 
+##### Note 4
  [Wolfram	alpha](https://www.wolframalpha.com/)
 
-##### Note 5 
+##### Note 5
  [The	International	Telecommunications	Union	report	on	the	state	of	the	Internet](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
 
-##### Note 6 
+##### Note 6
  [The	International	Telecommunications	Union	report	on	the	state	of	the	Internet](http://www.pewinternet.org/2015/08/19/the-demographics-of-social-media-users/)
 
-##### Note 7 
+##### Note 7
  [For	more	information	on	how	canadians	use	the	Internet](https://cira.ca/factbook/2014/the-canadian-internet.html)
 
 <!--[comment]:(footnote 8 = original links not working)-->
- 
 
-##### Note 8 
+
+##### Note 8
  [100	billion	per	year - 2013	US	alone](http://www.wsj.com/articles/SB),[160	Billion	per	year - 2014](http://www.mcafee.com/ca/resources/reports/rp-economic-impact-cybercrime2.pdf),[7.6	million	per	business - 2015](http://www8.hp.com/us/en/software-solutions/ponemon-cyber-security-report/index)
 
-##### Note 9 
+##### Note 9
  For	more	reading	on	the	history	of	the	Internet	see : [A Brief History of the Internet & Related Networks](https://www.internetsociety.org/internet/history-internet/brief-history-internet-related-networks) , [Internet History Timeline: ARPANET to the World Wide Web](https://www.livescience.com/20727-internet-history.html)
 
 <!-- [comment]:(footnote 10 = original links not working)-->
 
-##### Note 10 
+##### Note 10
  There	is	a	common	way	of	thinking	about	these	layers	called	the	Open	Systems	Interconnect	model.	For	a	simple	overview	of	the	layers	see: [The OSI Model](http://cisco.8bits.ca/osi/), [Support Microsoft](https://support.microsoft.com/en-us), [Internet History Timeline: ARPANET to the World Wide Web](https://www.livescience.com/20727-internet-history.html)
 
-##### Note 11 
+##### Note 11
  [TCP-IP Explained](https://www.youtube.com/watch?v=7rR8p6gsExY)
 
-##### Note 12 
+##### Note 12
  [Basic Internet Principles](http://cs.smu.ca/%7Eporter/csc/465/notes/net/internetprinciples.html)
 
 
 <!-- [comment]:(footnote 13 = original links not working : https://www.wholesale.bell.ca/our-network/ ; http://qexpressnet.com/network/routing-map)-->
 
-##### Note 13 
+##### Note 13
  You	can	see	some	of	the	maps	for	this	physical	infrastructure	at: [Business Shaw](https://business.shaw.ca/), [ArcticFibre](http://qexpressnet.com/),[Global Internet Map 2012](https://global-internet-map-2012.telegeography.com/)
 
-##### Note 14 
+##### Note 14
  [Mobile Standard](http://www.3gpp.org/technologies/keywords-acronyms/98-lte)
 
-##### Note 15 
+##### Note 15
  [2G networks are vulnerable to eavesdropping](https://media.blackhat.com/bh-dc-11/Perez-Pico/BlackHat_DC_2011_Perez-Pico_Mobile_Attacks-Slides.pdf)
 
 <!-- [comment]:(footnote 16 = original link not working : http://www.crtc.gc.ca/eng/com100/2011/r110503.htm)-->
 
-##### Note 16 
+##### Note 16
  [The CRTC has committed to providing broadband to all Canadians](https://crtc.gc.ca/eng/home-accueil.htm)
 
-##### Note 17 
+##### Note 17
  Each	ISP	provides	guides	on installing a home network	for	each	type	of	connection. They will normally send	a	technician to	Install	everything as some specialized	knowledge	and	tools	are	required. An example of set	up	guides	are	found	at: [Bell Canada](https://support.bell.ca/Internet/Connection-help/How-to-set-up-my-Connection-Hub#displayStep), [Videotron](https://support.videotron.com/residential/internet/connect-modem-router)
 
-##### Note 18 
+##### Note 18
  For more detailed information on Wi-Fi see:[Wireless tutorial](pages.cpsc.ucalgary.ca/%7Ecarey/CPSC641/slides/wireless/WirelessTutorial.pdf)
 
-##### Note 19 
+##### Note 19
  To read 	about	such	a	case,	see: [Hardware keyloggers discovered at public libraries](https://nakedsecurity.sophos.com/2011/02/14/hardware-keyloggers-discovered-public-libraries/)
 
-##### Note 20 
+##### Note 20
  To	read	about	this,	see:[Big Vulnerability in Hotel Wi-Fi Router Puts Guests at Risk](http://www.wired.com/2015/03/big-vulnerability-hotel-wi-fi-router-puts-guests-risk/)

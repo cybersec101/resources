@@ -1,7 +1,7 @@
-# Concepts de sécurité
+# Concepts de Sécurité
 
 
- Le présent document sert de guide de référence et de préparation
+_Le présent document sert de guide de référence et de préparation
 pour le formateur, ainsi que de complément au plan de leçon.
 
 Les connaissances que l’apprenant doit avoir acquises au terme
@@ -13,7 +13,7 @@ vers des références permettant au formateur d’en apprendre
 plus sur le sujet. Il pourra ainsi mener les discussions et répondre
 aux questions avec assurance, sans être limité par la matière.
 Par ailleurs, chaque élément de la section « Contexte et détail
-pour le formateur » vient étayer une partie du scénario.
+pour le formateur » vient étayer une partie du scénario._
 
 ### Objectifs d’apprentissage
 
@@ -53,7 +53,7 @@ vous surveillez vos biens de valeurs.
 		- De la même façon, avec votre ordinateur, vous devez garder vos mots de passe
 confidentiels et vérifier que la sécurité est activée.
 
-	
+
 
 
 - « C’est pénible. »
@@ -68,7 +68,7 @@ gênantes; aujourd’hui, on n’y pense plus et elles permettent de sauver des 
 		- Une fois que vous aurez pris l’habitude, ce sera un automatisme et vous vous
 éviterez bien des soucis à long terme.
 
-	
+
 - « C’est trop compliqué. »
 
 	- Avec un peu de formation et quelques bons trucs, n’importe qui peut appliquer les principes de sécurité de base.
@@ -79,11 +79,11 @@ plus techniques à une personne-ressource de confiance.
 
 	- Veiller à ce que **_quelqu’un_** s’occupe de la sécurité.
 
-	
+
 
 - « Je ne suis pas à risque. »
 
-	- L’automatisation expose tout le monde au crime. 
+	- L’automatisation expose tout le monde au crime.
 		- Les gens sont ciblés de façon arbitraire.
 
 		- Cela n’a rien à voir avec ce qu’ils ont à perdre. Même les personnes moins
@@ -346,14 +346,14 @@ Sans trop d’efforts, vous pouvez grandement réduire les risques. Puis, si vou
 
 #### 5.2 En détail
 
-	
+
 - Dans le monde réel, les discussions sur la santé et la sécurité sont chose commune. Nous prenons soin de notre santé et évitons d’être victimes d’un crime en prenant les précautions nécessaires selon le contexte.
 
 	- Nous nous faisons vacciner avant de voyager à l’étranger, mais pas pour se rendre chez un ami.
 
 	- Rien ne nous garantit d’être protégé à cent pour cent, mais ça aide.
 
-	
+
 - De la même façon, nous devons protéger notre ordinateur avant d’aller sur Internet
 en le configurant correctement, en appliquant les correctifs nécessaires et en gardant
 le logiciel de sécurité à jour et fonctionnel.
@@ -389,5 +389,5 @@ Réseau de zombies | Regroupement d’ordinateurs contrôlés à distance.
 Zombie | Ordinateur infecté par un programme malveillant et contrôlé à distance; fait partie d’un réseau de zombies.
 
 
-##### Note 1 
+##### Note 1
  [Commissariat à la protection de la vie privée du Canada](https://www.priv.gc.ca/fr/mesures-et-decisions-prises-par-le-commissariat/enquetes/)

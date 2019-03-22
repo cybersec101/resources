@@ -1,11 +1,11 @@
 # Others' Behaviour
 
 
-This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
+_This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
 
 The Learning Objectives summarize the knowledge that learners should have gained by the time they reach the end of the module.
 
-The Background and Detail for Trainer provides greater details on the content, and links to references. It will allow trainers to learn more about the topic so they can lead discussions or answer questions confidently without being limited to the classroom content. Each item in the Background supports a section in the Lesson Script.
+The Background and Detail for Trainer provides greater details on the content, and links to references. It will allow trainers to learn more about the topic so they can lead discussions or answer questions confidently without being limited to the classroom content. Each item in the Background supports a section in the Lesson Script._
 
 ### Learning objectives
 
@@ -31,7 +31,7 @@ and	talking	about	bullying	can	be	the	first	step	towards	stopping	it.
 
 #### 1.2 In Detail
 
-	
+
 - There	is	no	practical	difference	between	online	harassment	and	online/cyber	bullying.
 
 	- The terms are often used interchangeably, although bullying is more frequently associated
@@ -47,7 +47,7 @@ with	school	or 	work	environments [Note 1](#note-1).
 
 
 
-	
+
 
 
 - It	is	impossible	to	know	exactly	how	much	cyberbullying	goes	on	among	teens,	but	it	is	likely
@@ -123,7 +123,7 @@ although	their	postings	were	intentional,	they	intended	no	harm.
 
 		- not	necessarily	be	those	who	are	mean	to	others	in	real	life,	although	this	is	often the case.
 
-	
+
 - What	are	the	effects	on	the	victim?
 
 	- They may express emotions such as anger, sadness, frustration, embarrassment, stress,
@@ -196,19 +196,19 @@ with	age.
 
 
 		- [Protect Kids](http://www.thedoorthatsnotlocked.ca/app/en/)
-		
+
 		- [Canadian Centre for Child Protection](https://protectchildren.ca/en/)
-		
+
 		- [MediaSmarts](http://mediasmarts.ca/stay-path-teaching-kids-be-safe-and-ethical-online-portal-page)
-		
+
 		- [Bullying and cyberbullying: learning resources ](http://www.rcmp-grc.gc.ca/cycp-cpcj/bull-inti/bullres-resinti-eng.htm)
-		
+
 		- [Securite Publique](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cbr-scrt/cbrbllng/index-en.aspx)
-		
+
 		- [Get Cyber Safe](http://www.getcybersafe.gc.ca/cnt/cbrbllng/tns/index-en.aspx)
-		
+
 		- [Kids help phone](https://kidshelpphone.ca/)
-		
+
 		- [SPVM](https://spvm.qc.ca/fr/Jeunesse/Cyberintimidation)
 
 
@@ -232,7 +232,7 @@ Being	aware	of	and	supportively	involved	in	their	use	of	the	Internet	can	provid
 
 #### 2.2 In Detail
 
-	
+
 
 
 - The	Internet	provides	an	avenue	for	predators to contact and	abuse	vulnerable	members	of society. This can result in the sexual abuse of young people.
@@ -259,7 +259,7 @@ Being	aware	of	and	supportively	involved	in	their	use	of	the	Internet	can	provid
 		- This	makes	online	sexual	abuse	particularly	harmful,	as	the	torment	is	prolonged
 far beyond the initial abuse.
 
-	
+
 
 
 - There	is	no	single	risk	factor	for 	abuse.
@@ -275,7 +275,7 @@ that	can	decrease	a	young	person's	resilience,	making	them	vulnerable	to	abuse.
 
 		- This,	combined	with	a	tendency	to	explore	sexual	urges,	makes	them	likely	to	be particularly	vulnerable	online.
 
-	
+
 - Predators	build	relationships	with	children	over	time	and	in	many	ways.
 
 	- The	amount	of	time	this	process	takes	varies	from	seconds	to	years.
@@ -311,7 +311,7 @@ online than other young people.
 with	Internet	as	well	as	a	supportive	relationship	with	parents	and	peers	can	reduce	the
 likelihood	of	being	victimized	online.
 
-	
+
 
 - Victims	may	respond	to	abuse	in	many	ways.
 
@@ -371,7 +371,7 @@ Recognize,	Report	and	Stop	Fraud	online.
 
 #### 3.2 In Detail
 
-	
+
 
 
 - The	ease	of	communications	on	the	Internet	allows	scammers	and	con	artists	to	reach	more people more easily.
@@ -415,8 +415,8 @@ money	service	businesses.Never	give	out	family	members’	names	or
 information	to	unknown	callers.
 
 			- Always	question	urgent	requests	for	money.
-	
-	
+
+
 	- Romance scams
 
 
@@ -459,7 +459,7 @@ and	seeking	financial	assistance	from	the	victim	for	various	costs.
 
 			- Don't cash any cheques or send the person any money for any reason, whatsoever!
 
-	
+
 
 
 - A Company Suddenly Contacts you
@@ -516,7 +516,7 @@ speaking	to	a	real	employee	of	the	real	company.
 
 			- If 	you	feel	pressured,	never	hesitate	to	terminate	a	call.
 
-	
+
 
 
 - You	unexpectedly	win
@@ -562,7 +562,7 @@ number to pay for fees such as taxes.
 
 		- How	to	protect	yourself
 
-			- Any 	unsolicited	phone	call	advising	that	you	have	won	a	lottery	is	fake.	The	
+			- Any 	unsolicited	phone	call	advising	that	you	have	won	a	lottery	is	fake.	The
 only	way 	to	participate	in	any	foreign	lottery	is	to	go	to	the	country	of 	origin
 and	purchase	a	ticket	in	person.	A	ticket	cannot	be	bought	on	your	behalf.
 
@@ -584,7 +584,7 @@ a	credit	card	number	to	cover	taxes	before	going	on	the	vacation,	hang	up.
 
 			- If 	it	seems	too	good	to	be	true...it	is.
 
-	
+
 - Buying and selling online
 
 	- Buying online
@@ -669,7 +669,7 @@ remove	add	from	website	immediately.
 		- Don’t	feel	pressured	into	doing	something	you’re	unsure	about.
 		- Trust your instincts.
 
-	
+
 
 
 - Counterfeit products
@@ -739,7 +739,7 @@ been	phished,	by	calling	banks	and	service	providers.
 
 #### 4.2 In Detail
 
-	
+
 
 
 - We	all	face	a	constant	challenge	with	fraud	online.
@@ -756,7 +756,7 @@ can	take.
 
 - There are many things that you can do to reduce the harm.
 
-	
+
 
 
 - Changing	passwords,	checking	statements	and	calling	to	confirm	all	help.
@@ -771,7 +771,7 @@ can	take.
 
 	- If 	you	think	you	or	someone	you	know	has	been	a	victim	of	fraud,	contact	the	Canadian	Anti-Fraud	Centre	at:	1-888-495-8501	or	report	online	at [Canadian	Anti-Fraud	Centre](http://www.antifraudcentre-centreantifraude.ca/index-eng.htm)
 
-	
+
 - If 	you	suspect	there	has	been	an	attempt	at	fraud	related	to	a	bank	account	or	credit	card,
 contact	the	bank	or	card	provider	immediately.	Their	contact	details	are	generally	listed	on
 their	website.	Some	have	been	included	here	for	convenience.
@@ -810,7 +810,7 @@ their	website.	Some	have	been	included	here	for	convenience.
 
 	- Servus	Credit	Union
 		- 1.877.378.8728
-	
+
 	- Tangerine
 		- 1-888-SAFE-304	(1-888-723-3304)
 
@@ -820,8 +820,8 @@ their	website.	Some	have	been	included	here	for	convenience.
 		- TD	Direct	Investing:	1 800 465 5463
 		- TD	Insurance: 1 877 397 4187
 		- Web	Business	Banking	Support: 1 800 668 7328
-		
-		
+
+
 	- Emergency/lost	or	stolen	cards	phone	numbers	for	financial	institutions:
 
 
@@ -845,9 +845,9 @@ their	website.	Some	have	been	included	here	for	convenience.
 		- Sears Canada: 1-800-288-9965
 		- TD: 1-888-347-3261
 		- Walmart	Canada	Bank:	1-888-925-6218
-		
-		
-		
+
+
+
 	- American	Express
 		- Lost or Stolen Card
 		- In	 Toronto:	(905)	474-0870
@@ -856,7 +856,7 @@ their	website.	Some	have	been	included	here	for	convenience.
 
 
 	- Visa
-		- Canada:	1-800-847-2911,	
+		- Canada:	1-800-847-2911,
 		- [Visa on line](http://www.visa.ca/en/aboutcan/contacts.jsp)
 
 #### 4.3 In Practice
@@ -887,21 +887,20 @@ Webcam| A	video	camera	that	is	able	to transmit video	signal	over the	Internet.
 YouTube|A	website	(youtube.com)	that	provides	access	tovideo	content.
 
 
-##### Note 1 
+##### Note 1
  [Internet Harassment or Cyberbullying](https://www.ccohs.ca/oshanswers/psychosocial/cyberbullying.html)
 
-##### Note 2 
+##### Note 2
  [A Handbook for Police and Crown Prosecutors on Criminal Harassment](https://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/har/part1.html)
 
-##### Note 3 
+##### Note 3
  [Creating a world without bullying](http://www.prevnet.ca/bullying/facts-and-solutions)
 
-##### Note 4 
+##### Note 4
  [A Handbook for Police and Crown Prosecutors on Criminal Harassment](https://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/har/part1.html)
 
-##### Note 5 
+##### Note 5
  [What is cyberbullying?](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/cbrbllng/prnts/cbrbllng-en.aspx)
 
-##### Note 6 
+##### Note 6
  [What is online abuse?](https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/online-abuse/)
-

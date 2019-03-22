@@ -1,11 +1,11 @@
-#Security Concepts
+# Security Concepts
 
 
-This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
+_This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
 
 The Learning Objectives summarize the knowledge that learners should have gained by the time they reach the end of the module.
 
-The Background and Detail for Trainer provides greater details on the content, and links to references. It will allow trainers to learn more about the topic so they can lead discussions or answer questions confidently without being limited to the classroom content. Each item in the Background supports a section in the Lesson Script.
+The Background and Detail for Trainer provides greater details on the content, and links to references. It will allow trainers to learn more about the topic so they can lead discussions or answer questions confidently without being limited to the classroom content. Each item in the Background supports a section in the Lesson Script._
 
 ### Learning objectives
 
@@ -49,7 +49,7 @@ passwords, and to check that your security protection is turned on.
 
  		- Seatbelts in cars were also once considered to be inconvenient but they became a
 habit and they save lives.
- 
+
  		- Once you develop a few habits, they will become automatic and will save you a lot
 of trouble in the long term.
 
@@ -67,7 +67,7 @@ of trouble in the long term.
 	- Automation allows everyone to be a target of crime at the same time.
 
  		- People are targeted indiscriminately.
- 
+
  		- It does not matter how much you have to lose. Even people with no money at all
 can have their identity stolen or their computer hijacked for a malicious purpose.
 
@@ -104,7 +104,7 @@ connection and computer’s resources can be valuable to others.
 	- Profit-seeking people and organizations are motivated to find out about you.
 
  		- At times, they can overstep boundaries and invade your privacy.
- 
+
  		- At other times, the information you hold (such as credit card details) might be
 targeted by criminals [Note 1](#note-1).
 
@@ -113,16 +113,16 @@ targeted by criminals [Note 1](#note-1).
 	- Be cautious when giving out your information.
 
  		- This includes entering information into forms online and over the telephone.
- 
+
  		- Ask yourself if this website or caller needs this information.
- 
+
  		- If it seems suspicious, think twice about entering information or consider entering
 inaccurate (fake) information. There is no rule that you have to fill in every form
 accurately on the Internet.
- 
+
  		- If you are entering information on a webpage, consider leaving blank any boxes
 that are not mandatory (mandatory boxes are normally indicated with an ‘*’).
- 
+
  		- If there you feel that a person or company’s need to have your information is not
 genuine and justifiable there is no need to give it to them.
 
@@ -134,7 +134,7 @@ bank or take out lines of credit in your name.
 
 		- Posting information such as your date of birth, address, family members and pets’
 names may give criminals information they can use to commit crimes.
- 
+
 		- This information can give them clues for your or your friends’ or families’
 passwords, or provide information about what you have in your home and when
 you will be away.
@@ -245,7 +245,7 @@ manipulate the data or change them to deceive you.
 
 		- Information can be stolen when it is stored on a computer or when it travels across
 the Internet between computers.
- 
+
  		- A great deal of this manipulation and stealing is automated and performed by
 computer software that criminals have downloaded or written themselves
 called malware.
@@ -254,12 +254,12 @@ called malware.
 
  				- Retrieve information from your computer (for example, copy files, record
 web activity or what you type).
- 
+
  				- Manipulate information on your computer (such as lock the information
 on the computer and demand a ransom).
- 
+
  				- Manipulate information you send (such as send email on your behalf).
- 
+
  				- Manipulate information you receive (such as change the results of
 a search).
 
@@ -274,10 +274,10 @@ a search).
 
  				- Because these infected computers operate without their owner’s
 direction, they are called Zombies.
- 
+
  				- A large number of computers under the control of one person is called a
 Botnet (as in as a Robot network).
- 
+
  		- Security software can help, but only help.
 
 			- Security software packages can detect malware on your computer.
@@ -287,7 +287,7 @@ Botnet (as in as a Robot network).
 			- Encryption can help prevent malware from reading or manipulating
     your communications.
 
-				- For example, in an Internet browser, a web address which includes an ‘s’, after the http (http **_s_** ://) tells you the connection is encrypted. 
+				- For example, in an Internet browser, a web address which includes an ‘s’, after the http (http **_s_** ://) tells you the connection is encrypted.
 
 		- The best defence against fraud is a skeptical mind and being informed. If you feel you are being tricked, stop and discuss the situation with someone you trust.
 
@@ -322,9 +322,9 @@ security software is updated and functional before you go out onto the Internet.
 	- Good habits:
 
  		- Think before you click;
- 
+
  		- Look for indicators of security; and
- 
+
  		- Think critically when dealing online.
 
 	- Support is available from friends or advisors such as your financial services provider, your
@@ -347,5 +347,5 @@ Security Mind-set|A way of thinking about computers that focuses on security def
 Social Media|Internet technologies designed for socialising and sharing such as Facebook, and Twitter.
 Zombie Computer|A computer that is infected with malware that allows it to be controlled remotely and is part of a botnet.
 
-##### Note 1 
+##### Note 1
  [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/)
