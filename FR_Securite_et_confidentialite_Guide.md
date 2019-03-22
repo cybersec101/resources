@@ -1,5 +1,6 @@
 # Sécurité et confidentialité
 
+![Image Missing](/badges/Security_and_Privacy.png "Unit Badge")
 
 Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
 

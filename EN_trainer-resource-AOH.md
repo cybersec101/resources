@@ -1,5 +1,6 @@
 # Addressing Online Hate
 
+![Image Missing](/badges/Addressing_Online_Hate.png "Unit Badge")
 
 This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
 

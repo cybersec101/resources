@@ -1,5 +1,6 @@
 # Aborder le discours haineux en ligne
 
+![Image Missing](/badges/Addressing_Online_Hate.png "Unit Badge")
 
 Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
 

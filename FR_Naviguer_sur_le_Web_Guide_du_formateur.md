@@ -1,5 +1,6 @@
 # Naviguer sur le Web
 
+![Image Missing](/badges/Going_out_onto_the_Internet.png "Unit Badge")
 
 Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
 

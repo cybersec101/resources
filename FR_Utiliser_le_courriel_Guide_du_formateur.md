@@ -1,5 +1,6 @@
 # Utiliser le courriel
 
+![Image Missing](/badges/Checking_the_Mail.png "Unit Badge")
 
 Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
 
