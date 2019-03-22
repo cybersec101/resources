@@ -156,7 +156,7 @@ a regular basis.
     			- A USB drive is the best option for most computers.
 				- A USB port on your computer will often be marked with this symbol:
 
-				- Image :  ![Image Missing](/images/EN_Have_a_Backup_01.png "Optional Title")
+				- I  ![Image Missing](/images/EN_Have_a_Backup_01.png "USB Symbol")
 
 
 
@@ -316,12 +316,12 @@ from the list, then click **_Use Disk._**
 
 				- After you choose a backup disk, optionally click **_Add_** or **_Remove Backup Disk_** to add more backup disks for extra security and convenience.   
 
-				- Image : ![Image Missing](/images/EN_Have_a_Backup_06.png "Optional Title")
+				- ![Image Missing](/images/EN_Have_a_Backup_06.png "Apple Time Machine Preferences")
 
 
 
 
-			- Back up using Time Machine:
+			- Image Back up using Time Machine
 
 				- After you set up Time Machine, it automatically makes hourly backups
 of the past 24 hours, daily backups for the past month, and weekly
@@ -346,7 +346,7 @@ until the next automatic backup ![Image Missing](/images/EN_Have_a_Backup_08.png
 from the Time machine menu, click **_Options,_** then click **_Add_** ![Image Missing](/images/EN_Have_a_Backup_09.png)
 and select the item to exclude.  
 
-- Image : ![Image Missing](/images/EN_Have_a_Backup_10.png "Optional Title")
+- ![Image Missing](/images/EN_Have_a_Backup_10.png "Apple time Machine Preferences)
 
 
 
@@ -410,7 +410,7 @@ system recovery.
 
 				- Turn on **_File History._** [Note 5](#note-5).
 
-				- Image :L ![Image Missing](/images/EN_Have_a_Backup_12.png)
+				- ![Image Missing](/images/EN_Have_a_Backup_12.png "Windows Backup Preference")
 
 
 
@@ -506,7 +506,7 @@ other options [Note 7](#note-7).
 
 	- Recover an Apple system by holding down the command and R keys at start up with the backup drive connected [Note 8](#note-8).
 
-	- Image : ![Image Missing](/images/EN_Have_a_Backup_18.png "Optional Title")
+	- ![Image Missing](/images/EN_Have_a_Backup_18.png "Recovery Screen on Apple Computer")
 
 
 
