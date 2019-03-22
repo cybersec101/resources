@@ -1,5 +1,7 @@
 # Un ordinateur en bon état
 
+![Image Missing](/badges/A_Healthy_Computer.png "Unit Badge")
+
 
 Le présent document sert de guide de référence et de préparation
 pour le formateur, ainsi que de complément au plan de leçon.
