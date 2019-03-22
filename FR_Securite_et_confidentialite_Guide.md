@@ -467,12 +467,14 @@ Verrouillage de l’écran|Barrière	prévenant l’accès aux fonctions	d’un	
  [Définir le verrouillage de l'écran sur un appareil Android](https://support.google.com/android/answer/9079129?hl=fr&visit_id=636876620493051287-2664977431&rd=1)
 
 ##### Note 7
+
 <!--
  Stone-Gross, B., Abman, R., Kemmerer, R. A., Kruegel, C., Steigerwald, D. G., & Vigna, G. (2013). The underground economy of fake antivirus software. In Economics of information security and privacy III (pp. 55-78). Springer, New York, NY.
 
  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.412.3289&rep=rep1&type=pdf
--->
- [Une liste d'antivirus malhonnêtes sur wikipedia] https://en.wikipedia.org/wiki/List_of_rogue_security_software
+ -->
+
+[Une liste d'antivirus malhonnêtes sur wikipedia] (https://en.wikipedia.org/wiki/List_of_rogue_security_software)
 
 ##### Note 8
  [Pour	voir	une	comparaison	de	la	performance](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf)
