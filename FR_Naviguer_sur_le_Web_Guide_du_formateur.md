@@ -158,7 +158,7 @@ __exemple.com__ :
   <tr>
     <td>xample.com, example.com, xemple.com</td>
     <td>Faute	de	frappe</td>
-    <td rowspan="3">MISE	EN	GARDE :	Ne visitez	aucun	de ces sites. Certains contiennent des programmes	malveillants.</td>
+    <td rowspan="3">:skull:MISE	EN	GARDE :	Ne visitez	aucun	de ces sites. Certains contiennent des programmes	malveillants.:skull:</td>
   </tr>
 
   <tr>
@@ -886,10 +886,10 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 
 	- Plusieurs	indices	sur	la	page	ci-dessus indiquent qu’elle	est	dangereuse. Deux	d’entre	eux sont très évidents	(1 et 2).	Les	deux	autres	le	sont un peu moins (3 et 4),	mais	viennent	appuyer	les	premiers.
-		_1_: Il	n’y 	a	pas	d’icône	de	cadenas ni de vert dans	la	barre	d’adresse.	Cela	indique que la page n’utilise	pas	de	connexion	sécurisée	et	ne présente aucun certificat	de	sécurité.	La	page	outlook.com devrait avoir	les	deux.
-		_2_: Le	nom	de	domaine	n’appartient pas	à	Microsoft.	En	effet,	«	native-adventure. com	»	n’est	pas	ce	qu’on	devrait	voir.	Cela	nous	indique	que	la	page	est probablement	fausse	et	qu’elle	sert	à	de	l’hameçonnage.
-		_3_: Propos	menaçants.	Il	n’est	pas	normal	pour	les	entreprises	authentiques	de menacer	les	clients	de	désactiver	leur	compte.
-		_4_: Grammaire	de	piètre	qualité.	Il	est	très	peu	probable	qu’une	grande entreprise	comme	Microsoft	publie	du	contenu	mal	rédigé.
+		- _1_: Il	n’y 	a	pas	d’icône	de	cadenas ni de vert dans	la	barre	d’adresse.	Cela	indique que la page n’utilise	pas	de	connexion	sécurisée	et	ne présente aucun certificat	de	sécurité.	La	page	outlook.com devrait avoir	les	deux.
+		- _2_: Le	nom	de	domaine	n’appartient pas	à	Microsoft.	En	effet,	«	native-adventure. com	»	n’est	pas	ce	qu’on	devrait	voir.	Cela	nous	indique	que	la	page	est probablement	fausse	et	qu’elle	sert	à	de	l’hameçonnage.
+		- _3_: Propos	menaçants.	Il	n’est	pas	normal	pour	les	entreprises	authentiques	de menacer	les	clients	de	désactiver	leur	compte.
+		- _4_: Grammaire	de	piètre	qualité.	Il	est	très	peu	probable	qu’une	grande entreprise	comme	Microsoft	publie	du	contenu	mal	rédigé.
 
 
 
@@ -897,13 +897,10 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 
 
-		_1_: L’icône	de	cadenas	verte	confirme	la	présence	d’une	connexion	sécurisée.
-		_2_: Il	y	a	un	certificat	de	sécurité	provenant	de	l’organisation	qui	est	censée posséder	ce	site.
-		_3_: Le	nom	de	domaine	est	particulier;	toutefois,	la	boîte	verte	indiquant	le propriétaire	de	la	page	vient	l’appuyer	(live.com	est	une	marque	utilisée	par Microsoft	pour	rassembler	plusieurs	services	comme	Hotmail,	Outlook	et MSN).
-
-
+		- _1_: L’icône	de	cadenas	verte	confirme	la	présence	d’une	connexion	sécurisée.
+		- _2_: Il	y	a	un	certificat	de	sécurité	provenant	de	l’organisation	qui	est	censée posséder	ce	site.
+		- _3_: Le	nom	de	domaine	est	particulier;	toutefois,	la	boîte	verte	indiquant	le propriétaire	de	la	page	vient	l’appuyer	(live.com	est	une	marque	utilisée	par Microsoft	pour	rassembler	plusieurs	services	comme	Hotmail,	Outlook	et MSN).
 			- À	noter	aussi	l’absence	d’erreur	de	grammaire	et	de	propos	menaçant. ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_21.png "Optional Title")
-
 
 		- Une	page	comme	celle-ci	est	un	clair	avertissement	que	la	page	à	laquelle	vous tentez	d’accéder	est	dangereuse.	Elle	s’affiche	lorsque	le	navigateur	détecte	que la	page	a	un	problème.	Cliquez	sur	le	bouton	de	retour	pour	éviter	le	site.
 
