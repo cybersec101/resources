@@ -283,14 +283,14 @@ si vous ne portez pas votre ceinture.
 - Les	détaillants	d’appareils	électroniques	et	de	fournitures	de	bureau	offrent	souvent un grand choix de logiciels de sécurité.
 
 	- Il	n’est	pas	possible	de	recommander	un	produit	spécifique,	mais	il	existe	une	liste	de ce qu’il ne faut pas acheter. De nombreuses applications prétendent être des antivirus,
-    mais	ne	sont	en	réalité	que	des	arnaques	ou	des	virus	eux-mêmes.
-
-[comment]: # (the footnote 7 was after the word: eux-mêmes. original links not working = http://asafercomputer.co.uk/?q=Library)
+    mais	ne	sont	en	réalité	que	des	arnaques	ou	des	virus	eux-mêmes [Note 7](#note-7).
 
 	- Lorsque vous achetez un logiciel de sécurité, vous achetez à la fois un produit et un service.
-	- Sur Internet, les menaces et les programmes malveillants changent sans cesse. Votre logiciel de sécurité doit donc être capable de s’adapter pour bien vous protéger.
-		- L’entreprise qui vous vend le logiciel de sécurité doit le mettre
-    à jour constamment.
+
+	- Sur Internet, les menaces et les programmes malveillants changent sans cesse. Votre logiciel de sécurité doit donc
+		être capable de s’adapter pour bien vous protéger.
+
+		- L’entreprise qui vous vend le logiciel de sécurité doit le mettre à jour constamment.
 
 		- Les modalités d’abonnement varient d’un produit à l’autre.
 
@@ -465,6 +465,14 @@ Verrouillage de l’écran|Barrière	prévenant l’accès aux fonctions	d’un	
 
 ##### Note 6
  [Définir le verrouillage de l'écran sur un appareil Android](https://support.google.com/android/answer/9079129?hl=fr&visit_id=636876620493051287-2664977431&rd=1)
+
+##### Note 7
+<!--
+ Stone-Gross, B., Abman, R., Kemmerer, R. A., Kruegel, C., Steigerwald, D. G., & Vigna, G. (2013). The underground economy of fake antivirus software. In Economics of information security and privacy III (pp. 55-78). Springer, New York, NY.
+
+ http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.412.3289&rep=rep1&type=pdf
+-->
+ [Une liste d'antivirus malhonnêtes sur wikipedia] https://en.wikipedia.org/wiki/List_of_rogue_security_software
 
 ##### Note 8
  [Pour	voir	une	comparaison	de	la	performance](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf)
