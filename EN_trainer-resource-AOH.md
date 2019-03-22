@@ -1,4 +1,4 @@
-#Addressing Online Hate
+# Addressing Online Hate
 
 
 This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
@@ -29,7 +29,7 @@ to a group are harmful and can be illegal. It is vital to be able to identify ha
 #### 1.2 In Detail
 
 - Equality is an important human right and each person has right to be free from discrimination.
-    
+
     - There are many laws that guarantee this right:
 
 		- The 1st and 2nd articles of the United Nations Universal Declaration of Human Rights [Note 1](#note-1).
@@ -44,22 +44,22 @@ to a group are harmful and can be illegal. It is vital to be able to identify ha
 - Freedom can be threatened by expressions of hate online
 
 - Hate speech is a crime in Canada.
-   
+
     - Hate speech compromises the basic right to not face hostility, violence, or discrimination
-   
+
     - 	It	has	a	long-term	detrimental	effect	on	the	affected
-   
+
     - 	Hate	crime	can	represent	a	source	of	terror 	for 	members	of	affected	minority	groups
-   
+
     - To be prosecuted as a crime the speech must be public, deliberate, severe, targeted at an
        identifiable	group,	and	hateful	in	its	context.
-   
+
     - The Criminal Code of Canada states that “Every one who, by communicating statements
        in	any 	public	place,	incites	hatred	against	any	identifiable	group	where	such	incitement	is
-       likely 	to	lead	to	a	breach	of	the	peace	is	guilty”	of 	an	indictable	or	punishable	offence [Note 4](#note-4). 
+       likely 	to	lead	to	a	breach	of	the	peace	is	guilty”	of 	an	indictable	or	punishable	offence [Note 4](#note-4).
 
 	- 	Some	forms	of	speech	are	excluded	from	this	definition	such	as	where:
-       
+
 
 		- the speech is to identify hateful material,
 
@@ -93,7 +93,7 @@ they are not human but are something other and somehow lesser [Note 5](#note-5).
 
 	- Absolutists of free speech “advocate complete freedom of expression without any
     restrictions whatsoever” [Note 7](#note-7).
-   
+
 
 	- Others see value in placing limits on speech that would cause harm [Note 8](#note-8).
 
@@ -108,7 +108,7 @@ they are not human but are something other and somehow lesser [Note 5](#note-5).
 
 			- "be construed as denying the existence of any other rights or freedoms that exist in Canada” [Note 9](#note-9).
 
-	- Consequently,	it	is	important	that	citizens	find	non-judgmental	spaces	to	openly	discuss	
+	- Consequently,	it	is	important	that	citizens	find	non-judgmental	spaces	to	openly	discuss
 their opinions while also encouraging criticality, empathy and tolerance.
 
 - 	Being	able	to	identify	a	problem	is	often	the	first	step	in	the	process	of	solving	a	problem.		So,
@@ -117,9 +117,9 @@ it is important to be able to identify expressions of hate and hate speech.
 	- Hate speech could appear in:
 
 		- Racially 	motivated	graffiti
-		
+
 		- Pamphlets denying that the Holocaust occurred.
-		
+
 		- Flyers condemning gay sex as immoral.
 
 
@@ -135,19 +135,19 @@ it is important to be able to identify expressions of hate and hate speech.
 		- 	Coming	home	to	find	“tranny”	spray-painted	on	your 	fence.
 
 		- Being laughed at or mimicked for having a physical disability [Note 10](#note-10)
-		
+
 		- Somone being abused because of their status on a social network.
 
 
 - To prevent the harms of hate speech, it is important to recognize hate speech and
     marginalization of groups within our local and global communities.
 
-- Awareness of wrongdoing and the law allows us to protect peoples’ rights by: 
-	
+- Awareness of wrongdoing and the law allows us to protect peoples’ rights by:
+
 	- making choices ourselves,
-    
+
     - educating those around us anD
-    
+
     - in extreme cases talking to the police.
 
 #### 1.3 In Practice
@@ -257,7 +257,7 @@ non-discriminatory online spaces in which to participate.
 
 #### 3.2 In Detail
 
-- It	is	important	to	understand	that	a	website	or	Social	Media	post	can	look	official	and	
+- It	is	important	to	understand	that	a	website	or	Social	Media	post	can	look	official	and
     legitimate without being either.
 
 	- There	is	no	official	system	to	check	that	websites	are	providing	information	that	is	correct,
@@ -265,11 +265,11 @@ non-discriminatory online spaces in which to participate.
 - Identifying propaganda sites is not easy because
 
 	- They can be created to look professional and like authentic news sites.
-	
+
 	- They 	can	have	an	artificially	large	following	on	Social	Media
-	
+
 		- Fake ‘followers’ can be purchased from illegal service providers
-		
+
 		- ‘Astroturfing’	is	the	creation	and	management	of	automated	virtual	personas	to mcontribute in Social Media for the purposes of creating the impression of a social
 movement.
 
@@ -279,17 +279,17 @@ movement.
        shown by large-scale survey studies (e.g., The Economist and BBC over the Rush Limbaugh
        Show and BuzzFeed) [Note 14](#note-14) , all news and information on the Internet is inevitably biased and
        distorted and should be read critically.
-       
+
 	- Groups have been known to distribute misinformation online with the intention of
        misleading voters or to make money; these stories are sometimes redistributed by
        legitimate media sources.
-    
+
    - Some news outlets are quite disciplined in publicly retracting false or manipulated stories,
        but others might just quietly edit or delete a story proven to be false, if they correct it at all.
-   
+
    - Thinking critically about stories and sites can help to avoid forming opinions based on
        biased or false stories.
-       
+
 - In order to be able to identify what is trustworthy, people need to be able to think critically
 
 	- Critical thinking skills empower Internet users to navigate the online world as informed,
@@ -355,21 +355,21 @@ particularly when instances of hate are ambiguous.
 - “[Who am I?](https://www.commonsense.org/education/app/who-am-i-race-awareness-game)” is a race awareness online game for children.
 
 - It is important to feel that you can talk about these issues in an understanding space.
-    
+
 	- Offline	conversations	about	online	behaviours	can	happen	in	community	courses,	in
        classrooms, with friends, and with family.
 
 - It is vital that you know your rights as an individual and the rights of others.
 
 - You	can	report	online	hate	through	official	channels.
-    
+
 	- You can report incidents to the platform administrators as well as to the police or law
        enforcement, your workplace management, or your school administration.
-       
+
 	- Most online publishing or hosting services include in their terms of service that illegal
        activity will not be permitted through the use of their service. Many have more recently extended	that	to	include	language	more	specific	to	hate	speech.	Reporting	hate	speech	to the company hosting the speech can result in the material being removed.
 
-	- You	can	find	links	to	places	where	 you	can	report	hate	speech	on	the	webpage	for	this	
+	- You	can	find	links	to	places	where	 you	can	report	hate	speech	on	the	webpage	for	this
     module.
 
 #### 3.3 In Practice
@@ -380,44 +380,44 @@ DO actively question the credibility of what you read and watch online
 
 DO	have	offline	conversations	about	online	behaviour
 
-##### Note 1 
+##### Note 1
  [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
 
-##### Note 2 
+##### Note 2
  [CANADIAN CHARTER OF RIGHTS AND FREEDOMS](https://laws-lois.justice.gc.ca/eng/Const/page-15.html)
 
-##### Note 3 
+##### Note 3
  [Charter of human rights and freedoms](http://legisquebec.gouv.qc.ca/en/ShowTdm/cs/C-12)
 
-##### Note 4 
+##### Note 4
  [Offences Against Rights of Property](https://www.laws-lois.justice.gc.ca/eng/acts/C-46/page-73.html#h-93)
 
-##### Note 5 
+##### Note 5
  For videos and lessons discussing how hate speech after 9/11 affects those of Arab descent, middle easterners and Muslims see: [Le cyberautre](http://projectsomeone.ca/fr/theonlineother)
 
-##### Note 6 
+##### Note 6
  For a discussion on free speech: [Witherspoon](https://www.huffingtonpost.com/entry/free-speech-or-hate-speech-where-do-we-drawthe-line_us_5970df19e4b0f68541cd6316),2017. The Canadian Human Rights Commission (2016) have a [guide](cdpdj.qc.ca/Publications/Charte_simplifiee_EN.pdf) to help understand your rights.
 
-##### Note 7 
+##### Note 7
  For more on absolutist views on free speech see: [Ahmad](https://tribune.com.pk/story/439935/freedom-of-expression-where-can-wedraw-the-line/), 2012. and Meiklejohn, A. (1961). The First Amendment is an absolute. The Supreme Court Review, 1961, 245-266
 
-##### Note 8 
+##### Note 8
  To read a discussion on free speech issues, see: Barendt, E. (2005). Freedom of speech. Oxford University Press.
 
-##### Note 9 
+##### Note 9
  [CANADIAN CHARTER OF RIGHTS AND FREEDOMS](https://laws-lois.justice.gc.ca/eng/Const/page-15.html)
 
-##### Note 10 
+##### Note 10
  [Hate crimes and hate incidents](https://spvm.qc.ca/en/Pages/Report-an-event/Hate-crimes-and-hate-incidents)
 
-##### Note 11 
+##### Note 11
  UN Human Rights : [Report of the Special Rapporteur on minority issues](https://www.ohchr.org/en/hrbodies/hrc/regularsessions/session28/documents/a_hrc_28_64_eng.doc)
 
-##### Note 12 
+##### Note 12
  [Mainstream media must not spread hate speech](https://europeanjournalists.org/blog/2015/01/19/mainstream-medias-shouldnt-spread-hate-speech-we-need-to-change-that-ejn/)
 
-##### Note 13 
+##### Note 13
  [Hate on social media](https://www.safehome.org/resources/hate-on-social-media/)
 
-##### Note 14 
+##### Note 14
  [Political Polarization and Media Habits](http://assets.pewresearch.org/wp-content/uploads/sites/13/2014/10/Political-Polarization-and-Media-Habits-FINAL-REPORT-7-27-15.pdf)
