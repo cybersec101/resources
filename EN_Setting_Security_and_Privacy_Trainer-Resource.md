@@ -28,7 +28,7 @@ Setting	passwords,	switching	firewalls	on	and	checking	privacy	settings	are	impo
 
 #### 1.2 In Detail
 
-	
+
 - Computer	password.
 
 	- Use	the	password	lock	to	open	your	computer—even	if	you	are	the	only	one	who	uses the	computer.
@@ -46,7 +46,7 @@ Setting	passwords,	switching	firewalls	on	and	checking	privacy	settings	are	impo
 
 		- _Windows_:	Go	to	 **_Control panel > user accounts and family safety > Change password_**.
 
-	
+
 
 
 - Computer	firewall	(computer	network	safety	barrier):
@@ -68,7 +68,7 @@ Windows Firewall On_** [Note 2](#note-2).
 
 
 
-	
+
 
 
 - Computer	privacy	settings:
@@ -79,11 +79,11 @@ Windows Firewall On_** [Note 2](#note-2).
 
 
 		- In	some	cases,	this	communication	can	be	more	than	expected	or	required.
-		
+
 		- Make	sure	that	the	operating	system	is	not	sending	out	more	information	than	you are	comfortable	with.
-		
+
 		- This is a balance and is a personal choice about what to share and which features are	 worth a loss in privacy.	It	is	important	to	make	a	choice and not accept the manufacturers	assumptions.
-	
+
 			- Apple	and	Windows	computers	both	have	adjustable	settings	that	control	the amount	of	information	sent	out	through	the	Internet.
 
 			- To	choose	to	adjust	settings	for	the	greatest	privacy,	but	lose	some	features:
@@ -104,12 +104,12 @@ for **_Spotlight Suggestions_** and **_Bing Web Searches_**.
 
 
 	 				- Select	which	applications can access to your	location	information.
-	 				
+
 	 					- If 	you	don’t	want information to adjust	automatically	based	on your	location, turn them all off.
 	 					- You	can	manually	set your location for weather	applications.
-	 				
+
 	 					- If you choose to have some applications access your location automatically,	uncheck the other applications,	click	on	the system	services button and uncheck	the	 **_Safari_** and **_Spotlight Suggestions_** option.
-	 					- _Image_ : ![alt text](tbd.png)
+	 					- : ![Image Missing](/images/Setting_Security_and_Privacy_01.png "Setting Spotlight Suggestions")
 
 
 	 				- Disable	automatic	web	searches.
@@ -193,8 +193,8 @@ turn	them	all	off.
 
 
 	 				- Where	possible	use	a	password	with	letters	and	numbers.
-	 			
-	 				- Using	the	fingerprint	scanning	service	is	a	good	option.	If	you	use a	pattern,	avoid	simple	shapes	(L	shape,	triangle,	square)	and wipe	the	screen	regularly	to	clean	the	smudge	from	the	pattern from	the	screen.	If	you	use	a	four-digit	code	avoid	simple	patterns (1234,	0000,	2580,	1111,	5555,	5683,	0852,	1212,	or	your	birth	year). These	are	not	good	passcodes [Note 4](#note-4). 
+
+	 				- Using	the	fingerprint	scanning	service	is	a	good	option.	If	you	use a	pattern,	avoid	simple	shapes	(L	shape,	triangle,	square)	and wipe	the	screen	regularly	to	clean	the	smudge	from	the	pattern from	the	screen.	If	you	use	a	four-digit	code	avoid	simple	patterns (1234,	0000,	2580,	1111,	5555,	5683,	0852,	1212,	or	your	birth	year). These	are	not	good	passcodes [Note 4](#note-4).
 
 
 
@@ -217,7 +217,7 @@ this	option.
 				- Android
 
 
-					- Open	your	device's	 **_Settings_** app ![alt text](tbd.png). Scroll	down	and	touch Security.	Touch	 **_Screen lock_**.
+					- Open	your	device's	 **_Settings_** app ![Image Missing](/images/Setting_Security_and_Privacy_02.png). Scroll	down	and	touch Security.	Touch	 **_Screen lock_**.
 
 						- If 	you	already	set	a	lock,	enter	the	pattern,	PIN	or	password before	choosing	a	different	lock.
 
@@ -250,12 +250,12 @@ Security	software	helps	manage	your	security.	It	is	sold	as	a	subscription	that	
 
 
 		- It	is	not	a	substitute	for	caution.	An	airbag	in	a	car	will	not	prevent	you	from	having an	accident,	and	it	won’t	help	you	if	you	are	not	wearing	your	seatbelt.
-		
+
 		- Its	presence	can	prevent	a	little	accident	from	becoming	something	far	worse.
 
 	- It	is	 very	important	to	have	security	software	to	assist	you,	but	it	is	only	one	part	of	your security	plan.
 
-	
+
 
 
 - Electronics	and	office	supplies	retailers often have a large	choice	of	security	software.
@@ -285,7 +285,7 @@ should	adapt	to	defend	properly	against them.
 
 			- Keep	the	subscription	up-to-date	to	protect	against	current	threats.
 
-	
+
 
 
 - Security	software	can	affect	your	computer’s	performance.
@@ -298,7 +298,7 @@ should	adapt	to	defend	properly	against them.
 
 			- Most	of	the	popular	security	software	providers	(the	kinds	sold	on	those shelves)	only	reduce	performance	by	a	small	amount [Note 8](#note-8).
 
-			
+
 
 
 
@@ -324,7 +324,7 @@ should	adapt	to	defend	properly	against them.
 
 				- The	computer	is	just	too	old	to	run	modern	software	(always	read	the system	requirements	before	buying	software).
 
-	
+
 - More	is	not	better.
 
 	- You	should	only	have	one	security	suite	installed	on	your	computer.
@@ -332,7 +332,7 @@ should	adapt	to	defend	properly	against them.
 
 		- Having	several	running	at	once	will	result	in	conflicts	that	might	slow	down	your computer	or 	cause	it	to	malfunction.
 
-	
+
 
 - Consider	how	intrusive	the	software	is.
 
@@ -341,7 +341,7 @@ should	adapt	to	defend	properly	against them.
 
 		- Most	of	the	popular	security	software	providers	allow	you	to	customize	this	element.
 
-	
+
 - Consider	what	functions	come	with	the	software.
 
 	- This	can	be	confusing,	as	there	is	a	lot	of	marketing	speak,	jargon	and	flashy	graphics.	The	 functions	of	these	software	packages	can	be	broken	down	into:
@@ -359,7 +359,7 @@ Secure deletion|File	Shredder|Deletes	files so they cannot be recovered
 Network	and anonymity|Virtual	Private Networks (VPN)|Provides a more secure connection and conceals your location
 
 
-	
+
 - Use	a	security	service	that	provides	anti-virus	and	active	detection	as	a	minimum security	solution.
 
 	- Computers	with	Windows	8	or	newer	and	Apple	computers	come	with	some built-in	protection.
@@ -412,7 +412,7 @@ A	webcam	cover	protects	against	spying through	a	webcam.
 
 		- Covering	the	 webcam	ensures	that	they	cannot	see	into	your	home	and	guarantees a	minimum	level	of 	privacy.
 
-	
+
 
 
 - Covering	your	webcam	is	simple.
@@ -446,35 +446,35 @@ Webcam|An	Internet	enabled	(World	Wide Web) video camera.
 
 
 
-##### Note 1 
+##### Note 1
  [Turn Windows Defender Firewall on or off](https://support.microsoft.com/en-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
 
-##### Note 2 
+##### Note 2
  [Turn Windows Defender Firewall on or off](https://support.microsoft.com/en-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
 
 <!--[comment]: # (footnote 3 - original link not working = https://www.microsoft.com/security/online-privacy/overview.aspx)-->
 
  [Note 3](#note-3): [Change privacy settings in Windows 10](https://support.microsoft.com/en-au/help/4027945/windows-change-privacy-settings-in-windows-10)
 
-##### Note 4 
+##### Note 4
  [Most Common iPhone Passcodes](http://danielamitay.com/blog/2011/6/13/most-common-iphone-passcodes)
 
-##### Note 5 
+##### Note 5
  [Use a passcode with your iPhone, iPad, or iPod touch](https://support.apple.com/en-us/HT204060)
 
-##### Note 6 
+##### Note 6
  [Set screen lock on an Android device](https://support.google.com/android/answer/9079129?hl=en&visit_id=636876694905566612-1443867087&rd=1)
 
 <!--there is a comment on the text about the footnote 7-->
 
-##### Note 8 
+##### Note 8
  [Security software performance	comparison](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf). Note	that	faster does	not	mean	more	effective.
 
-##### Note 9 
+##### Note 9
  See	page	24	of	the	[Canadian	little	black	book	of	scams](www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/vwapj/Little-Black-Book-Scams-e.pdf/$FILE/Little-Black-Book-Scams-e.pdf)
 
-##### Note 10 
+##### Note 10
  [Spyware](130.18.86.27/faculty/warkentin/SecurityPapers/Merrill/Thompson2005_CACM48_8_Spyware.pdf)
 
-##### Note 11 
+##### Note 11
  [Remote access trojan](http://www.trusteer.com/en/glossary/remote-access-trojan-rat)
