@@ -233,19 +233,13 @@ Image : ![alt text](tbd.png "Optional Title")
 The box on the right contains a hidden button to share where the “X” is shown (as revealed in the image on the left) to trick the user into sharing the posting.
 
 - Social	networks	also	present	more	subtle	harms	as	they	can:
-
-  	  - Be	a	source	of	irritation	because	of	inappropriate	or	annoying	content,	like spam	email;
-
-	 - Become	a	time-consuming	social	obligation;
-
-	 - Lead	to	feelings	of	lacking	control	over	privacy	where	the	privacy	settings	are not	able	to	match	expectations;
-
-	 - Be	a	source	of	issues	due	to	social	comparisons	and	jealousy;
-
-	 - Be	a	source	of	conflict.
+	- Be	a	source	of	irritation	because	of	inappropriate	or	annoying	content,	like spam	email;
+	- Become	a	time-consuming	social	obligation;
+	- Lead	to	feelings	of	lacking	control	over	privacy	where	the	privacy	settings	are not	able	to	match	expectations;
+	- Be	a	source	of	issues	due	to	social	comparisons	and	jealousy;
+	- Be	a	source	of	conflict.
 
 - A	potential	source	of	conflict	can	be	with	the	public	announcement	of	relationship status	on	social	media.
-
 	- For 	example,	Facebook	allows	people	to	state	that	they	are	“in	a	relationship with”	another	member	of 	Facebook,	and	will	link	their	profiles.
 
 		- Publicizing	this	relationship	status	is	called	going	“Facebook	Official.”
@@ -449,7 +443,9 @@ DO	take	the	time	to	manage	your	privacy settings on Facebook.
 
 
 ##### Note 1
-	[Balancing Free Speech and Social Harmony](http://www.lawnow.org/whatcott-case-balancing-free-speech-social-harmony/) ;	[When is it hate speech?](http://www.cbc.ca/news/canada/when-is-it-hate-speech-7-signicant-canadian-cases-1.1036731) ;	[Offences Relating to Conveyances](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-71.html#h-92)
+[Balancing Free Speech and Social Harmony](http://www.lawnow.org/whatcott-case-balancing-free-speech-social-harmony) ;
+[When is it hate speech?](http://www.cbc.ca/news/canada/when-is-it-hate-speech-7-signicant-canadian-cases-1.1036731) ;
+[Offences Relating to Conveyances](http://laws-lois.justice.gc.ca/eng/acts/C-46/page-71.html#h-92)
 
 ##### Note 2
  [Secure Messaging?](https://www.eff.org/secure-messaging-scorecard)
@@ -458,13 +454,15 @@ DO	take	the	time	to	manage	your	privacy settings on Facebook.
  [BitLocker](http://truecrypt.sourceforge.net)
 
 ##### Note 4
- Encrypt files : [Windows](http://windows.microsoft.com/en-us/windows/encrypt-decrypt-folder-file#1TC=windows-7) ; [Apple](https://support.apple.com/en-us/HT)
+ Encrypt files :
+ [Windows](http://windows.microsoft.com/en-us/windows/encrypt-decrypt-folder-file#1TC=windows-7) ;
+ [Apple](https://support.apple.com/en-us/HT)
 
 ##### Note 5
  The	media	has	referred	to	this	act	as	“Revenge	porn”	in	the	past.
 
 ##### Note 6
- [	Supreme Court of Canada](http://www.canlii.org/en/ca/scc/doc/2001/2001scc2/2001scc2.html)
+ [Supreme Court of Canada](http://www.canlii.org/en/ca/scc/doc/2001/2001scc2/2001scc2.html)
 
 ##### Note 7
  [The Canadian	Criminal	Code	162.1](http://laws-lois.justice.gc.ca/eng/acts/C-46/section-162.1.html)
@@ -473,7 +471,7 @@ DO	take	the	time	to	manage	your	privacy settings on Facebook.
  [Criminal Code - R.S.C., 1985, c. C-46](http://laws-lois.justice.gc.ca/eng/acts/C-46/section-163.1.html)
 
 ##### Note 9
- [ Kids help phone](http://org.kidshelpphone.ca/guest-blog-sexting-and-the-law-in-canada-by-dr-andrea-slane/)
+ [Kids help phone](http://org.kidshelpphone.ca/guest-blog-sexting-and-the-law-in-canada-by-dr-andrea-slane/)
 
 ##### Note 10
- [Facebook : Vos questions](https://www.facebook.com/help/)
+ [Facebook : Your questions](https://www.facebook.com/help/)
