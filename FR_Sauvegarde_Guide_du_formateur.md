@@ -236,7 +236,7 @@ généralement	plus	dispendieux	et	la	différence	de vitesse n’est pas vraimen
 
 
 
-	- Dropbox,	Google	Drive	et	Apple	iCloud	en	sont	quelques	exemples.	Vous	en	trouverez davantage dans l’article Consumer Reports [^footnote1] ci-dessous.
+	- Dropbox,	Google	Drive	et	Apple	iCloud	en	sont	quelques	exemples.	Vous	en	trouverez davantage dans l’article Consumer Reports [Note 1](#note-1) ci-dessous.
 
 
 
@@ -391,7 +391,7 @@ un	support	de	stockage	dans	la	liste,	puis	cliquez	sur **_Utiliser le disque_**.
 			- Certains	ordinateurs	Mac	exécutent	des	sauvegardes	même	en	état	de	veille.
 
 			- Time	Machine	sauvegarde	uniquement	les	fichiers	modifiés	depuis	la
-sauvegarde	précédente,	ce	qui	accélère	les	sauvegardes	subséquentes [^footnote2] [^footnote3].
+sauvegarde	précédente,	ce	qui	accélère	les	sauvegardes	subséquentes [Note 2](#note-2) [Note 3](#note-3).
 
 
  
@@ -411,7 +411,7 @@ l’historique	des	fichiers	se	nomme	«	Sauvegarde	».
 					
 					- Cliquez	sur	le	 **_bouton Démarrer_** ![alt text](tbd.png), puis	sélectionnez **_Paramètres > Mise à jour et sécurité > Sauvegarde > Ajouter un lecteur_** ,	et	choisissez un	disque	dur	externe	ou	un	emplacement réseau pour vos sauvegardes.
 					
-					- Toutes	les	heures,	Windows	sauvegardera	le	contenu	de	votre dossier	utilisateur	(C:\Users\username).	Pour	modifier	les	fichiers que	 vous	 voulez	sauvegarder	ou	la	fréquence	des	sauvegardes, rendez-vous dans Plus d’options [^footnote4].
+					- Toutes	les	heures,	Windows	sauvegardera	le	contenu	de	votre dossier	utilisateur	(C:\Users\username).	Pour	modifier	les	fichiers que	 vous	 voulez	sauvegarder	ou	la	fréquence	des	sauvegardes, rendez-vous dans Plus d’options [Note 4](#note-4).
 
 
 					- L’historique	des	fichiers	sauvegarde	uniquement	les	fichiers
@@ -440,7 +440,7 @@ cliquez	sur	Rechercher).
 						- Appuyez	ou	cliquez	sur	Sélectionner	un	lecteur,	puis	choisissez
 l’emplacement	réseau	ou	le	lecteur	externe	que	vous	 voulez utiliser.
 
-						- Activez	l’Historique	des	fichiers [^footnote5].
+						- Activez	l’Historique	des	fichiers [Note 5](#note-5).
 						
 						- _Image :_ ![alt text](tbd.png "Optional Title")
 
@@ -486,7 +486,7 @@ confirmation	si	on	vous	les	demande.
 la sauvegarde programmée ou en créer une nouvelle
 manuellement	en	cliquant	sur **_Sauvegarder maintenant_** ![alt text](tbd.png).
 Entrez	le	mot	de	passe	administrateur	ou	la	confirmation	si	on
-vous les demande [^footnote6].
+vous les demande [Note 6](#note-6).
 
 
 
@@ -529,12 +529,12 @@ un	fichier,	puis	accéder	à	différentes	versions.
 un	aperçu	et	vérifier 	qu’il	s’agit	bien	de	celui	que	vous	cherchiez.
 
 
-				- Cliquez	sur **_Restaurer_** 	pour	restaurer	le	fichier	sélectionné,	ou	tenez	la touche **_CTRL_** 	enfoncée	et	cliquez	sur	le	fichier	pour	afficher 	d’autres options [^footnote7].
+				- Cliquez	sur **_Restaurer_** 	pour	restaurer	le	fichier	sélectionné,	ou	tenez	la touche **_CTRL_** 	enfoncée	et	cliquez	sur	le	fichier	pour	afficher 	d’autres options [Note 7](#note-7).
 
 
 
 
-	- Pour 	restaurer	un	système	Apple,	connectez	le	disque	de	sauvegarde	et	tenez	les	touches **_Commande_** et **_R_** enfoncées au démarrage [^footnote8].
+	- Pour 	restaurer	un	système	Apple,	connectez	le	disque	de	sauvegarde	et	tenez	les	touches **_Commande_** et **_R_** enfoncées au démarrage [Note 8](#note-8).
 
 
 
@@ -560,7 +560,7 @@ l’Historique des fichiers_**.
 
 
 			- Sélectionnez	les	fichiers	à	restaurer	à	leur 	emplacement	d’origine,	puis sélectionnez **_Restaurer_** .	Si	vous	 voulez	restaurer	vos	fichiers	à	un	emplacement
-différent,	tenez	le	bouton	 **_Restaurer_** 	enfoncé	ou	faites	un	clic	droit	dessus,	puis sélectionnez **_Restaurer vers_** ,	et	choisissez	un	nouvel	emplacement [^footnote9].
+différent,	tenez	le	bouton	 **_Restaurer_** 	enfoncé	ou	faites	un	clic	droit	dessus,	puis sélectionnez **_Restaurer vers_** ,	et	choisissez	un	nouvel	emplacement [Note 9](#note-9).
 
 
 
@@ -575,7 +575,7 @@ différent,	tenez	le	bouton	 **_Restaurer_** 	enfoncé	ou	faites	un	clic	droit	d
 			- Entrez **_Restauration_** 	dans	le	champ	de	recherche	du	panneau	de	configuration, puis sélectionnez **_Restauration_**.
 
 
-			- Sélectionnez **_Ouvrir la restauration du système_** ,	puis	suivez	les	instructions [^footnote10].
+			- Sélectionnez **_Ouvrir la restauration du système_** ,	puis	suivez	les	instructions [Note 10](#note-10).
 
 
 
@@ -601,22 +601,32 @@ Thunderbolt|Connexion	haute	vitesse	permettant	de relier plusieurs périphériqu
 Time Machine|Service de sauvegarde d’Apple. Les données peuvent être sauvegardées	sur	un	disque	dur	externe	connecté à l’appareil par fil	ou	par 	Wi-Fi	aux	bornes	AirPort	Extreme ou AirPort Time Capsule d’Apple.
 USB|Bus	série	universel	permettant	la	connexion de pratiquement n’importe	quel	périphérique	et	le	transfert de données et d’électricité	par	un	câble	court.
 
-[^footnote1]: [Which cloud storage service is best for your needs?](https://www.consumerreports.org/cro/2013/11/cloud-storage-services-comparison/index.htm)
+##### Note 1 
+ [Which cloud storage service is best for your needs?](https://www.consumerreports.org/cro/2013/11/cloud-storage-services-comparison/index.htm)
 
-[^footnote2]: [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
+##### Note 2 
+ [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
 
-[^footnote3]: [Back up your Mac with Time Machine](https://support.apple.com/en-us/HT201250)
+##### Note 3 
+ [Back up your Mac with Time Machine](https://support.apple.com/en-us/HT201250)
 
-[^footnote4]: [Sauvegarder et restaurer vos fichiers](https://support.microsoft.com/fr-fr/help/17143/windows-10-back-up-your-files)
+##### Note 4 
+ [Sauvegarder et restaurer vos fichiers](https://support.microsoft.com/fr-fr/help/17143/windows-10-back-up-your-files)
 
-[^footnote5]: [Historique des fichiers dans Windows](https://support.microsoft.com/fr-fr/help/17128/windows-8-file-history)
+##### Note 5 
+ [Historique des fichiers dans Windows](https://support.microsoft.com/fr-fr/help/17128/windows-8-file-history)
 
-[^footnote6]: [Sauvegarder et restaurer votre PC](https://support.microsoft.com/fr-fr/help/17127/windows-back-up-restore#1TC=windows-7)
+##### Note 6 
+ [Sauvegarder et restaurer votre PC](https://support.microsoft.com/fr-fr/help/17127/windows-back-up-restore#1TC=windows-7)
 
-[^footnote7]: [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
+##### Note 7 
+ [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
 
-[^footnote9]: [Historique des fichiers dans Windows](https://support.microsoft.com/fr-fr/help/17128/windows-8-file-history)
+##### Note 9 
+ [Historique des fichiers dans Windows](https://support.microsoft.com/fr-fr/help/17128/windows-8-file-history)
 
-[^footnote8]: [À propos de la fonctionnalité de récupération de macOS](https://support.apple.com/fr-ca/HT201314)
+##### Note 8 
+ [À propos de la fonctionnalité de récupération de macOS](https://support.apple.com/fr-ca/HT201314)
 
-[^footnote10]: [Actualisation, réinitialisation ou restauration de votre PC](https://support.microsoft.com/fr-fr/help/17085/windows-8-restore-refresh-reset-pc)
+##### Note 10 
+ [Actualisation, réinitialisation ou restauration de votre PC](https://support.microsoft.com/fr-fr/help/17085/windows-8-restore-refresh-reset-pc)

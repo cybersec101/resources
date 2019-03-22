@@ -51,7 +51,7 @@ Setting	passwords,	switching	firewalls	on	and	checking	privacy	settings	are	impo
 
 - Computer	firewall	(computer	network	safety	barrier):
 
-	- To	enable	the	firewall	on	 your	computer [^footnote1] on:
+	- To	enable	the	firewall	on	 your	computer [Note 1](#note-1) on:
 
 
 
@@ -63,7 +63,7 @@ padlock	icon	at	the	bottom	left	of	this	box	and	enter	a	username	and	password	to
 
 
 		- _Windows_:	In	 **_Search_**, type **_Firewall_**, and then select **_Windows Firewall_**. Select **_Turn
-Windows Firewall On_** [^footnote2].
+Windows Firewall On_** [Note 2](#note-2).
 
 
 
@@ -120,7 +120,7 @@ for **_Spotlight Suggestions_** and **_Bing Web Searches_**.
 
 
 
-				- Windows [^footnote3]
+				- Windows [Note 3](#note-3)
 
 
 
@@ -194,7 +194,7 @@ turn	them	all	off.
 
 	 				- Where	possible	use	a	password	with	letters	and	numbers.
 	 			
-	 				- Using	the	fingerprint	scanning	service	is	a	good	option.	If	you	use a	pattern,	avoid	simple	shapes	(L	shape,	triangle,	square)	and wipe	the	screen	regularly	to	clean	the	smudge	from	the	pattern from	the	screen.	If	you	use	a	four-digit	code	avoid	simple	patterns (1234,	0000,	2580,	1111,	5555,	5683,	0852,	1212,	or	your	birth	year). These	are	not	good	passcodes [^footnote4]. 
+	 				- Using	the	fingerprint	scanning	service	is	a	good	option.	If	you	use a	pattern,	avoid	simple	shapes	(L	shape,	triangle,	square)	and wipe	the	screen	regularly	to	clean	the	smudge	from	the	pattern from	the	screen.	If	you	use	a	four-digit	code	avoid	simple	patterns (1234,	0000,	2580,	1111,	5555,	5683,	0852,	1212,	or	your	birth	year). These	are	not	good	passcodes [Note 4](#note-4). 
 
 
 
@@ -209,7 +209,7 @@ turn	them	all	off.
 iPhone	unlock	is	handy	too,	just	follow	the	prompts	after	selecting
 this	option.
 
-					- On	devices	without	Touch	ID,	go	to	 Settings > Passcode: Tap run pass	code	on [^footnote5].
+					- On	devices	without	Touch	ID,	go	to	 Settings > Passcode: Tap run pass	code	on [Note 5](#note-5).
 
 
 
@@ -221,7 +221,7 @@ this	option.
 
 						- If 	you	already	set	a	lock,	enter	the	pattern,	PIN	or	password before	choosing	a	different	lock.
 
-						- Touch	the	screen	lock	you	want	to	use	and	follow	the instructions [^footnote6].
+						- Touch	the	screen	lock	you	want	to	use	and	follow	the instructions [Note 6](#note-6).
 
 
 
@@ -296,7 +296,7 @@ should	adapt	to	defend	properly	against them.
 
 			- Software	companies	work	very	hard	to	minimize	the	impact	of	their	software on	performance.
 
-			- Most	of	the	popular	security	software	providers	(the	kinds	sold	on	those shelves)	only	reduce	performance	by	a	small	amount [^footnote8].
+			- Most	of	the	popular	security	software	providers	(the	kinds	sold	on	those shelves)	only	reduce	performance	by	a	small	amount [Note 8](#note-8).
 
 			
 
@@ -382,7 +382,7 @@ programs	or	change	some	settings.	The	scammer	will	then	advise	that	a	fee	is	req
 for 	the	services	and	request	a	credit	card	number	to	cover	the	payment.	In	some	cases,
 the	scammer	will	send	a	transfer	from	the	victims’	computer	through	a	money	service	like
 Western	Union	or	MoneyGram.	The	result	is	that	the	victim	pays	for	a	service	that	was	not
-needed	as	the	computer	was	never	infected [^footnote9].
+needed	as	the	computer	was	never	infected [Note 9](#note-9).
 
 
 >If 	you	receive	a	call	like	this,	do	not	provide	any	information	to	them.	Hang	up.	You can	report	it	to	the	Canadian	Anti-Fraud	Centre:	1-888-495-8501	or	[Anti-fraud Centre.ca](http://www.antifraudcentre-centreantifraude.ca/reportincident-signalerincident/index-eng.htm)
@@ -404,10 +404,10 @@ A	webcam	cover	protects	against	spying through	a	webcam.
 #### 3.2 In Detail
 
 
-- It	is	possible	for	an	attacker	to	access	your	computer	remotely	without	your	knowledge [^footnote10].
+- It	is	possible	for	an	attacker	to	access	your	computer	remotely	without	your	knowledge [Note 10](#note-10).
 
 
-	- There	are	malicious	programs	that	secretly	provide	another	person	with	access	to	your computer;	often	called	Remote	Access	Trojan	programs	(RAT) [^footnote11]. A	criminal	might	trick	you into	installing	the	malware	by	hiding	it	inside	another	file	or	program	or	by 	having	you	click a	link	or	visiting	a	bad	webpage.		They	can	then	see	what	you	do	on	the	computer,	have access	to	your	files	and	activate	the	camera	and	microphone.
+	- There	are	malicious	programs	that	secretly	provide	another	person	with	access	to	your computer;	often	called	Remote	Access	Trojan	programs	(RAT) [Note 11](#note-11). A	criminal	might	trick	you into	installing	the	malware	by	hiding	it	inside	another	file	or	program	or	by 	having	you	click a	link	or	visiting	a	bad	webpage.		They	can	then	see	what	you	do	on	the	computer,	have access	to	your	files	and	activate	the	camera	and	microphone.
 
 
 		- Covering	the	 webcam	ensures	that	they	cannot	see	into	your	home	and	guarantees a	minimum	level	of 	privacy.
@@ -446,26 +446,35 @@ Webcam|An	Internet	enabled	(World	Wide Web) video camera.
 
 
 
-[^footnote1]: [Turn Windows Defender Firewall on or off](https://support.microsoft.com/en-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
+##### Note 1 
+ [Turn Windows Defender Firewall on or off](https://support.microsoft.com/en-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
 
-[^footnote2]: [Turn Windows Defender Firewall on or off](https://support.microsoft.com/en-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
+##### Note 2 
+ [Turn Windows Defender Firewall on or off](https://support.microsoft.com/en-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
 
 <!--[comment]: # (footnote 3 - original link not working = https://www.microsoft.com/security/online-privacy/overview.aspx)-->
 
- [^footnote3]: [Change privacy settings in Windows 10](https://support.microsoft.com/en-au/help/4027945/windows-change-privacy-settings-in-windows-10)
+ [Note 3](#note-3): [Change privacy settings in Windows 10](https://support.microsoft.com/en-au/help/4027945/windows-change-privacy-settings-in-windows-10)
 
-[^footnote4]: [Most Common iPhone Passcodes](http://danielamitay.com/blog/2011/6/13/most-common-iphone-passcodes)
+##### Note 4 
+ [Most Common iPhone Passcodes](http://danielamitay.com/blog/2011/6/13/most-common-iphone-passcodes)
 
-[^footnote5]: [Use a passcode with your iPhone, iPad, or iPod touch](https://support.apple.com/en-us/HT204060)
+##### Note 5 
+ [Use a passcode with your iPhone, iPad, or iPod touch](https://support.apple.com/en-us/HT204060)
 
-[^footnote6]: [Set screen lock on an Android device](https://support.google.com/android/answer/9079129?hl=en&visit_id=636876694905566612-1443867087&rd=1)
+##### Note 6 
+ [Set screen lock on an Android device](https://support.google.com/android/answer/9079129?hl=en&visit_id=636876694905566612-1443867087&rd=1)
 
 <!--there is a comment on the text about the footnote 7-->
 
-[^footnote8]: [Security software performance	comparison](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf). Note	that	faster does	not	mean	more	effective.
+##### Note 8 
+ [Security software performance	comparison](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf). Note	that	faster does	not	mean	more	effective.
 
-[^footnote9]: See	page	24	of	the	[Canadian	little	black	book	of	scams](www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/vwapj/Little-Black-Book-Scams-e.pdf/$FILE/Little-Black-Book-Scams-e.pdf)
+##### Note 9 
+ See	page	24	of	the	[Canadian	little	black	book	of	scams](www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/vwapj/Little-Black-Book-Scams-e.pdf/$FILE/Little-Black-Book-Scams-e.pdf)
 
-[^footnote10]: [Spyware](130.18.86.27/faculty/warkentin/SecurityPapers/Merrill/Thompson2005_CACM48_8_Spyware.pdf)
+##### Note 10 
+ [Spyware](130.18.86.27/faculty/warkentin/SecurityPapers/Merrill/Thompson2005_CACM48_8_Spyware.pdf)
 
-[^footnote11]: [Remote access trojan](http://www.trusteer.com/en/glossary/remote-access-trojan-rat)
+##### Note 11 
+ [Remote access trojan](http://www.trusteer.com/en/glossary/remote-access-trojan-rat)

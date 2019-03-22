@@ -142,7 +142,7 @@ for email to transfer malware to people or to guide people to malicious web page
 
 		- Any file could be malware.
 
-		- Even files that look benign and open normally can contain dangerous code that runs without you knowing[^footnote1].
+		- Even files that look benign and open normally can contain dangerous code that runs without you knowing[Note 1](#note-1).
 
 		- These kinds of malware are called Trojans because they operate with
     the same strategy as the legendary Trojan horse.
@@ -194,7 +194,7 @@ Uncheck the option to Load remote content in messages.
  
 			- Click **_Save Changes_** at the bottom of the page.
 
-			- **_Outlook_** is configured by default to Block remote pictures[^footnote2].
+			- **_Outlook_** is configured by default to Block remote pictures[Note 2](#note-2).
 
 
 
@@ -302,7 +302,7 @@ to [FightSpam](http://fightspam.gc.ca.)
 
 - Spam is generally thought of as annoying advertising emails that occasionally appear in our inbox.
 
-	- Legally, spam is not only the sending of unsolicited commercial electronic messages, but also the unauthorized alteration of transmission data, the installation of computer programs without consent, false or misleading electronic representations (including websites), the unauthorized collection of electronic addresses and the collection of personal information by accessing a computer system in contravention of an Act of Parliament[^footnote3].
+	- Legally, spam is not only the sending of unsolicited commercial electronic messages, but also the unauthorized alteration of transmission data, the installation of computer programs without consent, false or misleading electronic representations (including websites), the unauthorized collection of electronic addresses and the collection of personal information by accessing a computer system in contravention of an Act of Parliament[Note 3](#note-3).
 
 
 
@@ -347,11 +347,11 @@ Enable junk mail filtering is checked.
 
 			- Microsoft Outlook
 
-				- Office 365[^footnote4]
+				- Office 365[Note 4](#note-4)
 
 					- To get to the **_Junk Email_** page from the main Outlook Web App page, go to the upper corner and choose **_Options_** , then choose **_Junk Email_** from the list in the navigation pane.
 	
-					- Make sure the “Don't filter junk email” option is not selected[^footnote5].
+					- Make sure the “Don't filter junk email” option is not selected[Note 5](#note-5).
 
 			- Gmail
 
@@ -361,7 +361,7 @@ Enable junk mail filtering is checked.
 
 				- If you find a message wrongly classified as spam, unmark the message by selecting it, and click the “Not Spam” button at the top and bottom of your current view.
 
-				- Unmarking a message will automatically move it to your inbox[^footnote6].
+				- Unmarking a message will automatically move it to your inbox[Note 6](#note-6).
 
 #### 3.3 In Practice
 
@@ -400,9 +400,10 @@ If email is expected, and as expected, it is probably okay. If an email is unexp
 		- Emails that claim to be from businesses but contain misspelled words or sloppy grammar;
 
 		- Business messages sent from a domain name other than the one usually used
-by that business[^footnote7];
+by that business[Note 7](#note-7);
 
-[^footnote7]: Note that sometimes businesses do outsource email services to third parties who use their own domain names but it is better to be safe than sorry
+##### Note 7 
+ Note that sometimes businesses do outsource email services to third parties who use their own domain names but it is better to be safe than sorry
 
 		- Emails that require urgent or immediate action;
 
@@ -469,13 +470,17 @@ Smartphone | A phone that operates much like a computer and is able to browse th
 Webcam | A video camera that is able to transmit video signal over the Internet.
 YouTube | A website (youtube.com) that provides access to video content.
 
-[^footnote1]: [Spear phishing email attack](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-spear-phishing-email-most-favored-apt-attack-bait.pdf)
+##### Note 1 
+ [Spear phishing email attack](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-spear-phishing-email-most-favored-apt-attack-bait.pdf)
 
-[^footnote2]: [Block or unblock automatic picture downloads in email messages](https://support.office.com/en-us/article/Block-or-unblock-automatic-picture-downloads-in-email-messages-15e08854-6808-49b1-9a0a-50b81f2d617a)
+##### Note 2 
+ [Block or unblock automatic picture downloads in email messages](https://support.office.com/en-us/article/Block-or-unblock-automatic-picture-downloads-in-email-messages-15e08854-6808-49b1-9a0a-50b81f2d617a)
 
-[^footnote3]: [Canada's Anti-Spam Legislation](http://fightspam.gc.ca/eic/site/030.nsf/eng/00303.html#ic-subnav-2)
+##### Note 3 
+ [Canada's Anti-Spam Legislation](http://fightspam.gc.ca/eic/site/030.nsf/eng/00303.html#ic-subnav-2)
 
-[^footnote4]: [Overview of the Junk Email Filter](https://support.office.com/en-us/article/overview-of-the-junk-email-filter-5ae3ea8e-cf41-4fa0-b02a-3b96e21de089?omkt=en-CA&ui=en-US&rs=en-CA&ad=CA)
+##### Note 4 
+ [Overview of the Junk Email Filter](https://support.office.com/en-us/article/overview-of-the-junk-email-filter-5ae3ea8e-cf41-4fa0-b02a-3b96e21de089?omkt=en-CA&ui=en-US&rs=en-CA&ad=CA)
 
 
 <!--
@@ -485,9 +490,11 @@ ORIGINAL = Pour Office 2010 : <https://support.office.com/fr-fr/article/%C3%80
 -->
 
 
-[^footnote5]: [Junk Email](https://support.office.com/en-US/article/Options-Junk-Email-068FA430-F8D7-4518-A8DA-8BC74958F05F)
+##### Note 5 
+ [Junk Email](https://support.office.com/en-US/article/Options-Junk-Email-068FA430-F8D7-4518-A8DA-8BC74958F05F)
 
 
 <!-- footnote 6 = error 404 = original link =  https://support.google.com/mail/answer/9008?hl=en -->
 
-[^footnote6]: [Gmail Help](https://support.google.com/mail#topic=7065107)
+##### Note 6 
+ [Gmail Help](https://support.google.com/mail#topic=7065107)

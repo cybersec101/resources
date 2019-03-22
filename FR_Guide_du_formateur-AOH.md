@@ -40,17 +40,17 @@ discrimination.
 	- Il	existe	de	nombreuses	lois	et	règlements	qui	garantissent	ce	droit	:
 
 
-		- Les	1er	et	2ème	articles	de	la	Déclaration	universelle	des	droits	de	l'homme	des Nations	Unies [^footnote1].
+		- Les	1er	et	2ème	articles	de	la	Déclaration	universelle	des	droits	de	l'homme	des Nations	Unies [Note 1](#note-1).
 
 
 
 
-		- Les	2e	et	15e	articles	de	la	Charte	canadienne	des	droits	et	libertés [^footnote2].	
+		- Les	2e	et	15e	articles	de	la	Charte	canadienne	des	droits	et	libertés [Note 2](#note-2).	
 
 
 
 
-		- Les	3e	et	10e	articles	de	la	Constitution	du	Québec	[^footnote3].
+		- Les	3e	et	10e	articles	de	la	Constitution	du	Québec	[Note 3](#note-3).
 
 
 
@@ -78,7 +78,7 @@ délibéré,	grave,	ciblé	sur	un	groupe	identifiable	et	haineux	par	son	context
 - Le	Code	criminel	canadien	stipule	que:	«	Quiconque,	par	la	communication	de	déclarations
 en	un	endroit	public,	incite	à	la	haine	contre	un	groupe	identifiable,	lorsqu’une	telle	incitation
 est	susceptible	d’entrainer	une	violation	de	la	paix,	est	coupable	soit	d’un	acte	criminel	(...)	soit
-d’une	infraction	punissable	(...)	» [^footnote4].
+d’une	infraction	punissable	(...)	» [Note 4](#note-4).
 
 
 
@@ -104,7 +104,7 @@ l'approbation	du	Procureur	Général,	ce	qui	introduit	un	élément	de	responsab
 - Le	discours	haineux	présente	généralement	un	groupe	de	personnes	comme	étant
 fondamentalement	distinct	de	la	plupart	des	gens	et/ou	«pas	comme	nous»;
 
-	- Le	discours	haineux	(sous	forme	de	texte,	d'image	ou	de	son)	a	donc	des	fonctions dégradantes	ou	déshumanisantes,	comme	par	exemple,	parler	d'un	groupe	de	personnes comme	si	ces	dernières	n'étaient	pas	humaines	ou	étaient	inférieures [^footnote5].
+	- Le	discours	haineux	(sous	forme	de	texte,	d'image	ou	de	son)	a	donc	des	fonctions dégradantes	ou	déshumanisantes,	comme	par	exemple,	parler	d'un	groupe	de	personnes comme	si	ces	dernières	n'étaient	pas	humaines	ou	étaient	inférieures [Note 5](#note-5).
 
 
 
@@ -122,12 +122,12 @@ fondamentalement	distinct	de	la	plupart	des	gens	et/ou	«pas	comme	nous»;
 
 		- Il	peut	être	difficile	de	définir	concrètement	la	liberté	d'opinion.
 
-	- De	plusieurs	manières,	la	liberté	d'expression	est	un	"droit	humain	essentiel	" [^footnote6].
+	- De	plusieurs	manières,	la	liberté	d'expression	est	un	"droit	humain	essentiel	" [Note 6](#note-6).
 
 
 
 
-	- Les	absolutistes	de	la	liberté	d'opinion	"prônent	une	liberté	d'expression	totale,	quelle qu'elle	soit,	sans	restrictions" [^footnote7].
+	- Les	absolutistes	de	la	liberté	d'opinion	"prônent	une	liberté	d'expression	totale,	quelle qu'elle	soit,	sans	restrictions" [Note 7](#note-7).
 
 
 
@@ -137,7 +137,7 @@ fondamentalement	distinct	de	la	plupart	des	gens	et/ou	«pas	comme	nous»;
 
 
 
-	- D'autres	accordent	une	importance	à	placer	des	limites	aux	discours	qui	peuvent	être nuisibles [^footnote8].
+	- D'autres	accordent	une	importance	à	placer	des	limites	aux	discours	qui	peuvent	être nuisibles [Note 8](#note-8).
 
 
 
@@ -236,7 +236,7 @@ différents	outils	des	médias	en	ligne	sont	utilisés	pour	répandre	le	discour
 
 - Les	problèmes	soulevés	par	les	discours	haineux	en	ligne	constituent	une	préoccupation	dans le	monde	entier;
 
-	- Le	Rapporteur	Spécial	du	Conseil	des	Droits	de	l'homme	sur	les	questions	minoritaires s'est	dit	«	préoccupé	par	la	généralisation	de	la	désinformation,	des	discours	de	haine	et l'incitation	à	la	violence,	à	la	discrimination	et	à	l'hostilité	dans	les	organes	de	presse	et	sur Internet,	qui	ciblaient	tout	particulièrement	les	communautés	musulmanes	» [^footnote9].
+	- Le	Rapporteur	Spécial	du	Conseil	des	Droits	de	l'homme	sur	les	questions	minoritaires s'est	dit	«	préoccupé	par	la	généralisation	de	la	désinformation,	des	discours	de	haine	et l'incitation	à	la	violence,	à	la	discrimination	et	à	l'hostilité	dans	les	organes	de	presse	et	sur Internet,	qui	ciblaient	tout	particulièrement	les	communautés	musulmanes	» [Note 9](#note-9).
 
 	
 
@@ -248,7 +248,7 @@ différents	outils	des	médias	en	ligne	sont	utilisés	pour	répandre	le	discour
 de	commentaires	ou	dans	d'autres	types	de	communications	tels	que	les	courriels	ou	les messages	texte	(SMS);
 
 	- Le	Ethical	Journalism	Network	a	exprimé	sa	préoccupation	concernant	la	progression	des
-discours	de	haine	dans	les	nouvelles	publiées	par	les	médias	grand	public	[^footnote10].
+discours	de	haine	dans	les	nouvelles	publiées	par	les	médias	grand	public	[Note 10](#note-10).
 
 
 
@@ -293,7 +293,7 @@ les	plus	utilisées	sont	Facebook,	Twitter,	Reddit,	Instagram	et	Snapchat.
 
 			- un	groupe	anti-LGBT	compterait	environ	7	000	abonnés	et
 
-			- un	groupe	antisémite	compterait	environ	1	524	adeptes	aux	États-Unis [^footnote11].
+			- un	groupe	antisémite	compterait	environ	1	524	adeptes	aux	États-Unis [Note 11](#note-11).
 
 
 
@@ -503,24 +503,35 @@ Genre|Ensemble	de	caractéristiques	culturellement spécifiques qui se	rapporten
 Propagande|Information	utilisée	pour	promouvoir ou faire connaitre	une idéologie	ou	un	point	de	vue souvent biaisé ou trompeur.
 
 
-[^footnote1]: [La Déclaration universelle des droits de l'homme](http://www.un.org/fr/universal-declaration-human-rights/index.html)
+##### Note 1 
+ [La Déclaration universelle des droits de l'homme](http://www.un.org/fr/universal-declaration-human-rights/index.html)
 
-[^footnote2]: [CHARTE CANADIENNE DES DROITS ET LIBERTÉS](https://laws-lois.justice.gc.ca/fra/Const/page-15.html)
+##### Note 2 
+ [CHARTE CANADIENNE DES DROITS ET LIBERTÉS](https://laws-lois.justice.gc.ca/fra/Const/page-15.html)
 
-[^footnote3]: [Charte des droits et libertés de la personne](http://legisquebec.gouv.qc.ca/fr/showdoc/cs/C-12)
+##### Note 3 
+ [Charte des droits et libertés de la personne](http://legisquebec.gouv.qc.ca/fr/showdoc/cs/C-12)
 
-[^footnote4]: [Code criminel canadien](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-319.html)
+##### Note 4 
+ [Code criminel canadien](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-319.html)
 
-[^footnote5]: Pour	des	vidéos	et	des	leçons	discutant	la	manière	dont	le	discours	haineux	affecte	les	personnes	d'origine	arabe,	du	Moyen-Orient	et	de confession	musulmane	depuis	les	attentats	du	11	septembre,	voir: [Le cyberautre](http://projectsomeone.ca/fr/theonlineother)
+##### Note 5 
+ Pour	des	vidéos	et	des	leçons	discutant	la	manière	dont	le	discours	haineux	affecte	les	personnes	d'origine	arabe,	du	Moyen-Orient	et	de confession	musulmane	depuis	les	attentats	du	11	septembre,	voir: [Le cyberautre](http://projectsomeone.ca/fr/theonlineother)
 
-[^footnote6]: Pour une	discussion	sur	la liberté d'opinion:[Witherspoon (2017)](https://www.huffingtonpost.com/entry/free-speech-or-hate-speech-where-do-we-draw-the-line_us_5970df19e4b0f68541cd6316). La commission des droits	de	la	personne	et	de	la	jeunesse (2016) ont publié un [guide](http://www.cdpdj.qc.ca/Publications/Charte_simplifiee.pdf)	pour	vous	aider à comprendre vos droits 
+##### Note 6 
+ Pour une	discussion	sur	la liberté d'opinion:[Witherspoon (2017)](https://www.huffingtonpost.com/entry/free-speech-or-hate-speech-where-do-we-draw-the-line_us_5970df19e4b0f68541cd6316). La commission des droits	de	la	personne	et	de	la	jeunesse (2016) ont publié un [guide](http://www.cdpdj.qc.ca/Publications/Charte_simplifiee.pdf)	pour	vous	aider à comprendre vos droits 
 
-[^footnote7]: Pour	de	plus	amples	informations	sur	les	points	de	vue	des	absolutistes	voir:	[Ahmad	(2012)](https://tribune.com.pk/story/439935/freedom-of-expression-where-can-we-draw-the-line/)	et	Meiklejohn	(1961).	The	First	Amendment	is	an	absolute.	The	Supreme	Court	Review,	1961,	245-266	(en anglais)
+##### Note 7 
+ Pour	de	plus	amples	informations	sur	les	points	de	vue	des	absolutistes	voir:	[Ahmad	(2012)](https://tribune.com.pk/story/439935/freedom-of-expression-where-can-we-draw-the-line/)	et	Meiklejohn	(1961).	The	First	Amendment	is	an	absolute.	The	Supreme	Court	Review,	1961,	245-266	(en anglais)
 
-[^footnote8]: Pour	en	savoir	plus	sur	les	problématiques liées à la liberté d'opinion,	voir:	Barendt,	E.	(2005). Freedom of speech. Oxford	University	Press	(en anglais)
+##### Note 8 
+ Pour	en	savoir	plus	sur	les	problématiques liées à la liberté d'opinion,	voir:	Barendt,	E.	(2005). Freedom of speech. Oxford	University	Press	(en anglais)
 
-[^footnote9]: Voir	le	Rapport	sur	la	Rapporteuse spéciale sur les questions	relatives	aux	minorités,	Rita Izsak, Nations Unies, 5	janvier	2015,	A/HCR/28/64
+##### Note 9 
+ Voir	le	Rapport	sur	la	Rapporteuse spéciale sur les questions	relatives	aux	minorités,	Rita Izsak, Nations Unies, 5	janvier	2015,	A/HCR/28/64
 
-[^footnote10]: Voir	le	[Rapport](https://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session28/Documents/A_HRC_28_64_Add_1_fr.doc) sur	la	Rapporteuse spéciale sur les questions relatives aux minorités,	Rita Izsak, Nations Unies, 5 janvier 2015, A/HCR/28/64. [Face au discours de haine, les médias doivent réagir](http://europeanjournalists.org/fr/2015/08/12/face-au-discours-de-haine-les-medias-doivent-reagir/)
+##### Note 10 
+ Voir	le	[Rapport](https://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session28/Documents/A_HRC_28_64_Add_1_fr.doc) sur	la	Rapporteuse spéciale sur les questions relatives aux minorités,	Rita Izsak, Nations Unies, 5 janvier 2015, A/HCR/28/64. [Face au discours de haine, les médias doivent réagir](http://europeanjournalists.org/fr/2015/08/12/face-au-discours-de-haine-les-medias-doivent-reagir/)
 
-[^footnote11]: [Hate on Social Media](https://www.safehome.org/resources/hate-on-social-media/)
+##### Note 11 
+ [Hate on Social Media](https://www.safehome.org/resources/hate-on-social-media/)

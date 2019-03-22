@@ -32,13 +32,13 @@ to a group are harmful and can be illegal. It is vital to be able to identify ha
     
     - There are many laws that guarantee this right:
 
-		- The 1st and 2nd articles of the United Nations Universal Declaration of Human Rights [^footnote1].
+		- The 1st and 2nd articles of the United Nations Universal Declaration of Human Rights [Note 1](#note-1).
 
 
-		- The 2nd and 15th articles of the Canadian Constitution[^footnote2].
+		- The 2nd and 15th articles of the Canadian Constitution[Note 2](#note-2).
 
 
-		- The 3rd and 10th articles of the Quebec Constitution[^footnote3].
+		- The 3rd and 10th articles of the Quebec Constitution[Note 3](#note-3).
 
 
 - Freedom can be threatened by expressions of hate online
@@ -56,7 +56,7 @@ to a group are harmful and can be illegal. It is vital to be able to identify ha
    
     - The Criminal Code of Canada states that “Every one who, by communicating statements
        in	any 	public	place,	incites	hatred	against	any	identifiable	group	where	such	incitement	is
-       likely 	to	lead	to	a	breach	of	the	peace	is	guilty”	of 	an	indictable	or	punishable	offence [^footnote4]. 
+       likely 	to	lead	to	a	breach	of	the	peace	is	guilty”	of 	an	indictable	or	punishable	offence [Note 4](#note-4). 
 
 	- 	Some	forms	of	speech	are	excluded	from	this	definition	such	as	where:
        
@@ -79,7 +79,7 @@ most people, and/or “not like us”.
 
 	- 	Hate	speech	(in	the	form	of	text,	images	or	sound)	can	be	identified	by	the	degrading	or
 dehumanizing functions that it serves. That is, talking about a group of people as though
-they are not human but are something other and somehow lesser [^footnote5].
+they are not human but are something other and somehow lesser [Note 5](#note-5).
 
 	- Distinguishing	between	hate	speech	and	free	speech	can	be	difficult
 
@@ -88,14 +88,14 @@ they are not human but are something other and somehow lesser [^footnote5].
 		- It	can	be	difficult	to	define	free	speech	concretely.
 
 
-	- In many ways, freedom of expression is “an essential human right [^footnote6].
+	- In many ways, freedom of expression is “an essential human right [Note 6](#note-6).
 
 
 	- Absolutists of free speech “advocate complete freedom of expression without any
-    restrictions whatsoever” [^footnote7].
+    restrictions whatsoever” [Note 7](#note-7).
    
 
-	- Others see value in placing limits on speech that would cause harm [^footnote8].
+	- Others see value in placing limits on speech that would cause harm [Note 8](#note-8).
 
 	- In Canada, freedom of expression is not unlimited or absolute.
 
@@ -106,7 +106,7 @@ they are not human but are something other and somehow lesser [^footnote5].
 			- "not be construed so as to abrogate or derogate from any aboriginal, treaty or
     other rights or freedoms", or
 
-			- "be construed as denying the existence of any other rights or freedoms that exist in Canada” [^footnote9].
+			- "be construed as denying the existence of any other rights or freedoms that exist in Canada” [Note 9](#note-9).
 
 	- Consequently,	it	is	important	that	citizens	find	non-judgmental	spaces	to	openly	discuss	
 their opinions while also encouraging criticality, empathy and tolerance.
@@ -134,7 +134,7 @@ it is important to be able to identify expressions of hate and hate speech.
 
 		- 	Coming	home	to	find	“tranny”	spray-painted	on	your 	fence.
 
-		- Being laughed at or mimicked for having a physical disability [^footnote10]
+		- Being laughed at or mimicked for having a physical disability [Note 10](#note-10)
 		
 		- Somone being abused because of their status on a social network.
 
@@ -180,14 +180,14 @@ speech and discrimination.
 - The problems of hate speech online are a concern around the world.
 
 	- The UN Human Rights Council Special Rapporteur on Minority Issues expressed her “concern over the spread of misinformation, hate speech and incitement to violence, discrimination and hostility in the media and on Internet, particularly targeted against
-Muslim community Communities” [^footnote11]
+Muslim community Communities” [Note 11](#note-11)
 
 
 - Hate speech is commonly found on online news sites, comments sections, or in other
 communications such as emails or text messages (SMS).
 
 	- The Ethical Journalism Network has expressed concern about hate speech making its way
-into the news stories published by mainstream media [^footnote12]
+into the news stories published by mainstream media [Note 12](#note-12)
 
 
 - Hate speech can appear anywhere that comments are able to be made online. Hate speech
@@ -224,7 +224,7 @@ platforms include Facebook, Twitter, Reddit, Instagram, and Snapchat.
 
 			- an anti-LGBT group will have approximately 7,000 followers, and
 
-			- an anti-Semitic group will have approximately 1,524 followers in the U.S. [^footnote13].
+			- an anti-Semitic group will have approximately 1,524 followers in the U.S. [Note 13](#note-13).
 
 - How people talk on Social Media is becoming normal. It is concerning that the hate speech
 being spread online might also be seen as normal and acceptable.
@@ -277,7 +277,7 @@ movement.
 
 	- However, even though some news sources are deemed more trustworthy than others, as
        shown by large-scale survey studies (e.g., The Economist and BBC over the Rush Limbaugh
-       Show and BuzzFeed) [^footnote14] , all news and information on the Internet is inevitably biased and
+       Show and BuzzFeed) [Note 14](#note-14) , all news and information on the Internet is inevitably biased and
        distorted and should be read critically.
        
 	- Groups have been known to distribute misinformation online with the intention of
@@ -380,30 +380,44 @@ DO actively question the credibility of what you read and watch online
 
 DO	have	offline	conversations	about	online	behaviour
 
-[^footnote1]: [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
+##### Note 1 
+ [Universal Declaration of Human Rights](http://www.un.org/en/universal-declaration-human-rights/)
 
-[^footnote2]: [CANADIAN CHARTER OF RIGHTS AND FREEDOMS](https://laws-lois.justice.gc.ca/eng/Const/page-15.html)
+##### Note 2 
+ [CANADIAN CHARTER OF RIGHTS AND FREEDOMS](https://laws-lois.justice.gc.ca/eng/Const/page-15.html)
 
-[^footnote3]: [Charter of human rights and freedoms](http://legisquebec.gouv.qc.ca/en/ShowTdm/cs/C-12)
+##### Note 3 
+ [Charter of human rights and freedoms](http://legisquebec.gouv.qc.ca/en/ShowTdm/cs/C-12)
 
-[^footnote4]: [Offences Against Rights of Property](https://www.laws-lois.justice.gc.ca/eng/acts/C-46/page-73.html#h-93)
+##### Note 4 
+ [Offences Against Rights of Property](https://www.laws-lois.justice.gc.ca/eng/acts/C-46/page-73.html#h-93)
 
-[^footnote5]: For videos and lessons discussing how hate speech after 9/11 affects those of Arab descent, middle easterners and Muslims see: [Le cyberautre](http://projectsomeone.ca/fr/theonlineother)
+##### Note 5 
+ For videos and lessons discussing how hate speech after 9/11 affects those of Arab descent, middle easterners and Muslims see: [Le cyberautre](http://projectsomeone.ca/fr/theonlineother)
 
-[^footnote6]: For a discussion on free speech: [Witherspoon](https://www.huffingtonpost.com/entry/free-speech-or-hate-speech-where-do-we-drawthe-line_us_5970df19e4b0f68541cd6316),2017. The Canadian Human Rights Commission (2016) have a [guide](cdpdj.qc.ca/Publications/Charte_simplifiee_EN.pdf) to help understand your rights.
+##### Note 6 
+ For a discussion on free speech: [Witherspoon](https://www.huffingtonpost.com/entry/free-speech-or-hate-speech-where-do-we-drawthe-line_us_5970df19e4b0f68541cd6316),2017. The Canadian Human Rights Commission (2016) have a [guide](cdpdj.qc.ca/Publications/Charte_simplifiee_EN.pdf) to help understand your rights.
 
-[^footnote7]: For more on absolutist views on free speech see: [Ahmad](https://tribune.com.pk/story/439935/freedom-of-expression-where-can-wedraw-the-line/), 2012. and Meiklejohn, A. (1961). The First Amendment is an absolute. The Supreme Court Review, 1961, 245-266
+##### Note 7 
+ For more on absolutist views on free speech see: [Ahmad](https://tribune.com.pk/story/439935/freedom-of-expression-where-can-wedraw-the-line/), 2012. and Meiklejohn, A. (1961). The First Amendment is an absolute. The Supreme Court Review, 1961, 245-266
 
-[^footnote8]: To read a discussion on free speech issues, see: Barendt, E. (2005). Freedom of speech. Oxford University Press.
+##### Note 8 
+ To read a discussion on free speech issues, see: Barendt, E. (2005). Freedom of speech. Oxford University Press.
 
-[^footnote9]: [CANADIAN CHARTER OF RIGHTS AND FREEDOMS](https://laws-lois.justice.gc.ca/eng/Const/page-15.html)
+##### Note 9 
+ [CANADIAN CHARTER OF RIGHTS AND FREEDOMS](https://laws-lois.justice.gc.ca/eng/Const/page-15.html)
 
-[^footnote10]: [Hate crimes and hate incidents](https://spvm.qc.ca/en/Pages/Report-an-event/Hate-crimes-and-hate-incidents)
+##### Note 10 
+ [Hate crimes and hate incidents](https://spvm.qc.ca/en/Pages/Report-an-event/Hate-crimes-and-hate-incidents)
 
-[^footnote11]: UN Human Rights : [Report of the Special Rapporteur on minority issues](https://www.ohchr.org/en/hrbodies/hrc/regularsessions/session28/documents/a_hrc_28_64_eng.doc)
+##### Note 11 
+ UN Human Rights : [Report of the Special Rapporteur on minority issues](https://www.ohchr.org/en/hrbodies/hrc/regularsessions/session28/documents/a_hrc_28_64_eng.doc)
 
-[^footnote12]: [Mainstream media must not spread hate speech](https://europeanjournalists.org/blog/2015/01/19/mainstream-medias-shouldnt-spread-hate-speech-we-need-to-change-that-ejn/)
+##### Note 12 
+ [Mainstream media must not spread hate speech](https://europeanjournalists.org/blog/2015/01/19/mainstream-medias-shouldnt-spread-hate-speech-we-need-to-change-that-ejn/)
 
-[^footnote13]: [Hate on social media](https://www.safehome.org/resources/hate-on-social-media/)
+##### Note 13 
+ [Hate on social media](https://www.safehome.org/resources/hate-on-social-media/)
 
-[^footnote14]: [Political Polarization and Media Habits](http://assets.pewresearch.org/wp-content/uploads/sites/13/2014/10/Political-Polarization-and-Media-Habits-FINAL-REPORT-7-27-15.pdf)
+##### Note 14 
+ [Political Polarization and Media Habits](http://assets.pewresearch.org/wp-content/uploads/sites/13/2014/10/Political-Polarization-and-Media-Habits-FINAL-REPORT-7-27-15.pdf)

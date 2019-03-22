@@ -130,7 +130,7 @@ sans compter qu’il est possible de deviner une adresse.
 
             - N’importe quel fichier peut être un programme malveillant.
 
-            - Même les fichiers qui semblent inoffensifs et qui s’ouvrent normalement peuvent contenir un code dangereux s’exécutant à votre insu [^footnote1].
+            - Même les fichiers qui semblent inoffensifs et qui s’ouvrent normalement peuvent contenir un code dangereux s’exécutant à votre insu [Note 1](#note-1).
 
             - Ce type de programme malveillant s’appelle cheval de Troie, car il fonctionne selon la même stratégie que dans la légende.
 
@@ -184,7 +184,7 @@ sur Internet.
                 - Cliquez sur __Enregistrer les modifications__ au bas de la page.
 
 
-            - __Outlook__ bloque par défaut les images distantes [^footnote2].
+            - __Outlook__ bloque par défaut les images distantes [Note 2](#note-2).
 
 
 - __Hameçonnage__
@@ -290,7 +290,7 @@ Les pourriels sont des messages indésirables qui peuvent se retrouver dans votr
 de données de transmission, l’installation non autorisée d’un programme informatique,
 les indications fausses ou trompeuses dans un message électronique (y compris les sites
 Web), la collecte non autorisée d’adresses électroniques et la collecte de renseignements
-personnels au moyen d’un ordinateur en contravention d’une loi fédérale [^footnote3].
+personnels au moyen d’un ordinateur en contravention d’une loi fédérale [Note 3](#note-3).
 
 
     - Si vous pensez qu’une entreprise enfreint la loi en vous envoyant des courriels non
@@ -329,13 +329,13 @@ de l’écran, cliquez sur __Mail__ , puis sélectionnez __Préférences__.
                 
                 - Image : ![alt text](tbd.png)
 
-            - Office 365 [^footnote4] 
+            - Office 365 [Note 4](#note-4) 
 
                 - Pour ouvrir la page __Courrier indésirable__ à partir de la page principale
 d’Outlook Web App, sélectionnez __Options__ dans le coin supérieur, puis sélectionnez __Courrier indésirable__ dans la liste du volet de navigation.
 
                 - Assurez-vous que l’option __Ne pas filtrer le courrier indésirable__ n’est pas
-sélectionnée [^footnote5].
+sélectionnée [Note 5](#note-5).
 
 
             - Gmail
@@ -347,7 +347,7 @@ sélectionnez __Pourriel__ dans les options à gauche.
 
                 - Si vous trouvez un message classé à tort dans les pourriels, pour annuler son marquage, sélectionnez le courriel, puis cliquez sur le bouton __N’est pas un pourriel__  situé en haut et en bas de la vue active.
 
-                - L’annulation du marquage entraîne automatiquement la réintégration du message dans la boîte de réception [^footnote6].
+                - L’annulation du marquage entraîne automatiquement la réintégration du message dans la boîte de réception [Note 6](#note-6).
 
 
 #### 3.3 En pratique
@@ -465,14 +465,20 @@ Serveur|Ordinateur transmettant de l’information ou exécutant des fonctions p
 
 
 
-[^footnote1]: [What Is Spear Phishing?](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-spear-phishing-email-most-favored-apt-attack-bait.pdf)
+##### Note 1 
+ [What Is Spear Phishing?](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-spear-phishing-email-most-favored-apt-attack-bait.pdf)
 
-[^footnote2]: [Bloquer ou débloquer le téléchargement automatique d’images](https://support.office.com/fr-fr/article/Bloquer-ou-d%C3%A9bloquer-le-t%C3%A9l%C3%A9chargement-automatique-d-images-dans-les-messages-%C3%A9lectroniques-15e08854-6808-49b1-9a0a-50b81f2d617a?ui=fr-FR&rs=fr-FR&ad=FR)
+##### Note 2 
+ [Bloquer ou débloquer le téléchargement automatique d’images](https://support.office.com/fr-fr/article/Bloquer-ou-d%C3%A9bloquer-le-t%C3%A9l%C3%A9chargement-automatique-d-images-dans-les-messages-%C3%A9lectroniques-15e08854-6808-49b1-9a0a-50b81f2d617a?ui=fr-FR&rs=fr-FR&ad=FR)
 
-[^footnote3]: [LE POURRIEL : QU'EN EST-IL?](http://fightspam.gc.ca/eic/site/030.nsf/fra/00303.html#ic-subnav-2)
+##### Note 3 
+ [LE POURRIEL : QU'EN EST-IL?](http://fightspam.gc.ca/eic/site/030.nsf/fra/00303.html#ic-subnav-2)
 
-[^footnote4]: [À propos du filtre Courrier indésirable](https://support.office.com/fr-fr/article/%C3%80-propos-du-filtre-courrier-ind%C3%A9sirable-5ae3ea8e-cf41-4fa0-b02a-3b96e21de089)
+##### Note 4 
+ [À propos du filtre Courrier indésirable](https://support.office.com/fr-fr/article/%C3%80-propos-du-filtre-courrier-ind%C3%A9sirable-5ae3ea8e-cf41-4fa0-b02a-3b96e21de089)
 
-[^footnote5]: [Options > Courrier indésirable](https://support.office.com/fr-fr/article/Options-Courrier-ind%C3%A9sirable-068FA430-F8D7-4518-A8DA-8BC74958F05F?ui=fr-FR&rs=fr-)
+##### Note 5 
+ [Options > Courrier indésirable](https://support.office.com/fr-fr/article/Options-Courrier-ind%C3%A9sirable-068FA430-F8D7-4518-A8DA-8BC74958F05F?ui=fr-FR&rs=fr-)
 
-[^footnote6]: [Personnaliser les paramètres de filtre antispam](https://support.google.com/a/answer/2368132?hl=fr)
+##### Note 6 
+ [Personnaliser les paramètres de filtre antispam](https://support.google.com/a/answer/2368132?hl=fr)

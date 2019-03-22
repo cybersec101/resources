@@ -45,28 +45,28 @@ comme	les	livres,	les	magazines,	les	émissions	de	télévision,	les	films,	etc.
 
 	- utiliser	de	nouvelles	formes	de	médias, comme du	matériel	de	référence	évolutif et des publications participatives,	notamment :
 		- 	le	site	Wikipedia.org;
-		-  les	galeries	photo	de	la	New	York	Public	Library[^footnote1]
-		-  les	initiatives	pédagogiques,	comme	la	Khan	Academy[^footnote2]
-		-  les	outils	de	recherche	en	ligne,	comme	Google	Ngram	Viewer[^footnote3] et	 Wolfram|Alpha[^footnote4]
+		-  les	galeries	photo	de	la	New	York	Public	Library[Note 1](#note-1)
+		-  les	initiatives	pédagogiques,	comme	la	Khan	Academy[Note 2](#note-2)
+		-  les	outils	de	recherche	en	ligne,	comme	Google	Ngram	Viewer[Note 3](#note-3) et	 Wolfram|Alpha[Note 4](#note-4)
 
 
 	
 	
 	
-- Internet	est	utilisé	par	3,2 	milliards de personnes, dont 2	milliards	proviennent	de	pays en développement[^footnote5]
+- Internet	est	utilisé	par	3,2 	milliards de personnes, dont 2	milliards	proviennent	de	pays en développement[Note 5](#note-5)
 
 
 	
 - En	plus	de	ses	usages	bien	connus	comme les courriels, les	tableaux	d’affichage en	direct et les forums, Internet est	de	plus	en	plus	utilisé	pour	naviguer dans	les	médias	sociaux.
 
-	- Aux	États-Unis,	62 %	des	adultes utilisent Facebook, dont	70 %	chaque	jour[^footnote6]
+	- Aux	États-Unis,	62 %	des	adultes utilisent Facebook, dont	70 %	chaque	jour[Note 6](#note-6)
 
 
 
 	
 
 
-- Les	Canadiens	utilisent	généralement	Internet	pour	se	divertir,	lire	les	nouvelles, envoyer	des	courriels	(89 %),	réaliser	des	transactions	bancaires	(69 %)	et	vaquer à	leurs	activités	personnelles	(64 %).	Le	clavardage	vidéo	et	les	jeux	sont	aussi	de plus	en	plus	populaires[^footnote7].
+- Les	Canadiens	utilisent	généralement	Internet	pour	se	divertir,	lire	les	nouvelles, envoyer	des	courriels	(89 %),	réaliser	des	transactions	bancaires	(69 %)	et	vaquer à	leurs	activités	personnelles	(64 %).	Le	clavardage	vidéo	et	les	jeux	sont	aussi	de plus	en	plus	populaires[Note 7](#note-7).
 
 
 
@@ -99,7 +99,7 @@ Principaux	risques	sur	Internet	:
 	- Les	criminels	peuvent	exploiter	les	failles	des	systèmes	d’authentification	et	d’autorisation, ainsi	que	des	systèmes	d’accès	global	à	faible	coût	et	d’automatisation	industrielle	pour inventer	de	nouvelles	fraudes	et	arnaques.
 
 
-- Le	coût	de	la	cybercriminalité	et	de	la	sécurité	informatique	s’élève	à	des	millions,	voire des	milliards	de	dollars[^footnote8]. Cette	estimation	ne	tient	toutefois	pas	compte	de	la	confidentialité et	de	la	sécurité	des	technologies	et	ne	met	pas	suffisamment	les	risques	en	perspective.
+- Le	coût	de	la	cybercriminalité	et	de	la	sécurité	informatique	s’élève	à	des	millions,	voire des	milliards	de	dollars[Note 8](#note-8). Cette	estimation	ne	tient	toutefois	pas	compte	de	la	confidentialité et	de	la	sécurité	des	technologies	et	ne	met	pas	suffisamment	les	risques	en	perspective.
 
 
 
@@ -129,14 +129,14 @@ réseaux	de	recherche	et	d’enseignement	autonomes	cherchant	à	améliorer	la	c
 qui	a	été	le	tournant	de	sa	mise	en	œuvre.
 
 	- Le	développement	continu	d’Internet	en	est	la	preuve,	plusieurs	réseaux	fédérateurs	reliant
-les	petits	réseaux	ensemble[^footnote9].
+les	petits	réseaux	ensemble[Note 9](#note-9).
 
 
 	
 - Les	technologies	sous-jacentes	d’Internet	se	composent	en	fait	de	différentes	couches
 de	protocoles	d’exploitation	et	de	normes	communes	travaillant	ensemble	pour	gérer
 des	tâches	aussi	simples	que	le	transfert	d’un	signal	d’un	appareil	à	un	autre,	ou	aussi
-complexes	que	la	gestion	des	services	réseau	d’une	application[^footnote10].
+complexes	que	la	gestion	des	services	réseau	d’une	application[Note 10](#note-10).
 
 
 	
@@ -145,7 +145,7 @@ complexes	que	la	gestion	des	services	réseau	d’une	application[^footnote10].
 
 
 
-- Pour	mieux	comprendre	le	point	de	vue	de	la	sécurité,	il	est	utile	de	comprendre	le fonctionnement	des	protocoles	TCP[^footnote11]
+- Pour	mieux	comprendre	le	point	de	vue	de	la	sécurité,	il	est	utile	de	comprendre	le fonctionnement	des	protocoles	TCP[Note 11](#note-11)
 et	IP.
 
 
@@ -155,7 +155,7 @@ et	IP.
 
 	- Le	protocole	IP	transmet	ces	morceaux	au	destinataire,	comme	s’il	plaçait	chaque	page dans	une	enveloppe	distincte	(paquet	de	données)	en	y	inscrivant	l’adresse	du	destinataire et	de	l’expéditeur.
 
-	- Le	protocole	TCP 	replace	ensuite	toutes	les	pages	dans	le	bon	ordre	pour	le	destinataire[^footnote12].
+	- Le	protocole	TCP 	replace	ensuite	toutes	les	pages	dans	le	bon	ordre	pour	le	destinataire[Note 12](#note-12).
 
 
 
@@ -215,7 +215,7 @@ un	service	fixe,	comme	pour	une	maison,	ou	mobile,	comme	pour	un	téléphone	cel
 de	l’Irlande,	du	Japon,	de	l’Alaska	et	de	Seattle.
 
 	- La	plus	grande	partie	du	trafic	Internet	canadien	passe	par	les	États-Unis	en	raison
-des	points	de	connexion	majeurs	à	l’Asie,	près	de	Seattle,	et	à	l’Europe,	à	New	York[^footnote13].
+des	points	de	connexion	majeurs	à	l’Asie,	près	de	Seattle,	et	à	l’Europe,	à	New	York[Note 13](#note-13).
 
 
 
@@ -238,7 +238,7 @@ des	points	de	connexion	majeurs	à	l’Asie,	près	de	Seattle,	et	à	l’Europe,
 
 	- Chaque	avancée	a	été	assez	importante	pour	donner	lieu	à	de	nouvelles	générations
 de	technologie.	Nous	avons	déjà	connu	les	2e	et	3e générations	(2G	et	3G),	mais	la
-norme	actuelle	est	la	technologie	d’évolution	à	long	terme	ou	LTE 4G[^footnote14].
+norme	actuelle	est	la	technologie	d’évolution	à	long	terme	ou	LTE 4G[Note 14](#note-14).
 
 
 
@@ -246,7 +246,7 @@ norme	actuelle	est	la	technologie	d’évolution	à	long	terme	ou	LTE 4G[^footn
 
 
 
-	- Le	type	de	connexion	de	votre	appareil	est	généralement	indiqué	dans	l’écran	montrant la	force	du	signal	(barres).	La	3e génération	et	les	suivantes	offrent	un	bon	service	et	un certain	degré	de	sécurité[^footnote15].
+	- Le	type	de	connexion	de	votre	appareil	est	généralement	indiqué	dans	l’écran	montrant la	force	du	signal	(barres).	La	3e génération	et	les	suivantes	offrent	un	bon	service	et	un certain	degré	de	sécurité[Note 15](#note-15).
 
 
 
@@ -281,7 +281,7 @@ câble	coaxial	et	accès	fixe	sans	fil.
 		- Ces	connexions	ont	des	propriétés	semblables;	elles	sont	connectées	en permanence	et	permettent	de	transférer	un	grand	volume	de	données.
 
 	- Les	connexions	par	ligne	commutée	(un	ancien	type	de	connexion	qui	passait	par le	même	fil	que	le	téléphone)	ont	des	propriétés	différentes.	Elles	sont	considérées
-comme	techniquement	inférieures	et	ne	devraient	plus	être	nécessaires	au	Canada[^footnote16].
+comme	techniquement	inférieures	et	ne	devraient	plus	être	nécessaires	au	Canada[Note 16](#note-16).
 
 
 
@@ -295,7 +295,7 @@ comme	techniquement	inférieures	et	ne	devraient	plus	être	nécessaires	au	Cana
 	- Dans	la	maison,	ce	câble	est	relié	à	un	modem,	soit	une	boîte	dotée	de	témoins	lumineux
 qui	clignotent	constamment,	généralement	fournie	par	le	FAI.
 	- Un	routeur	réseau	(avec	ou	sans	fil)	connecté	au	modem	gère	les	communications
-Internet[^footnote17].
+Internet[Note 17](#note-17).
 
 
 
@@ -322,7 +322,7 @@ chemin	contrôlé	pour	les	signaux,	mais	s’avère	peu	pratique,	car	l’appare
 		- Une	seule	station	de	base	peut	alimenter	un	réseau	de	plusieurs	appareils.
 		- Les	voisins	ont	leur	propre	réseau	Wi-Fi,	même	s’ils	sont	à	portée	de	signal les	uns	des	autres.
 
-			- Cette	fonction	force	les	appareils	à	ignorer	les	messages	qui	ne	leur	sont pas	destinés.	Autrement	dit,	il	est	possible	d’écouter	passivement	en n’ignorant	pas	les	messages[^footnote18].
+			- Cette	fonction	force	les	appareils	à	ignorer	les	messages	qui	ne	leur	sont pas	destinés.	Autrement	dit,	il	est	possible	d’écouter	passivement	en n’ignorant	pas	les	messages[Note 18](#note-18).
 
 
 
@@ -378,7 +378,7 @@ ni	de	connaître	les	intentions	des	utilisateurs.
 que	vous	l’utilisiez.
 
 			- Il	pourrait	avoir	installé	un	logiciel	ou	un	périphérique	enregistrant
-les	données	d’utilisation	pour	voler	vos	renseignements	personnels [^footnote19].
+les	données	d’utilisation	pour	voler	vos	renseignements	personnels [Note 19](#note-19).
 
 
 
@@ -390,7 +390,7 @@ des	victimes	potentielles.
 
 	- Autre	problème	avec	les	réseaux	publics	:	on	ne	peut	que	supposer	que	la	personne offrant	la	connexion	se	soucie	de	la	sécurité.
 
-		- Même	les	plus	grands	hôtels	ont	connu	des	problèmes	de	sécurité	exposant les	utilisateurs	de	leur	réseau	privé	à	des	risques[^footnote20].
+		- Même	les	plus	grands	hôtels	ont	connu	des	problèmes	de	sécurité	exposant les	utilisateurs	de	leur	réseau	privé	à	des	risques[Note 20](#note-20).
 
 
 
@@ -436,44 +436,64 @@ Station Wi-Fi de base | Appareil	donnant accès à un réseau Wi-Fi,	et	souvent	
 Technologie LTE | Technologie	d’évolution à long terme améliorant	la	prestation de	services	mobiles de quatrième génération.
 Wi-Fi | Ensemble	de	technologies	de	réseautage informatique sans	fil pour	petit	réseau.
 
-[^footnote1]: [The New York Public Library](http://digitalcollections.nypl.org)
+##### Note 1 
+ [The New York Public Library](http://digitalcollections.nypl.org)
 
-[^footnote2]: [Khan Academy](fr.khanacademy.org)
+##### Note 2 
+ [Khan Academy](fr.khanacademy.org)
 
-[^footnote3]: [ Google Books 	Ngram Viewer](https://books.google.com/ngrams)
+##### Note 3 
+ [ Google Books 	Ngram Viewer](https://books.google.com/ngrams)
 
-[^footnote4]:	[Wolfram|Alpha](https://www.wolframalpha.com/)
+##### Note 4 
+	[Wolfram|Alpha](https://www.wolframalpha.com/)
 
-[^footnote5]: International	Telecommunications	Union.	ICT	Facts	&	Figures	[rapport	sur	l’état	d’Internet]	(en	ligne),	Genève,	mai	2015. Sur	Internet	:[ICT Facts Figures 2015](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2015.pdf).
+##### Note 5 
+ International	Telecommunications	Union.	ICT	Facts	&	Figures	[rapport	sur	l’état	d’Internet]	(en	ligne),	Genève,	mai	2015. Sur	Internet	:[ICT Facts Figures 2015](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2015.pdf).
 
-[^footnote6]: [The Demographics of Social Media Users](http://www.pewinternet.org/2015/08/19/the-demographics-of-social-media-users/)
+##### Note 6 
+ [The Demographics of Social Media Users](http://www.pewinternet.org/2015/08/19/the-demographics-of-social-media-users/)
 
-[^footnote7]: Pour	en	savoir	plus	sur	l’[utilisation	d’Internet	au	Canada](https://cira.ca/factbook/2014/fr/the-canadian-internet.html)
+##### Note 7 
+ Pour	en	savoir	plus	sur	l’[utilisation	d’Internet	au	Canada](https://cira.ca/factbook/2014/fr/the-canadian-internet.html)
 
-[^footnote8]: [100 milliards	par	année	(en	2013,	aux États-Unis seulement)](http://www.wsj.com/articles/SB990); [160 milliards	par	année (en 2014)](http://www.mcafee.com/ca/resources/reports/rp-economic-impact-cybercrime2.pdf); [7,6 millions par entreprise- en 	2015](http://www8.hp.com/ca/fr/software-solutions/ponemon-cyber-security-report/index.html?jumpid=va_fwvpqe387s)
+##### Note 8 
+ [100 milliards	par	année	(en	2013,	aux États-Unis seulement)](http://www.wsj.com/articles/SB990); [160 milliards	par	année (en 2014)](http://www.mcafee.com/ca/resources/reports/rp-economic-impact-cybercrime2.pdf); [7,6 millions par entreprise- en 	2015](http://www8.hp.com/ca/fr/software-solutions/ponemon-cyber-security-report/index.html?jumpid=va_fwvpqe387s)
 
-[^footnote9]: Pour	en	savoir	plus	sur	l’histoire	d’Internet, consulter	les	sites	: [Internet History 1962 to 1992](http://www.computerhistory.org/internethistory/) , [A Brief History of the Internet & Related Networks](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet-related-networks)	et [nternet History Timeline](http://www.livescience.com/20727-internet-history.html).
+##### Note 9 
+ Pour	en	savoir	plus	sur	l’histoire	d’Internet, consulter	les	sites	: [Internet History 1962 to 1992](http://www.computerhistory.org/internethistory/) , [A Brief History of the Internet & Related Networks](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet-related-networks)	et [nternet History Timeline](http://www.livescience.com/20727-internet-history.html).
 
-[^footnote10]: Ces	couches	sont	illustrées	dans	le modèle de référence	d’interconnexion	de	systèmes	ouverts (OSI). Pour avoir	un	aperçu	des	couches, consulter	le site :	[The OSI Model](http://cisco.8bits.ca/osi/) ;	[Windows Network Architecture and the OSI Model](https://support.microsoft.com/fr-ca/kb/103884).
+##### Note 10 
+ Ces	couches	sont	illustrées	dans	le modèle de référence	d’interconnexion	de	systèmes	ouverts (OSI). Pour avoir	un	aperçu	des	couches, consulter	le site :	[The OSI Model](http://cisco.8bits.ca/osi/) ;	[Windows Network Architecture and the OSI Model](https://support.microsoft.com/fr-ca/kb/103884).
 
-[^footnote11]: [TCP-IP	Explained - vidéo](https://www.youtube.com/watch?v=7rR8p6gsExY), réalisée	par	Medialab, Ericsson Radio Systems	AB,	1999. Sur	Internet.
+##### Note 11 
+ [TCP-IP	Explained - vidéo](https://www.youtube.com/watch?v=7rR8p6gsExY), réalisée	par	Medialab, Ericsson Radio Systems	AB,	1999. Sur	Internet.
 
-[^footnote12]: Pour	en	savoir	plus	sur	les	protocoles TCP et IP, consulter le	site	:	[Basic Internet Principles](http://cs.smu.ca/~porter/csc/465/notes/net/internetprinciples.html).
+##### Note 12 
+ Pour	en	savoir	plus	sur	les	protocoles TCP et IP, consulter le	site	:	[Basic Internet Principles](http://cs.smu.ca/~porter/csc/465/notes/net/internetprinciples.html).
 
 <!--footnote 13 = review original : not working = -->
 
-[^footnote13]: Pour	voir	des	cartes	de	l’infrastructure matérielle, consulter	les	sites	: [Business Shaw](http://business.shaw.ca/Wholesale/) ; [Arctic Fibre](http://qexpressnet.com/);	[Bell Canada](https://www.wholesale.bell.ca/) et 	[Global internet map](http://global-internet-map-2012.telegeography.com).
+##### Note 13 
+ Pour	voir	des	cartes	de	l’infrastructure matérielle, consulter	les	sites	: [Business Shaw](http://business.shaw.ca/Wholesale/) ; [Arctic Fibre](http://qexpressnet.com/);	[Bell Canada](https://www.wholesale.bell.ca/) et 	[Global internet map](http://global-internet-map-2012.telegeography.com).
 
-[^footnote14]: [Mobile Standard](http://www.3gpp.org/technologies/keywords-acronyms/98-lte) 
+##### Note 14 
+ [Mobile Standard](http://www.3gpp.org/technologies/keywords-acronyms/98-lte) 
 
-[^footnote15]: Les réseaux 2G sont vulnérables aux intrusions. Pour obtenir une explication technique, consulter la [présentation sur les attaques aux appareils mobiles](https://media.blackhat.com/bh-dc-11/Perez-Pico/BlackHat_DC_2011_Perez-Pico_Mobile_Attacks-Slides.pdf).
+##### Note 15 
+ Les réseaux 2G sont vulnérables aux intrusions. Pour obtenir une explication technique, consulter la [présentation sur les attaques aux appareils mobiles](https://media.blackhat.com/bh-dc-11/Perez-Pico/BlackHat_DC_2011_Perez-Pico_Mobile_Attacks-Slides.pdf).
 
-[^footnote16]: Le CRTC s’est engagé à fournir un accès Internet à large bande à tous les Canadiens. [Conseil de la radiodiffusion et des télécommunications canadiennes](https://crtc.gc.ca/recherche-search/?n=f).
+##### Note 16 
+ Le CRTC s’est engagé à fournir un accès Internet à large bande à tous les Canadiens. [Conseil de la radiodiffusion et des télécommunications canadiennes](https://crtc.gc.ca/recherche-search/?n=f).
 
-[^footnote17]: Chaque FAI fournit un guide pour l’installation d’un réseau à domicile selon le type de connexion. Généralement, il envoie un technicien pour installer le matériel puisque certaines connaissances et certains outils spécialisés peuvent être nécessaires. Pour voir un exemple de guide d’installation, consulter les sites : [Bell Canada](https://soutien.bell.ca/Services-Internet/Aide-connexion) et [Videotron](https://soutien.videotron.com/residentiel/internet/brancher-modem-routeur).
+##### Note 17 
+ Chaque FAI fournit un guide pour l’installation d’un réseau à domicile selon le type de connexion. Généralement, il envoie un technicien pour installer le matériel puisque certaines connaissances et certains outils spécialisés peuvent être nécessaires. Pour voir un exemple de guide d’installation, consulter les sites : [Bell Canada](https://soutien.bell.ca/Services-Internet/Aide-connexion) et [Videotron](https://soutien.videotron.com/residentiel/internet/brancher-modem-routeur).
 
-[^footnote18]: Pour	en	savoir	plus	sur	les	 [connexions Wi-Fi](http://pages.cpsc.ucalgary.ca/~carey/CPSC641/slides/wireless/WirelessTutorial.pdf) 
+##### Note 18 
+ Pour	en	savoir	plus	sur	les	 [connexions Wi-Fi](http://pages.cpsc.ucalgary.ca/~carey/CPSC641/slides/wireless/WirelessTutorial.pdf) 
 
-[^footnote19]: [Hardware keyloggers discovered at public libraries](https://nakedsecurity.sophos.com/2011/02/hardware-keyloggers-discovered-public-libraries/)
+##### Note 19 
+ [Hardware keyloggers discovered at public libraries](https://nakedsecurity.sophos.com/2011/02/hardware-keyloggers-discovered-public-libraries/)
 
-[^footnote20]: [Big Vulnerability in Hotel Wi-Fi Router Puts Guests at Risk](http://www.wired.com/2015/03/big-vulnerability-hotel-wi-fi-router-puts-guests-risk/) et 	[Darkhotel’s attacks in 2015](https://securelist.com/blog/research/71713/darkhotels-attacks-in-2015/).
+##### Note 20 
+ [Big Vulnerability in Hotel Wi-Fi Router Puts Guests at Risk](http://www.wired.com/2015/03/big-vulnerability-hotel-wi-fi-router-puts-guests-risk/) et 	[Darkhotel’s attacks in 2015](https://securelist.com/blog/research/71713/darkhotels-attacks-in-2015/).

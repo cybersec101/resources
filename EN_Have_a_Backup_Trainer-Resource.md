@@ -186,7 +186,7 @@ operation of a backup.
 
 	- A cloud service provides storage space on a server in another location on the Internet.
 	- Drop Box, Google Drive and Apple iCloud are a few examples of Cloud Service Providers.
-    Other examples can be found in the Consumer Report[^footnote1] below.
+    Other examples can be found in the Consumer Report[Note 1](#note-1) below.
     
 
 
@@ -355,7 +355,7 @@ and select the item to exclude.
     you have.
 	- You can continue using your Mac while a backup is under way.
 	- Some Mac computers make backups even when asleep.
-	- Time Machine backs up only the files that changed since the previous backup, so future backups will be faster [^footnote2] [^footnote3].
+	- Time Machine backs up only the files that changed since the previous backup, so future backups will be faster [Note 2](#note-2) [Note 3](#note-3).
 
 
 
@@ -376,7 +376,7 @@ system recovery.
 
 				- Every hour, Windows backs up everything in your user folder
     (C:\Users\username). To change which files get backed up or how
-    often backups happen, go to More options [^footnote4].
+    often backups happen, go to More options [Note 4](#note-4).
     
 
 
@@ -408,7 +408,7 @@ system recovery.
 				- Tap or click **_Select a drive,_** and choose the network or external
     drive you want to use.
 
-				- Turn on **_File History._** [^footnote5].
+				- Turn on **_File History._** [Note 5](#note-5).
 				
 				- Image :L ![alt text](tbd.png) 
 
@@ -462,7 +462,7 @@ system recovery.
        regularly scheduled backup or manually create a new backup
        by clicking **_Back up now_** ![alt text](tbd.png). If you are prompted for an
        administrator password or confirmation, type the password or
-       provide confirmation [^footnote6].
+       provide confirmation [Note 6](#note-6).
        
 
 
@@ -499,12 +499,12 @@ You can restore a single file or the complete system from your backup.
     the one you want.
 
 				- Click **_Restore_** to restore the selected file or Control-click the file for
-other options [^footnote7].
+other options [Note 7](#note-7).
 
 
 
 
-	- Recover an Apple system by holding down the command and R keys at start up with the backup drive connected [^footnote8]. 
+	- Recover an Apple system by holding down the command and R keys at start up with the backup drive connected [Note 8](#note-8). 
 	
 	- Image : ![alt text](tbd.png "Optional Title") 
 
@@ -525,7 +525,7 @@ arrows to browse through different versions of your folders and files.
 		- Select what you want to restore to its original location, and then tap or click the
 **_Restore_** button. If you want to restore your files to a different location than the
 original, press and hold or right-click the **_Restore_** button, tap or click **_Restore To,_**
-and then choose a new location [^footnote9].
+and then choose a new location [Note 9](#note-9).
 
 
 
@@ -539,7 +539,7 @@ down, and then click **_Search_** ).
 		- Enter Control Panel in the search box, and tap or click **_Control Panel._**
  Enter Recovery in the Control Panel search box, and then tap or click **_Recovery._**
 
-		- Tap or click **_Open System Restore,_** and then follow the instructions [^footnote10].
+		- Tap or click **_Open System Restore,_** and then follow the instructions [Note 10](#note-10).
 
 
 
@@ -567,22 +567,32 @@ USB|A connection that allows for the connection of nearly any type of device and
 
 
 
-[^footnote1]: [Which cloud storage service is best for your needs?](http://www.consumerreports.org/cro/2013/11/cloud-storage-services-comparison/index.htm)
+##### Note 1 
+ [Which cloud storage service is best for your needs?](http://www.consumerreports.org/cro/2013/11/cloud-storage-services-comparison/index.htm)
 
-[^footnote2]: [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
+##### Note 2 
+ [Sauvegarder les données du Mac avec Time Machine](https://support.apple.com/fr-ca/HT201250)
 
-[^footnote3]: [Back up your Mac with Time Machine](https://support.apple.com/en-us/HT201250) 
+##### Note 3 
+ [Back up your Mac with Time Machine](https://support.apple.com/en-us/HT201250) 
 
-[^footnote4]: [Back up and restore your files](https://support.microsoft.com/en-ca/help/17143/windows-10-back-up-your-files)
+##### Note 4 
+ [Back up and restore your files](https://support.microsoft.com/en-ca/help/17143/windows-10-back-up-your-files)
 
-[^footnote5]: [File History in Windows](https://support.microsoft.com/en-ca/help/17128/windows-8-file-history)
+##### Note 5 
+ [File History in Windows](https://support.microsoft.com/en-ca/help/17128/windows-8-file-history)
 
-[^footnote6]: [Back up and restore your PC](https://support.microsoft.com/en-ca/help/17127/windows-back-up-restore#1TC=windows-7)
+##### Note 6 
+ [Back up and restore your PC](https://support.microsoft.com/en-ca/help/17127/windows-back-up-restore#1TC=windows-7)
 
-[^footnote7]: [Back up your Mac with Time Machine](https://support.apple.com/en-ca/HT201250)
+##### Note 7 
+ [Back up your Mac with Time Machine](https://support.apple.com/en-ca/HT201250)
 
-[^footnote8]: [About macOS Recovery](https://support.apple.com/en-ca/HT201314)
+##### Note 8 
+ [About macOS Recovery](https://support.apple.com/en-ca/HT201314)
 
-[^footnote9]: [File History in Windows](https://support.microsoft.com/en-ca/help/17128/windows-8-file-history)
+##### Note 9 
+ [File History in Windows](https://support.microsoft.com/en-ca/help/17128/windows-8-file-history)
 
-[^footnote10]: [How to refresh, reset, or restore your PC](https://support.microsoft.com/en-ca/help/17085/windows-8-restore-refresh-reset-pc)
+##### Note 10 
+ [How to refresh, reset, or restore your PC](https://support.microsoft.com/en-ca/help/17085/windows-8-restore-refresh-reset-pc)

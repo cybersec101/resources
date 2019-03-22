@@ -61,7 +61,7 @@ viser à dénigrer une personne, ou même contenir des menaces.
     - Ces attaques peuvent être considérées comme du harcèlement ou entraîner des
 procédures  judiciaires (au civil   ou  au  criminel)   pour    diffamation ou  atteinte    à   la  vie privée.
 
-    - Au Canada, des déclarations incitant à la haine d’un groupe identifiable ou en faisant la promotion de sorte à troubler la paix sont considérées comme des actes criminels aux yeux de la loi [^footnote1].
+    - Au Canada, des déclarations incitant à la haine d’un groupe identifiable ou en faisant la promotion de sorte à troubler la paix sont considérées comme des actes criminels aux yeux de la loi [Note 1](#note-1).
 
 
     - Il n’y a aucune limite à ce que vous pouvez publier sur Internet, ni à qui vous en faites part ou à quel moment vous le faites.
@@ -149,7 +149,7 @@ les tablettes   et  les ordinateurs portables,  à   des fins    intimes ne  dev
 est appelée sextage, une combinaison des mots sexe et textage.
 
         	- Certaines applications se prêtent bien à cette activité et d’autres y sont
-même directement associées [^footnote2].
+même directement associées [Note 2](#note-2).
 
 
             	- Les applications    de  messagerie  chiffrée    offrent parfois des fonctions
@@ -167,11 +167,11 @@ logiciels   chiffrent   les messages;   il  est donc    préférable  de  vérif
 leur fonctionnement de façon individuelle.
 
             	- Certaines   applications    sont    conçues pour    chiffrer    les fichiers    (p. ex.,
-des images) à   l’emplacement   où  ils sont    stockés [^footnote3].
+des images) à   l’emplacement   où  ils sont    stockés [Note 3](#note-3).
 
 
             	- Les systèmes    d’exploitation  de  Microsoft   et  d’Apple ont des capacités
-intégrées   de  chiffrement des fichiers [^footnote4].
+intégrées   de  chiffrement des fichiers [Note 4](#note-4).
 
 
         - Aucune application ne peut garantir la confidentialité de vos communications.
@@ -234,7 +234,7 @@ erreur se produise sont importants.
         - La plupart des gens considèrent le partage d’images intimes comme une violation   de  leur    vie privée. La  distribution    d’une   photo   pourrait    être
 dévastatrice pour votre couple ou votre partenaire.
 
-        - La mise en circulation délibérée d’images intimes sans le consentement de  la  personne    concernée   se  produit souvent après   une rupture [^footnote5].
+        - La mise en circulation délibérée d’images intimes sans le consentement de  la  personne    concernée   se  produit souvent après   une rupture [Note 5](#note-5).
 
 
             - Les répercussions sur les personnes victimes de ces actes vont bien au-delà des torts   psychologiques  :   perte   d’emploi,   changement  de  nom, changement  d’école,    harcèlement,    etc.
@@ -243,11 +243,11 @@ dévastatrice pour votre couple ou votre partenaire.
 intimes, cette pratique est illégale.
 
 
-            - En vertu de la loi canadienne[^footnote6] , « quiconque sciemment publie,
+            - En vertu de la loi canadienne[Note 6](#note-6) , « quiconque sciemment publie,
 distribue, transmet, vend ou rend accessible une image intime d’une
 personne    ou  en  fait    la  publicité,  sachant que cette   personne    n’y a   pas
 consenti ou sans se soucier de savoir si elle y a consenti ou non, est
-coupable » [^footnote7] d’un crime.
+coupable » [Note 7](#note-7) d’un crime.
 
 
         - Le sextage avec des adolescents ou de jeunes adultes peut être
@@ -258,7 +258,7 @@ représentation  photographique, filmée, vidéo   ou  autre   où  figure  une
 personne    âgée    de  moins   de  dix-huit    ans ou  présentée   comme   telle
 et se livrant à une activité sexuelle explicite ou dont la caractéristique
 dominante est la représentation d’organes sexuels (seins y compris)
-ou de la région anale est illégale[^footnote8].
+ou de la région anale est illégale[Note 8](#note-8).
 
                 - Par    contre, il  y   a   une exception   au  Canada  où  l’échange   d’images
 de ce type entre partenaires intimes est légal (si les partenaires
@@ -269,7 +269,7 @@ arrêter pour    une telle   offense.    Les autorités   s’intéressent   plu
 à   la  distribution    d’images    à   caractère   sexuel  par     une personne
 extérieure à la relation.
 
-                - Si vous recevez une image intime d’une personne n’ayant pas consenti    à   sa  distribution,   ou  si  quelqu’une  distribue   une photo intime  de  vous    sans    votre   consentement,   sachez  que la  personne sur la  photo,  la  personne    ayant   pris    la  photo   et  vous-même   n’avez commis aucun crime. Si cela vous arrive, vous pouvez demander l’aide d’un parent, d’un enseignant ou même de la police[^footnote9].
+                - Si vous recevez une image intime d’une personne n’ayant pas consenti    à   sa  distribution,   ou  si  quelqu’une  distribue   une photo intime  de  vous    sans    votre   consentement,   sachez  que la  personne sur la  photo,  la  personne    ayant   pris    la  photo   et  vous-même   n’avez commis aucun crime. Si cela vous arrive, vous pouvez demander l’aide d’un parent, d’un enseignant ou même de la police[Note 9](#note-9).
 
 
 #### 2.3 En pratique
@@ -505,7 +505,7 @@ d’hyperlien vers    votre   profil. Par contre, les amis    de  la  personne  
 publication peuvent toujours voir le message.
 
         - Si   vous   voulez  vraiment    que la  publication soit    retirée,    Facebook    suggère
-de demander à la personne qui l’a publiée de la retirer[^footnote10].
+de demander à la personne qui l’a publiée de la retirer[Note 10](#note-10).
 
 
 - Modifier    la   visibilité des renseignements  affichés    sur votre   profil.
@@ -612,22 +612,32 @@ Réseaux sociaux|Services servant à trouver d’autres utilisateurs,à communiq
 Sextage|Combinaison des mots    sexe    et  textage :   envoi   d’images    ou de messages intimes au moyen d’un service de messagerie.
 
 
-[^footnote1]: [Balancing Free Speech and Social Harmony](http://www.lawnow.org/whatcott-case-balancing-free-speech-social-harmony/) , [When is it hate speech?](https://www.cbc.ca/news/canada/when-is-it-hate-speech-7-significant-canadian-cases-1.1036731) , [Site Web de la législation (Justice)](http://laws-lois.justice.gc.ca/fra/lois/C-46/page-71.html).
+##### Note 1 
+ [Balancing Free Speech and Social Harmony](http://www.lawnow.org/whatcott-case-balancing-free-speech-social-harmony/) , [When is it hate speech?](https://www.cbc.ca/news/canada/when-is-it-hate-speech-7-significant-canadian-cases-1.1036731) , [Site Web de la législation (Justice)](http://laws-lois.justice.gc.ca/fra/lois/C-46/page-71.html).
 
-[^footnote2]: [Secure Messaging?](https://www.eff.org/deeplinks/2018/03/secure-messaging-more-secure-mess)
+##### Note 2 
+ [Secure Messaging?](https://www.eff.org/deeplinks/2018/03/secure-messaging-more-secure-mess)
 
-[^footnote3]: [TrueCrypt](http://truecrypt.sourceforge.net/)
+##### Note 3 
+ [TrueCrypt](http://truecrypt.sourceforge.net/)
 
-[^footnote4]: How to encrypt a file : [Windows](https://support.microsoft.com/en-ph/help/4026312/windows-10-how-to-encrypt-a-file), [Apple](https://support.apple.com/en-us/HT208344)
+##### Note 4 
+ How to encrypt a file : [Windows](https://support.microsoft.com/en-ph/help/4026312/windows-10-how-to-encrypt-a-file), [Apple](https://support.apple.com/en-us/HT208344)
 
-[^footnote5]: Les médias ont souvent fait référence à cet acte comme une « vengeance pornographique » dans le passé.
+##### Note 5 
+ Les médias ont souvent fait référence à cet acte comme une « vengeance pornographique » dans le passé.
 
-[^footnote6]: [Cour suprême du Canada](https://www.canlii.org/fr/ca/csc/doc/2001/2001csc2/2001csc2.html)
+##### Note 6 
+ [Cour suprême du Canada](https://www.canlii.org/fr/ca/csc/doc/2001/2001csc2/2001csc2.html)
 
-[^footnote7]: [Code criminel - L.R.C.-1985, ch. C-46](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-162.1.html)
+##### Note 7 
+ [Code criminel - L.R.C.-1985, ch. C-46](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-162.1.html)
 
-[^footnote8]: [Site Web de la législation](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-163.1.html)
+##### Note 8 
+ [Site Web de la législation](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-163.1.html)
 
-[^footnote9]: [Kids help phone](https://kidshelpphone.ca/wp-signup.php?new=org)
+##### Note 9 
+ [Kids help phone](https://kidshelpphone.ca/wp-signup.php?new=org)
 
-[^footnote10]: [Que faire si je n’aime pas une publication dans laquelle je suis identifié(e) ?](https://www.facebook.com/help/196434507090362)
+##### Note 10 
+ [Que faire si je n’aime pas une publication dans laquelle je suis identifié(e) ?](https://www.facebook.com/help/196434507090362)

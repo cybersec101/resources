@@ -31,18 +31,18 @@ L’intimidation en ligne est un comportement inacceptable, de par ses effets n�
 
 - En pratique, il n’y a aucune différence entre le harcèlement en ligne et l’intimidation en ligne, aussi appelée cyberintimidation.
 
-	- Ces termes sont souvent utilisés de manière interchangeable, bien que l’intimidation soit plus fréquemment associée aux environnements scolaires et professionnels[^footnote1]. 
+	- Ces termes sont souvent utilisés de manière interchangeable, bien que l’intimidation soit plus fréquemment associée aux environnements scolaires et professionnels[Note 1](#note-1). 
 
 
 
 	- La cyberintimidation se définit comme « un méfait intentionnel et répété commis à partir d’ordinateurs, de téléphones cellulaires ou de tout autre appareil électronique ».
 
 
-		- Le harcèlement criminel consiste en la répétition d’actes qui amène les personnes visées à légitimement craindre pour leur sécurité[^footnote2].
+		- Le harcèlement criminel consiste en la répétition d’actes qui amène les personnes visées à légitimement craindre pour leur sécurité[Note 2](#note-2).
 
 
 
-- Il est impossible de connaître le nombre exact de cas de cyberintimidation chez les adolescents, mais on estime qu’au moins 20 à 30 % d’entre eux en auraient été victimes[^footnote3].
+- Il est impossible de connaître le nombre exact de cas de cyberintimidation chez les adolescents, mais on estime qu’au moins 20 à 30 % d’entre eux en auraient été victimes[Note 3](#note-3).
 
 
 
@@ -53,11 +53,11 @@ L’intimidation en ligne est un comportement inacceptable, de par ses effets n�
 
 	- Un seul cas d’intimidation, peu importe sa nature, est un cas de trop.
 
-	- Les actes qui créent des préjudices sont variés et difficiles à catégoriser ou à cibler[^footnote4].
+	- Les actes qui créent des préjudices sont variés et difficiles à catégoriser ou à cibler[Note 4](#note-4).
 
 	
 
-	- Leur répétitivité est l’aspect le plus important et le plus facile à percevoir[^footnote5].
+	- Leur répétitivité est l’aspect le plus important et le plus facile à percevoir[Note 5](#note-5).
 
 
 
@@ -820,12 +820,17 @@ Téléphone intelligent | Téléphone fonctionnant comme un ordinateur et avec l
 [YouTube](https://youtube.com)| Site Web hébergeant du contenu vidéo (youtube.com).
 
 
-[^footnote1]: [Harcèlement par Internet ou cyberharcèlement](http://www.cchst.ca/oshanswers/psychosocial/cyberbullying.html)
+##### Note 1 
+ [Harcèlement par Internet ou cyberharcèlement](http://www.cchst.ca/oshanswers/psychosocial/cyberbullying.html)
 
-[^footnote2]: [Harcèlement criminel : Guide à l'intention des policiers et des procureurs de la Couronne](https://www.justice.gc.ca/fra/pr-rp/jp-cj/vf-fv/har/part1.html)
+##### Note 2 
+ [Harcèlement criminel : Guide à l'intention des policiers et des procureurs de la Couronne](https://www.justice.gc.ca/fra/pr-rp/jp-cj/vf-fv/har/part1.html)
 
-[^footnote3]: [L’intimidation fait encore l’objet de fausses croyances qui incitent les gens à penser que c’est un passage normal dans le développement de l’enfant. ](https://www.prevnet.ca/fr/intimidation/faits-et-solutions)
+##### Note 3 
+ [L’intimidation fait encore l’objet de fausses croyances qui incitent les gens à penser que c’est un passage normal dans le développement de l’enfant. ](https://www.prevnet.ca/fr/intimidation/faits-et-solutions)
 
-[^footnote4]: [Consulter la partie 1.6 du guide à l'intention des policiers et des procureurs de la Couronne](https://www.justice.gc.ca/fra/pr-rp/jp-cj/vf-fv/har/part1.html)
+##### Note 4 
+ [Consulter la partie 1.6 du guide à l'intention des policiers et des procureurs de la Couronne](https://www.justice.gc.ca/fra/pr-rp/jp-cj/vf-fv/har/part1.html)
 
-[^footnote5]: [Qu’est-ce que la cyberintimidation?](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cbr-scrt/cbrbllng/prnts/cbrbllng-fr.aspx)
+##### Note 5 
+ [Qu’est-ce que la cyberintimidation?](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cbr-scrt/cbrbllng/prnts/cbrbllng-fr.aspx)

@@ -50,7 +50,7 @@ avoid a common point of compromise.
     you know.
 
 			- Common examples are smart cards and login number generators such as the
-    RSA SecurID, and Yubikeys [^footnote1].
+    RSA SecurID, and Yubikeys [Note 1](#note-1).
 
 
 
@@ -83,7 +83,7 @@ have, such as a phone number or a unique device.
 	- Passwords
 
 		- Currently, passwords are the least worst option for most of the Internet and the
-main way of proving who you are [^footnote2].
+main way of proving who you are [Note 2](#note-2).
 
 
 			- Passwords are sometimes referred to as passphrases.
@@ -123,7 +123,7 @@ different options.
 	- Reusing passwords
 
 		- We have so many accounts, it is has become difficult to remember all the
-passwords. Some of the ways we try to make this easier work against us [^footnote3].
+passwords. Some of the ways we try to make this easier work against us [Note 3](#note-3).
 
 
 			- Reusing passwords has direct security implications as leaks at one website can compromise security at another.
@@ -375,7 +375,7 @@ and grammar rules.
 
 - To use the Diceware method:
 
-	- Download the complete Diceware list [^footnote4] or the alternative Beale list [^footnote5] and save
+	- Download the complete Diceware list [Note 4](#note-4) or the alternative Beale list [Note 5](#note-5) and save
     it on your computer. Print it out if you like.
 
 
@@ -402,7 +402,7 @@ passphrase.
 
 	- Some people try to connect the words in the phrase to make it easier to remember.
 
-	- There is no harm in writing it down on paper stored in a secure location [^footnote6].
+	- There is no harm in writing it down on paper stored in a secure location [Note 6](#note-6).
 
 
 
@@ -483,15 +483,21 @@ SMS code|A code is sent to your mobile device as a text message (SMS – Short M
 Two-factor authentication|A system for identifying a person that uses two components that operate independently and avoid a common point of compromise.
 Username|A unique name given to a computer system or service user. Used together with a password it can identify an individual.
 
-[^footnote1]: [Two-factor authentication: Understanding the options](https://nakedsecurity.sophos.com/2014/11/14/understanding-the-options-2fa/)
+##### Note 1
+ [Two-factor authentication: Understanding the options](https://nakedsecurity.sophos.com/2014/11/14/understanding-the-options-2fa/)
 
-[^footnote2]: An in-depth review of 35 proposed password alternatives using a framework of 25 comparison criteria found no proposal beats passwords on all front.
+##### Note 2
+ An in-depth review of 35 proposed password alternatives using a framework of 25 comparison criteria found no proposal beats passwords on all front.
 
-[^footnote3]: Many people cope with the large number of accounts by reusing password, sometimes with slight modification; for example, a 2007 telemetry study estimated the average person has 25 password-protected accounts but only six unique passwords.
+##### Note 3
+ Many people cope with the large number of accounts by reusing password, sometimes with slight modification; for example, a 2007 telemetry study estimated the average person has 25 password-protected accounts but only six unique passwords.
 
 
-[^footnote4]: [Diceware list](http://world.std.com/%7Ereinhold/dicewarewordlist.pdf)
+##### Note 4
+ [Diceware list](http://world.std.com/%7Ereinhold/dicewarewordlist.pdf)
 
-[^footnote5]: [Beale list](http://world.std.com/%7Ereinhold/beale.wordlist.asc)
+##### Note 5
+ [Beale list](http://world.std.com/%7Ereinhold/beale.wordlist.asc)
 
-[^footnote6]: [The Diceware Passphrase Home Page](http://world.std.com/~reinhold/diceware.html)
+##### Note 6
+ [The Diceware Passphrase Home Page](http://world.std.com/~reinhold/diceware.html)

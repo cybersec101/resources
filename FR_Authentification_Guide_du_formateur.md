@@ -65,7 +65,7 @@ Les	mots	de	passe	servent	à	confirmer votre identité lorsque	vous	êtes	en	lig
 - Mots de passe
 
 
-	- Actuellement,	les	mots	de	passe	sont la meilleure	option	pour	la	plupart des	méthodes	d’authentification sur	Internet[^footnote2].
+	- Actuellement,	les	mots	de	passe	sont la meilleure	option	pour	la	plupart des	méthodes	d’authentification sur	Internet[Note 2](#note-2).
 
 		- On appelle parfois les mots de passe des **_phrases de passe_**.
 
@@ -111,7 +111,7 @@ mot	de	passe;
 
 		- Nous	avons	tous	de	nombreux	comptes,	et	il	peut	devenir	difficile	de	se souvenir
 de	tous	les	mots	de	passe.	Parfois,	à vouloir	nous	simplifier	la	tâche,	nous	nous
-mettons	en	danger[^footnote3].
+mettons	en	danger[Note 3](#note-3).
 
 
 			- La	réutilisation	des	mots	de	passe	a	un	effet	direct	sur	la	sécurité.	En	effet,  une	fuite	sur	un	site	Web	peut	compromettre	la	sécurité	sur	un	autre.
@@ -355,7 +355,7 @@ La	méthode	Diceware	consiste	à	créer un mot	de	passe	aléatoire,	unique,	long
 
    - Pour	utiliser	la	méthode	Diceware :
 
-     - Téléchargez,	puis	sauvegardez	la	liste	Diceware[^footnote4] ou la liste Beale[^footnote5]. Imprimez-la	au	besoin.
+     - Téléchargez,	puis	sauvegardez	la	liste	Diceware[Note 4](#note-4) ou la liste Beale[Note 5](#note-5). Imprimez-la	au	besoin.
 
      - Déterminez	le	nombre	de	mots	qui	figureront	dans	la	phrase	de	passe (quatre,	cinq,	six	ou	plus).	Plus	il	y	a	de	mots,	meilleure	est	la	phrase.
 
@@ -370,7 +370,7 @@ La	méthode	Diceware	consiste	à	créer un mot	de	passe	aléatoire,	unique,	long
 		- Recherchez	chaque	suite	de	cinq	chiffres dans la liste Diceware,	puis	notez les	mots qui y	sont associés. Par exemple,	la	combinaison 21124 donnera	le mot clip (voir la liste	ci-dessus).
 		- Les	mots	ainsi	trouvés	formeront	la phrase de passe.
 	- Certaines personnes tentent de faire des liens entre les mots de la phrase pour la	mémoriser	plus	facilement.
-	- Il	n’y 	a	aucun	risque	à	consigner	la	phrase	de	passe	et	à	la	conserver	dans un	endroit	sûr[^footnote6].
+	- Il	n’y 	a	aucun	risque	à	consigner	la	phrase	de	passe	et	à	la	conserver	dans un	endroit	sûr[Note 6](#note-6).
 		- Exemples	de	phrases	de	passe	générées	par	la	méthode	Diceware	:
 			- Les	lancers	de	dés	36424,	51644,	64134,	54236	donnent leekricowhiteskat.
 			- Les	lancers	de	dés	33142,	53132,	14323,	65622,	53112, 56456	donnent	nscaldblatz64savetardy.
@@ -440,12 +440,17 @@ Phrase de passe|Phrase	connue	d’une	seule personne servant à l’identificati
 ##### Note 1
 [Two-factor authentication: Understanding the options](https://nakedsecurity.sophos.com/2014/11/14/understanding-the-options-2fa/).
 
-[^footnote2]: Un	examen	rigoureux	de	35 mots de passe en fonction	de	25 critères	d’évaluation	a démontré que les mots	de	passe	sont	la	meilleure	option sur tous les plans.
+##### Note 2
+ Un	examen	rigoureux	de	35 mots de passe en fonction	de	25 critères	d’évaluation	a démontré que les mots	de	passe	sont	la	meilleure	option sur tous les plans.
 
-[^footnote3]: Beaucoup	compensent	leur grand nombre	de	comptes	en	réutilisant	le	même mot	de	passe,	parfois	légèrement	modifié. Par	exemple, selon	une	étude	de	télémesure	de	2007,	une	personne	moyenne	a	25 comptes	protégés	par	mot	de	passe,	mais	seulement	6	mots	de passe	différents.
+##### Note 3
+ Beaucoup	compensent	leur grand nombre	de	comptes	en	réutilisant	le	même mot	de	passe,	parfois	légèrement	modifié. Par	exemple, selon	une	étude	de	télémesure	de	2007,	une	personne	moyenne	a	25 comptes	protégés	par	mot	de	passe,	mais	seulement	6	mots	de passe	différents.
 
-[^footnote4]: [Diceware Word List](http://world.std.com/%7Ereinhold/dicewarewordlist.pdf)
+##### Note 4
+ [Diceware Word List](http://world.std.com/%7Ereinhold/dicewarewordlist.pdf)
 
-[^footnote5]: [Beale Word List](http://world.std.com/%7Ereinhold/beale.wordlist.asc)
+##### Note 5
+ [Beale Word List](http://world.std.com/%7Ereinhold/beale.wordlist.asc)
 
-[^footnote6]: [Diceware Passphrase ](http://world.std.com/~reinhold/diceware.html)
+##### Note 6
+ [Diceware Passphrase ](http://world.std.com/~reinhold/diceware.html)

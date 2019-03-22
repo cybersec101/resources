@@ -55,7 +55,7 @@ sur	l’authentification.
 	
 - Pare-feu	(barrière	de	sécurité	entre	l’ordinateur	et	le	réseau,	aussi	appelée	«	coupe-feu	»)
 
-	- Activation	du	pare-feu	de	l’ordinateur [^footnote1].
+	- Activation	du	pare-feu	de	l’ordinateur [Note 1](#note-1).
 
 
 
@@ -67,7 +67,7 @@ le mot de passe_**.
 
 
 		- Windows : Dans le **_Panneau de configuration_** , sélectionnez **_Comptes d’utilisateurs
-et contrôle parental_** > **_Modifier le mot de passe_**[^footnote2].
+et contrôle parental_** > **_Modifier le mot de passe_**[Note 2](#note-2).
 
 
 	
@@ -128,7 +128,7 @@ de localisation.
 
 
 
-				- Windows[^footnote3]
+				- Windows[Note 3](#note-3)
 
 
 	
@@ -217,7 +217,7 @@ Nettoyez	souvent	l’écran	pour	effacer 	les	traces	de	votre	schéma
 sur	l’écran.	Si	vous	utilisez	un	code	à	quatre	chiffres,	évitez	les
 séquences	évidentes,	comme	1234,	0000,	2580,	1111,	5555,	5683,
 0852,	1212	ou	votre	date	de	naissance.	Ce	ne	sont	pas	de	bons
-mots de passe [^footnote4].
+mots de passe [Note 4](#note-4).
 
 
 
@@ -231,7 +231,7 @@ Touch ID pour le déverrouillage du téléphone. Vous n’avez qu’à
 suivre	les	instructions	après	avoir	sélectionné	l’option.
 
 					- Sur les appareils qui ne sont pas dotés de Touch ID, rendez-vous	dans	 **_Réglages_** > **_Code_** et sélectionnez
-**_Activer le code_** [^footnote5].
+**_Activer le code_** [Note 5](#note-5).
 
 
 
@@ -246,7 +246,7 @@ les options et sélectionnez **_Sécurité_** > **_Verrouillage de l’écran_**
     différent.
 
 						- Sélectionnez	le	type	de	verrouillage	que	vous	désirez	et	suivez
-    les instructions [^footnote6].
+    les instructions [Note 6](#note-6).
     
     
 
@@ -318,7 +318,7 @@ bien vous protéger.
     logiciels sur la performance.
 
 			- La	plupart	des	logiciels	de	sécurité	populaires	(ceux	qui	sont	vendus
-    en	magasin)	ne	réduisent	que	légèrement	la	performance [^footnote8].
+    en	magasin)	ne	réduisent	que	légèrement	la	performance [Note 8](#note-8).
     
 
 
@@ -388,7 +388,7 @@ transmet	des	virus	ou	a	été	piraté	et	qu’il	doit	être	nettoyé.	L’arnaqu
 un	accès	à	l’ordinateur	à	distance	et	peut	exécuter	des	programmes	ou	modifier	des	 paramètres.	Il	explique	ensuite	à	la	personne	qu’elle	doit	payer	des	frais	pour	le	service
 et lui demande un numéro de carte de crédit. Dans certains cas, l’arnaqueur fait un
 virement	à	partir	de	l’ordinateur	de	la	 victime	au	moyen	d’un	service	bancaire	comme Western	Union	ou	MoneyGram.	La	victime	se	retrouve	alors	à	payer	pour	un	service	dont
-elle n’avait pas besoin puisque son ordinateur n’était pas infecté [^footnote9].
+elle n’avait pas besoin puisque son ordinateur n’était pas infecté [Note 9](#note-9).
 
 
 >Si vous recevez ce genre d’appel, ne fournissez aucun renseignement à votre
@@ -411,11 +411,11 @@ Couvrez votre caméra Web pour éviter d’être espionné.
 
 #### 3.2 En détail
 
-- Il	se	peut	qu’un	attaquant	accède	à	votre	ordinateur	à	distance	à	votre	insu [^footnote10].
+- Il	se	peut	qu’un	attaquant	accède	à	votre	ordinateur	à	distance	à	votre	insu [Note 10](#note-10).
 
 
 
-	- Certains	programmes	malveillants, appelés « cheval  de	 Troie	 » [^footnote11] ,	sont	conçus pour donner secrètement	accès	à	votre	ordinateur à d’autres personnes. Un	criminel	peut	 vous	amener à	installer le programme malveillant	en	le	dissimulant	dans	un autre fichier ou programme ou en vous invitant à cliquer sur un lien ou à visiter un site Web frauduleux. Il peut ensuite voir tout ce que	vous	faites	sur	votre	ordinateur,	accéder à vos fichiers et	activer	la	caméra et le micro.
+	- Certains	programmes	malveillants, appelés « cheval  de	 Troie	 » [Note 11](#note-11) ,	sont	conçus pour donner secrètement	accès	à	votre	ordinateur à d’autres personnes. Un	criminel	peut	 vous	amener à	installer le programme malveillant	en	le	dissimulant	dans	un autre fichier ou programme ou en vous invitant à cliquer sur un lien ou à visiter un site Web frauduleux. Il peut ensuite voir tout ce que	vous	faites	sur	votre	ordinateur,	accéder à vos fichiers et	activer	la	caméra et le micro.
 	
 		- Couvrir la caméra garantit que personne ne pourra vous voir à la maison et assure un minimum de vie privée.
     	
@@ -455,22 +455,32 @@ Verrouillage de l’écran|Barrière	prévenant l’accès aux fonctions	d’un	
 
 <!--[comment]: # (footnote 1 = original link not working = http://windows.microsoft.com/fr-ca/windows-8/Windows-Firewall-from-start-to-finish)-->
 
-[^footnote1]: [Pare-feu et protection réseau dans Sécurité Windows](https://support.microsoft.com/fr-ca/help/4012988/windows-10-firewall-network-protection-windows-security)
+##### Note 1 
+ [Pare-feu et protection réseau dans Sécurité Windows](https://support.microsoft.com/fr-ca/help/4012988/windows-10-firewall-network-protection-windows-security)
 
-[^footnote2]: [Activer ou désactiver le Pare-feu Windows Defender](https://support.microsoft.com/fr-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
+##### Note 2 
+ [Activer ou désactiver le Pare-feu Windows Defender](https://support.microsoft.com/fr-ca/help/4028544/windows-10-turn-windows-defender-firewall-on-or-off)
 
-[^footnote3]: [Obtenez un avantage contre les cybermenaces](https://www.microsoft.com/fr-fr/security)
+##### Note 3 
+ [Obtenez un avantage contre les cybermenaces](https://www.microsoft.com/fr-fr/security)
 
-[^footnote4]: [Most Common iPhone Passcodes](http://danielamitay.com/blog/2011/6/13/most-common-iphone-passcodes)
+##### Note 4 
+ [Most Common iPhone Passcodes](http://danielamitay.com/blog/2011/6/13/most-common-iphone-passcodes)
 
-[^footnote5]: [Utilisation d’un code d’accès sur votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT204060)
+##### Note 5 
+ [Utilisation d’un code d’accès sur votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT204060)
 
-[^footnote6]: [Définir le verrouillage de l'écran sur un appareil Android](https://support.google.com/android/answer/9079129?hl=fr&visit_id=636876620493051287-2664977431&rd=1)
+##### Note 6 
+ [Définir le verrouillage de l'écran sur un appareil Android](https://support.google.com/android/answer/9079129?hl=fr&visit_id=636876620493051287-2664977431&rd=1)
 
-[^footnote8]: [Pour	voir	une	comparaison	de	la	performance](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf)
+##### Note 8 
+ [Pour	voir	une	comparaison	de	la	performance](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf)
  
-[^footnote9]: Bureau	de	la	concurrence	du	Canada.	[Le	petit	livre	noir](www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/vwapj/Little-Black-Book-Scams-f.pdf/$FILE/Little-Black-Book-Scams-f.pdf)
+##### Note 9 
+ Bureau	de	la	concurrence	du	Canada.	[Le	petit	livre	noir](www.competitionbureau.gc.ca/eic/site/cb-bc.nsf/vwapj/Little-Black-Book-Scams-f.pdf/$FILE/Little-Black-Book-Scams-f.pdf)
 
-[^footnote10]: [Cam Spyware](http://130.18.86.27/faculty/warkentin/SecurityPapers/Merrill/Thompson2005_CACM48_8_Spyware.pdf)
+##### Note 10 
+ [Cam Spyware](http://130.18.86.27/faculty/warkentin/SecurityPapers/Merrill/Thompson2005_CACM48_8_Spyware.pdf)
 
-[^footnote11]: [Remote access trojan](http://www.trusteer.com/en/glossary/remote-access-trojan-rat)
+##### Note 11 
+ [Remote access trojan](http://www.trusteer.com/en/glossary/remote-access-trojan-rat)

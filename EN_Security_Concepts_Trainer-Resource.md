@@ -106,7 +106,7 @@ connection and computer’s resources can be valuable to others.
  		- At times, they can overstep boundaries and invade your privacy.
  
  		- At other times, the information you hold (such as credit card details) might be
-targeted by criminals [^footnote1].
+targeted by criminals [Note 1](#note-1).
 
 
 
@@ -347,4 +347,5 @@ Security Mind-set|A way of thinking about computers that focuses on security def
 Social Media|Internet technologies designed for socialising and sharing such as Facebook, and Twitter.
 Zombie Computer|A computer that is infected with malware that allows it to be controlled remotely and is part of a botnet.
 
-[^footnote1]: [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/)
+##### Note 1 
+ [Office of the Privacy Commissioner of Canada](https://www.priv.gc.ca/en/opc-actions-and-decisions/investigations/)

@@ -35,14 +35,14 @@ and	talking	about	bullying	can	be	the	first	step	towards	stopping	it.
 - There	is	no	practical	difference	between	online	harassment	and	online/cyber	bullying.
 
 	- The terms are often used interchangeably, although bullying is more frequently associated
-with	school	or 	work	environments [^footnote1].
+with	school	or 	work	environments [Note 1](#note-1).
 
 
 
 	- Cyber	bullying	can	be	defined	as	“willful	and	repeated	harm	inflicted	through	computers, cell 	phones,	and	other	electronic	devices.”
 
 
-	- Criminal harassment is considered to be a repeated conduct that causes its target [^footnote2] to reasonably fear for their safety.
+	- Criminal harassment is considered to be a repeated conduct that causes its target [Note 2](#note-2) to reasonably fear for their safety.
 
 
 
@@ -51,7 +51,7 @@ with	school	or 	work	environments [^footnote1].
 
 
 - It	is	impossible	to	know	exactly	how	much	cyberbullying	goes	on	among	teens,	but	it	is	likely
-that	at	least	20-30%	of	youth	have	been victimized [^footnote3].
+that	at	least	20-30%	of	youth	have	been victimized [Note 3](#note-3).
 
 
 
@@ -62,12 +62,12 @@ a	big	deal.”
 
 	- One incident of any form of bullying is one too many.
 
-	- The	bullying	acts	that	create	the	harm	are	various	and	difficult	to	classify	or 	identify	easily [^footnote4].
+	- The	bullying	acts	that	create	the	harm	are	various	and	difficult	to	classify	or 	identify	easily [Note 4](#note-4).
 
 
 
 
-	- Repetition	might	be	the	most	important	and	easily	identifiable	element	of	bullying [^footnote5].
+	- Repetition	might	be	the	most	important	and	easily	identifiable	element	of	bullying [Note 5](#note-5).
 
 
 
@@ -243,7 +243,7 @@ Being	aware	of	and	supportively	involved	in	their	use	of	the	Internet	can	provid
 		- take	part	in	sexual	activities	via	a	webcam	or	smartphone;
 
 
-		- have	sexual	conversations	by	text	or	online [^footnote6].
+		- have	sexual	conversations	by	text	or	online [Note 6](#note-6).
 
 
 
@@ -887,15 +887,21 @@ Webcam| A	video	camera	that	is	able	to transmit video	signal	over the	Internet.
 YouTube|A	website	(youtube.com)	that	provides	access	tovideo	content.
 
 
-[^footnote1]: [Internet Harassment or Cyberbullying](https://www.ccohs.ca/oshanswers/psychosocial/cyberbullying.html)
+##### Note 1 
+ [Internet Harassment or Cyberbullying](https://www.ccohs.ca/oshanswers/psychosocial/cyberbullying.html)
 
-[^footnote2]: [A Handbook for Police and Crown Prosecutors on Criminal Harassment](https://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/har/part1.html)
+##### Note 2 
+ [A Handbook for Police and Crown Prosecutors on Criminal Harassment](https://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/har/part1.html)
 
-[^footnote3]: [Creating a world without bullying](http://www.prevnet.ca/bullying/facts-and-solutions)
+##### Note 3 
+ [Creating a world without bullying](http://www.prevnet.ca/bullying/facts-and-solutions)
 
-[^footnote4]: [A Handbook for Police and Crown Prosecutors on Criminal Harassment](https://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/har/part1.html)
+##### Note 4 
+ [A Handbook for Police and Crown Prosecutors on Criminal Harassment](https://www.justice.gc.ca/eng/rp-pr/cj-jp/fv-vf/har/part1.html)
 
-[^footnote5]: [What is cyberbullying?](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/cbrbllng/prnts/cbrbllng-en.aspx)
+##### Note 5 
+ [What is cyberbullying?](https://www.publicsafety.gc.ca/cnt/ntnl-scrt/cbr-scrt/cbrbllng/prnts/cbrbllng-en.aspx)
 
-[^footnote6]: [What is online abuse?](https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/online-abuse/)
+##### Note 6 
+ [What is online abuse?](https://www.nspcc.org.uk/preventing-abuse/child-abuse-and-neglect/online-abuse/)
 

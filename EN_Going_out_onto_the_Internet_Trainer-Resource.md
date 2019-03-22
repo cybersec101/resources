@@ -377,7 +377,7 @@ Colour|What it means
 Red | The	certificate	is	out-of-date,	not	valid	or	has	an	error.
 Yellow | The	authenticity	of 	the	certificate	or	certification	authority	that issued	it	cannot	be	verified.	This	might	indicate	a	problem	with the	certification	authority's	website. 
 White| The	certificate	has	normal	validation.	This	means	that communication between	your	browser	and	the	website	is encrypted.	The	certification	authority	makes	no	assertion	about the	business	practices	of	the	website.
-Green | The	certificate	uses	extended	validation.	This	means	that communication	between	your	browser	and	website	is encrypted,	and	that	the	certification	authority	has	confirmed the	 website	is	owned	or	operated	by	a	business	that	is	legally organized	under	the	jurisdiction	shown	in	the	certificate	and on	the	security	status	bar.	The	certification	authority	makes	no assertion	about	the	business	practices	of	the	website [^footnote1] [^footnote2]
+Green | The	certificate	uses	extended	validation.	This	means	that communication	between	your	browser	and	website	is encrypted,	and	that	the	certification	authority	has	confirmed the	 website	is	owned	or	operated	by	a	business	that	is	legally organized	under	the	jurisdiction	shown	in	the	certificate	and on	the	security	status	bar.	The	certification	authority	makes	no assertion	about	the	business	practices	of	the	website [Note 1](#note-1) [Note 2](#note-2)
 
 
 - Safari
@@ -394,7 +394,7 @@ Green | The	certificate	uses	extended	validation.	This	means	that communication	
  - _Image tag : Connected to a legitimate site on Safari_
 
 
-		- If 	you	connect	to	a	website	that	isn’t	secure,	you	will	see	a	message that	says	“Safari	can’t	verify	the	identity	of 	the	website.”	If 	you	see	this message,	do	not	proceed	or	attempt	to	sign	in[^footnote3].
+		- If 	you	connect	to	a	website	that	isn’t	secure,	you	will	see	a	message that	says	“Safari	can’t	verify	the	identity	of 	the	website.”	If 	you	see	this message,	do	not	proceed	or	attempt	to	sign	in[Note 3](#note-3).
 
 
 	- Image : ![alt text](tbd.png "Optional Title")
@@ -471,7 +471,7 @@ personal	information	on	this	page.
 
 					- Mixed	scripting	is	when	a	page	contains	a	mixture	of	encrypted
 and	unencrypted	content.	It	can	be	hard	to	know	if 	using	the
-page	is	safe	or	not.	Proceed	with	caution[^footnote4].
+page	is	safe	or	not.	Proceed	with	caution[Note 4](#note-4).
 
 
 
@@ -486,7 +486,7 @@ page	is	safe	or	not.	Proceed	with	caution[^footnote4].
 
 	- The	EV	certificate	helps	the	browser	determine the name of	the organization	that	runs	the	web	site.
 	- The	extended	validation	indicator	helps you determine
-which	organization	is	responsible	for	the displayed webpage. For 	example,	the	extended	validation indicator for https://www.benefitaccess.com/	says	“Citigroup	Inc.	[US][^footnote5].
+which	organization	is	responsible	for	the displayed webpage. For 	example,	the	extended	validation indicator for https://www.benefitaccess.com/	says	“Citigroup	Inc.	[US][Note 5](#note-5).
 
 
 
@@ -568,11 +568,11 @@ without	using	cookies.
 				- Select _**Block sites from setting any data**_.
 
 
-				- Select _**Done**_ [^footnote6].
+				- Select _**Done**_ [Note 6](#note-6).
 
 
 
-				- You	can	also	remove	cookies [^footnote7].
+				- You	can	also	remove	cookies [Note 7](#note-7).
 
 
 
@@ -590,7 +590,7 @@ point to _**Safety**_, and then click _**Delete browsing history**_.
 
 
 
-				- Select	the	Cookies	check	box,	and	then	click	Delete [^footnote8].
+				- Select	the	Cookies	check	box,	and	then	click	Delete [Note 8](#note-8).
 
 
 
@@ -638,7 +638,7 @@ cookies	and	data	on	your	Mac.
 				- Allow	from	Websites	I	Visit;	or
 
 
-				- Always	Allow [^footnote9].
+				- Always	Allow [Note 9](#note-9).
 
 
 
@@ -715,7 +715,7 @@ Active Scripting**_ 	in	the	Scripting	section.
 				- When	the	"Warning!"	window	opens	and	asks,	"Are	you	sure	you	want	to change	the	settings	for	this	zone?"	select	 _**Yes**_.
 
 
-				- Click _**OK**_ at the bottom of the Internet Options window to close the dialog	box [^footnote10].
+				- Click _**OK**_ at the bottom of the Internet Options window to close the dialog	box [Note 10](#note-10).
 
 
 
@@ -786,7 +786,7 @@ screen, then click on the Search 	icon;
 
 						- Click	on	Apple	icon	on	upper	left	of	screen;
 						- Go	to	 **_System Preferences_** ;
-						- Click	on	the	Java	icon	to	access	the	Java	Control	Panel [^footnote11].
+						- Click	on	the	Java	icon	to	access	the	Java	Control	Panel [Note 11](#note-11).
 
 
 
@@ -849,7 +849,7 @@ Internet	Explorer| InPrivate	Browsing| Ctrl	(⌘)	+	Shift	+	P
 		- These	are	third-party	applications.	We	do	not	recommend	any	particular application	but	do	recommend	that	you	buy	from	official	vendors.
 		- Examples	and	information	can	be	found at:
 			- [GetAdBlock](https://getadblock.com)
-			- [AdBlockPlus](https://adblockplus.org) [^footnote12]
+			- [AdBlockPlus](https://adblockplus.org) [Note 12](#note-12)
 
 
 
@@ -882,7 +882,7 @@ Internet	Explorer| InPrivate	Browsing| Ctrl	(⌘)	+	Shift	+	P
 
 				- Click the _**Safari Menu >Preferences**_. 	In	the	 _**Security**_	panel,	click Security. Then click the _**Plug-in Settings button**_. 	In	the	next	panel, with	Adobe	Flash	selected	at	the	left,	select	 _**Block**_ 	from	the	menu
 at	lower	right	of	the	screen	(immediately	above	the	Done	button).
-Click _**Done**_ 	and	exit	the	settings	menu [^footnote13].
+Click _**Done**_ 	and	exit	the	settings	menu [Note 13](#note-13).
 
 
 
@@ -1001,31 +1001,44 @@ Phishing|Emails,	calls	or	other	communication	designed	to	trick	you	to give	away
 
 <!--footnote 1 = original link not working : https://support.microsoft.com/fr-fr/hub/4338813/windows-help#1TC=windows-7
 -->
-[^footnote1]: [Windows 7](https://support.microsoft.com/en-ca/help/4057281/windows-7-support-will-end-on-january-14-2020)
+##### Note 1 
+ [Windows 7](https://support.microsoft.com/en-ca/help/4057281/windows-7-support-will-end-on-january-14-2020)
 
 <!--footnote 2 = original link not working : http://windows.microsoft.com/lo-la/windows-vista/internet-explorer-at-a-glance-->
 
-[^footnote2]: [Internet Explorer](https://support.microsoft.com/en-ca/help/17454/lifecycle-faq-internet-explorer)
+##### Note 2 
+ [Internet Explorer](https://support.microsoft.com/en-ca/help/17454/lifecycle-faq-internet-explorer)
 
-[^footnote3]: [Learn how to verify that your browser is securely connected to iCloud.com](https://support.apple.com/en-us/HT203126)
+##### Note 3 
+ [Learn how to verify that your browser is securely connected to iCloud.com](https://support.apple.com/en-us/HT203126)
 
-[^footnote4]: [Check if a site's connection is secure](https://support.google.com/chrome/answer/95617?hl=en)
+##### Note 4 
+ [Check if a site's connection is secure](https://support.google.com/chrome/answer/95617?hl=en)
 
-[^footnote5]: [Understanding the omnibox for better security](https://chrome.googleblog.com/2010/10/understanding-omnibox-for-better.html)
+##### Note 5 
+ [Understanding the omnibox for better security](https://chrome.googleblog.com/2010/10/understanding-omnibox-for-better.html)
 
-[^footnote6]: [Turn cookies on or off](https://support.google.com/accounts/answer/61416?hl=en)
+##### Note 6 
+ [Turn cookies on or off](https://support.google.com/accounts/answer/61416?hl=en)
 
-[^footnote7]: [Clear, enable, and manage cookies in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+##### Note 7 
+ [Clear, enable, and manage cookies in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
-[^footnote8]: [Delete and manage cookies](https://support.microsoft.com/en-ca/help/17442/windows-internet-explorer-delete-manage-cookies)
+##### Note 8 
+ [Delete and manage cookies](https://support.microsoft.com/en-ca/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-[^footnote9]: [Clear the history and cookies from Safari on your iPhone, iPad, or iPod touch](https://support.apple.com/en-ca/HT201265)
+##### Note 9 
+ [Clear the history and cookies from Safari on your iPhone, iPad, or iPod touch](https://support.apple.com/en-ca/HT201265)
 
-[^footnote10]: [How to enable JavaScript in Windows](https://support.microsoft.com/en-ca/help/3135465/how-to-enable-javascript-in-windows)
+##### Note 10 
+ [How to enable JavaScript in Windows](https://support.microsoft.com/en-ca/help/3135465/how-to-enable-javascript-in-windows)
 
-[^footnote11]: [How to disable the Java web plug-in in Safari](https://support.apple.com/en-us/HT202447)
+##### Note 11 
+ [How to disable the Java web plug-in in Safari](https://support.apple.com/en-us/HT202447)
 
-[^footnote12]: This	is	not	an	endorsement	of	either	of	these	products.	We	have	not	tested	them	in	any	way.
+##### Note 12 
+ This	is	not	an	endorsement	of	either	of	these	products.	We	have	not	tested	them	in	any	way.
 
-[^footnote13]: [Disable Flash](https://gizmodo.com/disable-flash-1688209571)
+##### Note 13 
+ [Disable Flash](https://gizmodo.com/disable-flash-1688209571)
 

@@ -386,7 +386,7 @@ Couleur| Signification
 Rouge|Le	certificat	est	expiré,	non	valide ou comporte une	erreur.
 Jaune|L’authenticité	du	certificat	ou l’organisme de certification	qui l’a	délivré	ne	peut être vérifiée. Cela peut	révéler	un	problème avec	le	site Web de l’organisme.
 Blanc|Le	certificat	est	valide;	la	communication entre votre	navigateur et	le	site	Web	est	donc chiffrée. L’organisme	de	certification	n’a rien	à signaler à propos des	pratiques	du	site.
-Vert|Le	certificat	profite	d’une	validation étendue. Cela	signifie que la communication entre votre navigateur et le site Web est	chiffrée,	et	que	l’organisme de certification	a	pu	confirmer que	le	site appartient à une entreprise	légalement	reconnue selon les modalités de la barre	d’état	et	celles	précisées dans	le certificat, ou est exploité	par	celle-ci.	L’organisme	de certification n’a rien	à	signaler	à	propos	des	pratiques du site [^footnote1] [^footnote2].
+Vert|Le	certificat	profite	d’une	validation étendue. Cela	signifie que la communication entre votre navigateur et le site Web est	chiffrée,	et	que	l’organisme de certification	a	pu	confirmer que	le	site appartient à une entreprise	légalement	reconnue selon les modalités de la barre	d’état	et	celles	précisées dans	le certificat, ou est exploité	par	celle-ci.	L’organisme	de certification n’a rien	à	signaler	à	propos	des	pratiques du site [Note 1](#note-1) [Note 2](#note-2).
 
 
 
@@ -410,7 +410,7 @@ Vert|Le	certificat	profite	d’une	validation étendue. Cela	signifie que la com
 			- Par 	contre,	si	le	site	n’est	pas	sécurisé,	le	message	suivant	s’affichera :
 « Safari	ne	parvient	pas	à	vérifier	l’identité	du	site	Web ».	Dans	ce	cas,
 ne	tentez	pas	de	vous	connecter	ou	de	poursuivre	votre	navigation	sur
-le site en question [^footnote3].
+le site en question [Note 3](#note-3).
 
 
 
@@ -467,7 +467,7 @@ que	votre	connexion	ne	soit	pas	sécurisée.
 					- On	parle	de	scripts	mixtes	lorsqu’une	page	contient	un
 mélange	de	contenu	chiffré	et	non	chiffré.	Il	peut	être	difficile
 de	savoir	si	la	page	est	sûre	ou	non.	Faites	donc	preuve	de
-prudence [^footnote4].
+prudence [Note 4](#note-4).
 
 
 
@@ -478,7 +478,7 @@ prudence [^footnote4].
 
 				- Le	certificat	EV	permet	au	navigateur de déterminer le nom de	l’organisation	exploitant	le	site Web.
 				
-				- L’indicateur	de	certificat	EV	vous	permet de savoir quelle organisation	gère	la	page	affichée.	Par	exemple,	pour	le	site	Web www.benefitaccess.com/,	on	aperçoit	Citigroup Inc. [US] [^footnote5].
+				- L’indicateur	de	certificat	EV	vous	permet de savoir quelle organisation	gère	la	page	affichée.	Par	exemple,	pour	le	site	Web www.benefitaccess.com/,	on	aperçoit	Citigroup Inc. [US] [Note 5](#note-5).
 
 				
 
@@ -546,13 +546,13 @@ votre	confidentialité	n’est	pas	garantie.
 
 				- Cochez	 __Interdire à tous les sites de stocker des données__.
 
-				- Cliquez	sur __OK__ [^footnote6]
+				- Cliquez	sur __OK__ [Note 6](#note-6)
 
 
 
 
 
-				- Vous	pouvez	aussi	supprimer	les	témoins [^footnote7]
+				- Vous	pouvez	aussi	supprimer	les	témoins [Note 7](#note-7)
 
 
 
@@ -570,7 +570,7 @@ votre	confidentialité	n’est	pas	garantie.
 
 
 
-				- Cochez	la	case	 __Cookies__ ,	puis	cliquez	sur __Supprimer__ [^footnote8].
+				- Cochez	la	case	 __Cookies__ ,	puis	cliquez	sur __Supprimer__ [Note 8](#note-8).
 
 
 
@@ -612,7 +612,7 @@ le Mac.
 					- N’autoriser	que	les	sites	Web	visités
 
 
-					- Toujours	autoriser [^footnote9].
+					- Toujours	autoriser [Note 9](#note-9).
 
 
 
@@ -669,7 +669,7 @@ où	le	risque	est	très	élevé.
 
 				- La	fenêtre	 _**Avertissement**_ 	s'ouvre,	puis	s’affiche	un	message	demandant si	les	paramètres	de	la	zone	doivent	bien	être	modifiés.	Vous	devez alors	confirmer.
 
-				- Cliquez	sur _**OK**_ 	dans	le	bas	de	la	fenêtre	des	options	Internet	pour fermer	la	boîte	de	dialogue [^footnote10].
+				- Cliquez	sur _**OK**_ 	dans	le	bas	de	la	fenêtre	des	options	Internet	pour fermer	la	boîte	de	dialogue [Note 10](#note-10).
 
 
 
@@ -732,7 +732,7 @@ il	vaut	donc	mieux	de	le	désactiver.
 
 					- Allez	à	 **_Préférences Système_**.
 
-					- Cliquez	sur	l’icône	Java	pour	ouvrir	le	panneau	de configuration	Java[^footnote11].
+					- Cliquez	sur	l’icône	Java	pour	ouvrir	le	panneau	de configuration	Java[Note 11](#note-11).
 
 
 
@@ -815,7 +815,7 @@ faisons	aucune	recommandation,	mais	nous	vous	suggérons	de	les acheter	de	fourn
 
 			- Vous	trouverez	des	exemples	et	de	plus	amples	renseignements aux	adresses	suivantes :
 				- [GetAdBlock](https://getadblock.com)
-				- [AdBlockPlus](https://adblockplus.org) [^footnote12]
+				- [AdBlockPlus](https://adblockplus.org) [Note 12](#note-12)
 
 
 
@@ -851,7 +851,7 @@ sous **_Utiliser Adobe Flash Player_** à **_Désactivé_**.
 
 	- Safari
 
-		- Cliquez	sur **_Safari_** ,	puis	sur **_Préférences_** ...	Cliquez	sur	l’icône	Sécurité.	Cliquez ensuite sur **_Réglages des sites Web_** .	Dans	la	fenêtre	suivante,	sélectionnez **_Adobe Flash_** 	à	gauche,	puis	choisissez	 **_Bloquer_** dans le menu situé dans le coin	inférieur	droit	(tout	juste	au-dessus	du	bouton	 **_Terminé_** ).	Cliquez	sur **_Terminé_** ,	puis	sortez	du	menu [^footnote13].
+		- Cliquez	sur **_Safari_** ,	puis	sur **_Préférences_** ...	Cliquez	sur	l’icône	Sécurité.	Cliquez ensuite sur **_Réglages des sites Web_** .	Dans	la	fenêtre	suivante,	sélectionnez **_Adobe Flash_** 	à	gauche,	puis	choisissez	 **_Bloquer_** dans le menu situé dans le coin	inférieur	droit	(tout	juste	au-dessus	du	bouton	 **_Terminé_** ).	Cliquez	sur **_Terminé_** ,	puis	sortez	du	menu [Note 13](#note-13).
 
 
 
@@ -958,32 +958,45 @@ Témoin|Donnée	enregistrée	dans	un	navigateur et utilisée par	un site Web.
 
 <!--[comment]: # (footnote 1 = original link not working = http://windows.microsoft.com/fr-ca/windows/know-online-transaction-secure#1TC=windows-7)-->
 
-[^footnote1]: [microsoft.com](https://support.microsoft.com/en-us)
+##### Note 1 
+ [microsoft.com](https://support.microsoft.com/en-us)
 
 <!--[comment]: # (footnote 2 = original link not working = https://support.microsoft.com/en-us/hub/4338813/windows-help)-->
 
-[^footnote2]: [microsoft.com](https://support.microsoft.com/en-us)
+##### Note 2 
+ [microsoft.com](https://support.microsoft.com/en-us)
 
-[^footnote3]: [Informations concernant la protection des données à l’adresse iCloud.com](https://support.apple.com/fr-ca/HT203126)
+##### Note 3 
+ [Informations concernant la protection des données à l’adresse iCloud.com](https://support.apple.com/fr-ca/HT203126)
 
-[^footnote4]: [Vérifier la sécurité de la connexion d'un site](https://support.google.com/chrome/answer/95617?hl=fr)
+##### Note 4 
+ [Vérifier la sécurité de la connexion d'un site](https://support.google.com/chrome/answer/95617?hl=fr)
 
-[^footnote5]: [Understanding the omnibox for better security](https://chrome.googleblog.com/2010/10/understanding-omnibox-for-better.html)
+##### Note 5 
+ [Understanding the omnibox for better security](https://chrome.googleblog.com/2010/10/understanding-omnibox-for-better.html)
 
-[^footnote6]: [Activer ou désactiver les cookies](https://support.google.com/accounts/answer/61416?hl=fr)
+##### Note 6 
+ [Activer ou désactiver les cookies](https://support.google.com/accounts/answer/61416?hl=fr)
 
-[^footnote7]: [Supprimer, autoriser et gérer les cookies dans Chrome](https://support.google.com/chrome/answer/95647?hl=fr)
+##### Note 7 
+ [Supprimer, autoriser et gérer les cookies dans Chrome](https://support.google.com/chrome/answer/95647?hl=fr)
 
 <!--[comment]: # (footnote 8 = had 2 links. this one is not working = http://windows.microsoft.com/fr-ca/windows7/how-to-manage-cookies-in-internet-explorer-9  )-->
 
-[^footnote8]: [Delete and manage cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+##### Note 8 
+ [Delete and manage cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-[^footnote9]: [Effacer l’historique et les cookies enregistrés dans Safari sur votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT201265)
+##### Note 9 
+ [Effacer l’historique et les cookies enregistrés dans Safari sur votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT201265)
 
-[^footnote10]: [Procédure d’activation de JavaScript dans Windows](https://support.microsoft.com/fr-ca/kb/3135465)
+##### Note 10 
+ [Procédure d’activation de JavaScript dans Windows](https://support.microsoft.com/fr-ca/kb/3135465)
 
-[^footnote11]: [Désactivation du module Web Java dans Safari](https://support.apple.com/fr-ca/HT202447)
+##### Note 11 
+ [Désactivation du module Web Java dans Safari](https://support.apple.com/fr-ca/HT202447)
 
-[^footnote12]: Nous ne faisons pas la promotion de ces produits. Nous ne les avons pas mis à l’essai.
+##### Note 12 
+ Nous ne faisons pas la promotion de ces produits. Nous ne les avons pas mis à l’essai.
 
-[^footnote13]: [Disable Flash](https://gizmodo.com/disable-flash-1688209571)
+##### Note 13 
+ [Disable Flash](https://gizmodo.com/disable-flash-1688209571)

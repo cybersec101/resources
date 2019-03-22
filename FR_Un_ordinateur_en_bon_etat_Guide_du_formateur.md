@@ -106,7 +106,7 @@ d’Internet à des entreprises de marketing.
         - Il est très important de lire les directives pendant le processus d’installation.
 
             - Souvent, l’option d’installer le logiciel secondaire est sélectionnée par défaut,
-vous devez donc la désélectionner manuellement [^footnote1].
+vous devez donc la désélectionner manuellement [Note 1](#note-1).
 
 
 Image:![Alt Text](tbd.jpg "Optional Title")
@@ -182,7 +182,7 @@ assurent une plus grande sécurité à l’appareil.
 
                 - Activer toutes les options de mise à jour automatique.
 
-                - Il pourrait être nécessaire de cliquer sur le cadenas dans le coin inférieur gauche et d’entrer le mot de passe pour pouvoir appliquer les changements [^footnote2].
+                - Il pourrait être nécessaire de cliquer sur le cadenas dans le coin inférieur gauche et d’entrer le mot de passe pour pouvoir appliquer les changements [Note 2](#note-2).
                 
                 
                 - Image : ![alt text](tbd.png)
@@ -198,7 +198,7 @@ assurent une plus grande sécurité à l’appareil.
 
                 - Sous __Mises à jour recommandées__ , cocher la case __Me communiquer les mises à jour recommandées de la même façon que je reçois les mises à jour importantes__.
 
-                - Sous __Microsoft Update__ , cocher la case __Me communiquer les mises à jour d’autres produits Microsoft lorsque je mets à jour Windows__ , puis appuyer ou cliquer sur Appliquer [^footnote3] .
+                - Sous __Microsoft Update__ , cocher la case __Me communiquer les mises à jour d’autres produits Microsoft lorsque je mets à jour Windows__ , puis appuyer ou cliquer sur Appliquer [Note 3](#note-3) .
                 
                 - Image : ![alt text](tbd.png) 
 
@@ -214,7 +214,7 @@ assurent une plus grande sécurité à l’appareil.
 
                 - Sous __Mises à jour importantes__ , sélectionner __Installer les mises à jour automatiquement (recommandé__).
 
-                - Sous __Mises à jour recommandées__ , cocher la case __Recevoir les mises à jour recommandées de la même façon que vous recevez les mises à jour importantes__ , puis cliquer sur __OK__ [^footnote4].
+                - Sous __Mises à jour recommandées__ , cocher la case __Recevoir les mises à jour recommandées de la même façon que vous recevez les mises à jour importantes__ , puis cliquer sur __OK__ [Note 4](#note-4).
 
 
 
@@ -238,7 +238,7 @@ assurent une plus grande sécurité à l’appareil.
                 - Cliquer sur __OK__ . Si demandé, fournir un mot de passe administrateur ou une confirmation.
 
 
-        - iPhone ou iPad [^footnote5] 
+        - iPhone ou iPad [Note 5](#note-5) 
 
 
             - Si un message indique qu’une mise à jour est disponible, appuyer sur __Installer__ , ou suivre les étapes suivantes :
@@ -260,7 +260,7 @@ assurent une plus grande sécurité à l’appareil.
             -  Si demandé, entrer le code d’accès.
 
 
-        - Téléphone Android ou tablette [^footnote6]
+        - Téléphone Android ou tablette [Note 6](#note-6)
 
 
             - Ouvrir Google Play Store ![alt text](tbd.png) . Appuyer sur l’icône de menu ![alt text](tbd.png) , puis sur __Paramètres__ . Appuyer sur __Mise à jour automatique des applis__.
@@ -286,25 +286,33 @@ Terme|Définition
 Barre d’outils (navigateur)|Additif doté de caractéristiques    souvent inutiles    qui envoie des renseignements  aux entreprises de  marketing.
 Correctif|Modification apportée au code d’un programme déjà en  circulation visant  à   régler  un  problème    potentiel. iOS Système d’exploitation des appareils mobiles d’Apple. Mise à jour Modification visant à améliorer un programme.
 Mot de passe administrateur|Le  compte  administrateur  permet  de  modifier    les paramètres d’un    ordinateur. Il  peut    s’agir  du  compte  principal   utilisé sur l’ordinateur    ou  d’un    compte  secondaire  ne  servant qu’à    modifier    les paramètres.
-Navigateur|Logiciel ou application mobile utilisé pour consulter des pages   Web sur     Internet [^footnote7] .
+Navigateur|Logiciel ou application mobile utilisé pour consulter des pages   Web sur     Internet [Note 7](#note-7) .
 Programme malveillant|Logiciel    créé    dans    un  mauvais dessein.
-Système d’exploitation|Logiciel    de  base    d’un    ordinateur, tel que  Windows    ou  Apple OSX, chargé  de  commander l’exécution des programmes [^footnote8] .
+Système d’exploitation|Logiciel    de  base    d’un    ordinateur, tel que  Windows    ou  Apple OSX, chargé  de  commander l’exécution des programmes [Note 8](#note-8) .
 
 
 <!--[comment]: # (footnote 1 = link not working = http://www.avgjoeguide.com/wordpress/just-because-its-freeware-doesnt-mean-that-it-doesnt-contain-crapware)-->
 
-[^footnote1]: Ce type de logiciel est appelé logiciel espion (Spyware) lorsqu’il collecte des renseignements, logiciel publicitaire (Adware) lorsqu’il affiche de la publicité ou inflagiciel (Crapware) lorsqu’il occupe une place considérable sur le disque dur.
+##### Note 1 
+ Ce type de logiciel est appelé logiciel espion (Spyware) lorsqu’il collecte des renseignements, logiciel publicitaire (Adware) lorsqu’il affiche de la publicité ou inflagiciel (Crapware) lorsqu’il occupe une place considérable sur le disque dur.
 
-[^footnote2]: [Procédure de mise à jour des logiciels de votre Mac](https://support.apple.com/fr-ca/HT201541) 
+##### Note 2 
+ [Procédure de mise à jour des logiciels de votre Mac](https://support.apple.com/fr-ca/HT201541) 
 
-[^footnote3]: [Windows Update : Forum Aux Questions](https://support.microsoft.com/fr-fr/help/12373/windows-update-faq#turn-automatic-updating-on-off=windows-8)
+##### Note 3 
+ [Windows Update : Forum Aux Questions](https://support.microsoft.com/fr-fr/help/12373/windows-update-faq#turn-automatic-updating-on-off=windows-8)
 
-[^footnote4]: [Windows Update : Forum Aux Questions](https://support.microsoft.com/fr-fr/help/12373/windows-update-faq#turn-automatic-updating-on-off=windows-8)
+##### Note 4 
+ [Windows Update : Forum Aux Questions](https://support.microsoft.com/fr-fr/help/12373/windows-update-faq#turn-automatic-updating-on-off=windows-8)
 
-[^footnote5]: [Mise à jour de votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT204204)
+##### Note 5 
+ [Mise à jour de votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT204204)
 
-[^footnote6]: [Mettre à jour vos applications Android](https://support.google.com/googleplay/answer/113412?hl=fr)
+##### Note 6 
+ [Mettre à jour vos applications Android](https://support.google.com/googleplay/answer/113412?hl=fr)
 
-[^footnote7]: [Navigateur](http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=506713)
+##### Note 7 
+ [Navigateur](http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=506713)
 
-[^footnote8]: [Système d'exploitation](http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=8358548)
+##### Note 8 
+ [Système d'exploitation](http://www.granddictionnaire.com/ficheOqlf.aspx?Id_Fiche=8358548)

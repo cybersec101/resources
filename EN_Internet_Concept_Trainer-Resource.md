@@ -42,25 +42,25 @@ The	Internet	connects	people	and	information through services	such	as	email,	gam
 		- Wikipedia.org;
 
 
-		- Photo	collections	at	the	New	York	Public	Library [^footnote1];
+		- Photo	collections	at	the	New	York	Public	Library [Note 1](#note-1);
 
 
 
 
 
-		- Teaching	initiatives	such	as	Khan	Academy [^footnote2] and 
+		- Teaching	initiatives	such	as	Khan	Academy [Note 2](#note-2) and 
 
 
 
 
 
-		- Online	research	tools	like	Google	n-Grams [^footnote3] and	Wolfram	alpha [^footnote4].
+		- Online	research	tools	like	Google	n-Grams [Note 3](#note-3) and	Wolfram	alpha [Note 4](#note-4).
 
 
 
 
 
-There	are	3.2	billion	Internet	users,	2	billion	of	whom	live	in	developing	countries[^footnote5].
+There	are	3.2	billion	Internet	users,	2	billion	of	whom	live	in	developing	countries[Note 5](#note-5).
 
 
 
@@ -70,14 +70,14 @@ There	are	3.2	billion	Internet	users,	2	billion	of	whom	live	in	developing	count
 - Besides	the	well-established	uses	such	as	email	and	online	bulletin	boards	or	forums,	use	of
 social	media	services	is	growing.
 
-	- 62%	of	adults	in	the	USA	use	Facebook;	70%	of	those	use	it	daily[^footnote6].
+	- 62%	of	adults	in	the	USA	use	Facebook;	70%	of	those	use	it	daily[Note 6](#note-6).
 
 
 
 
 
 - Canadians	generally	use	the	Internet	for	entertainment,	news,	email	(89%),	banking	(69%)	and
-personal	interests	(64%).	The	popularity	of 	video	chatting	and	games	is	increasing	rapidly[^footnote7].
+personal	interests	(64%).	The	popularity	of 	video	chatting	and	games	is	increasing	rapidly[Note 7](#note-7).
 
 
 
@@ -108,7 +108,7 @@ activities	as	well	as	of	low-cost	global	access	and	industrial-scale	automation	
 scams	and	frauds.
 
 	
-- The	cost	of	cybercrime	and	cyber	security	is	estimated	in	millions	and	billions	of	dollars[^footnote8]. However,	estimations	don’t	explain	the	privacy	and	security	implications	of	the	technology,
+- The	cost	of	cybercrime	and	cyber	security	is	estimated	in	millions	and	billions	of	dollars[Note 8](#note-8). However,	estimations	don’t	explain	the	privacy	and	security	implications	of	the	technology,
 and	don’t	put	the	risks	into	a	helpful	perspective.
 
 
@@ -140,14 +140,14 @@ the	connection	of	a	number	of 	stand-alone	research	and	university	networks	to	e
 greater	communication.
 
 	- The	continuing	development	of	the	Internet	reflects	this,	with	a	number	of 	backbones
-connecting	networks	together	for 	operation[^footnote9].
+connecting	networks	together	for 	operation[Note 9](#note-9).
 
 
 
 - The technologies that enable the Internet are best understood as layers of operating
 protocols	and	common	standards	that	work	together	to	manage	tasks	as	simple	as
 passing	a	signal	from	one	device	to	another	or 	as	complex	as	managing	network	services
-for 	applications[^footnote10].
+for 	applications[Note 10](#note-10).
 
 
 
@@ -156,13 +156,13 @@ for 	applications[^footnote10].
 
 
 - To	better	understand	security	perspective	it	is	helpful	to	understand	how	the	Transmission
-Control	Protocol	(TCP)[^footnote11] and	the	Internet	Protocol	(IP)	function.
+Control	Protocol	(TCP)[Note 11](#note-11) and	the	Internet	Protocol	(IP)	function.
 
 
 	- TCP 	breaks	messages	down	into	tiny	pieces,	like	tearing	all	the	pages	out	of	a	book.
 	- IP	gets	those	pieces	to	the	receiver,	handling	them	like	putting	each	page	into	a	separate
 envelope	(packet)	and	writing	the	address	for	the	receiver	and	the	sender	on	it	correctly.
-	- TCP 	puts	them	all	the	pages	back	together	in	the	correct	order	for 	the	receiver [^footnote12].
+	- TCP 	puts	them	all	the	pages	back	together	in	the	correct	order	for 	the	receiver [Note 12](#note-12).
 
 
 
@@ -220,7 +220,7 @@ a	home,	or	to	a	mobile	point,	like	a	cellular	telephone.
 and	Seattle.
 
 	- Much	of	the	Internet	traffic	in	Canada	travels	through	the	United	States	due	to	the	major
-connection	points	to	Asia	near	Seattle	and	to	Europe	in	New	York [^footnote13].
+connection	points	to	Asia	near	Seattle	and	to	Europe	in	New	York [Note 13](#note-13).
 
 
 
@@ -233,7 +233,7 @@ another	country	before	reaching	their	destination.
 tower.	The	speed	of	mobile	connections	has	improved	over	time.
 
 	- Each	advance	was	significant	enough	to	be	known	as	different	generations	of	technology.
-We have advanced through 2nd Generation	(2G)	and	 3rd Generation	(3G).	The	current standard	is	4G	Long	Term	Evolution	or	4G	LTE [^footnote14].
+We have advanced through 2nd Generation	(2G)	and	 3rd Generation	(3G).	The	current standard	is	4G	Long	Term	Evolution	or	4G	LTE [Note 14](#note-14).
 
 
 
@@ -241,7 +241,7 @@ We have advanced through 2nd Generation	(2G)	and	 3rd Generation	(3G).	The	curre
 
 	- The	type	of	connection	on	your	device	is	normally	shown	on	the	screen	where	the
 connection	strength	is	shown	(the	bars). 3rd
-	Generation	and	later	connections	offer	good service	and	a	level	of 	security [^footnote15].
+	Generation	and	later	connections	offer	good service	and	a	level	of 	security [Note 15](#note-15).
 
 
 
@@ -282,7 +282,7 @@ coaxial	cable	and	fixed	wireless.
 		- These	connections	have	similar	properties;	they	are	permanently	connected	and permit	a	high	rate	of	data	transfer.
 
 	- Dial-up	connections	(an	older	type	of	connection	that	used	the	same	wire	as	the	telephone)
-have	different	properties.	A	dial	up	connection	is	considered	technically	inferior	and	should be	unnecessary	in	Canada [^footnote16].
+have	different	properties.	A	dial	up	connection	is	considered	technically	inferior	and	should be	unnecessary	in	Canada [Note 16](#note-16).
 
 
 
@@ -292,7 +292,7 @@ the	case	of	fixed	wireless).
 	- This	cable	will	be	connected	to	a	modem	inside	your	home.	A	modem	is	a	box	with
 continually	flashing	lights	that	is	generally	supplied	by	your	ISP.
 
-	- A	network	router	(wireless	or	wired)	connects	to	the	modem	to	manage	communications	to the	Internet [^footnote17].
+	- A	network	router	(wireless	or	wired)	connects	to	the	modem	to	manage	communications	to the	Internet [Note 17](#note-17).
 
 
 
@@ -318,7 +318,7 @@ essentially	tied	to	the	wall.
 
 		- Neighbours	have	their	own	separate	Wi-Fi	networks	even	if	they	are	within	range of 	each	other.
 
-			- This	function	relies	on	the	devices	deliberately	ignoring	messages	that	are not	intended	for	them.	This	means	that	it	is	possible	to	listen	passively	just	by not	ignoring	the	messages [^footnote18].
+			- This	function	relies	on	the	devices	deliberately	ignoring	messages	that	are not	intended	for	them.	This	means	that	it	is	possible	to	listen	passively	just	by not	ignoring	the	messages [Note 18](#note-18).
 
 
 		- Secure	Wi-Fi	requires	a	password	to	connect	to	the	network.
@@ -378,7 +378,7 @@ their	intentions	are.
 
 		- There	is	no	way 	of 	being	sure	that	another	user	hasn’t	tampered	with	the	computer before	you	started	using	it.
 
-			- They	might	have	installed	software	or	devices	that	track	your	use	and	try	to record	your	personal	information [^footnote19].
+			- They	might	have	installed	software	or	devices	that	track	your	use	and	try	to record	your	personal	information [Note 19](#note-19).
 
 
 
@@ -390,7 +390,7 @@ due	to	the	large	number	of 	network	users	who	are	potential	victims.
 		- Another	issue	with	connecting	to	public	networks	is	that	you	must	trust	the
 security	awareness	of	the	person	providing	the	connection.	Even	major	hotels
 have	been	affected	with	security	issues	that	put	the	users	of	the	private	hotel
-network	at	risk [^footnote20].
+network	at	risk [Note 20](#note-20).
 
 
 
@@ -441,52 +441,72 @@ Wireless|Sending	and	receiving	electronic signals by using radio	waves.
 WPA, WPA2|Wi-Fi	Protected	Access	and	Wi-Fi Protected Access 2 are	two security	protocols	designed	to	protect Wi-Fi networks.		These protocols were developed to resolve issues in the earlier ‘Wired	Equivalent	Privacy”(WEP) security protocol.
 
 
-[^footnote1]: [New York	Public	Library](https://digitalcollections.nypl.org/) 
+##### Note 1 
+ [New York	Public	Library](https://digitalcollections.nypl.org/) 
 
-[^footnote2]: [Khan	Academy](https://www.khanacademy.org/)
+##### Note 2 
+ [Khan	Academy](https://www.khanacademy.org/)
 
-[^footnote3]: [Google	n-Grams](https://books.google.com/ngrams)
+##### Note 3 
+ [Google	n-Grams](https://books.google.com/ngrams)
 
-[^footnote4]: [Wolfram	alpha](https://www.wolframalpha.com/)
+##### Note 4 
+ [Wolfram	alpha](https://www.wolframalpha.com/)
 
-[^footnote5]: [The	International	Telecommunications	Union	report	on	the	state	of	the	Internet](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
+##### Note 5 
+ [The	International	Telecommunications	Union	report	on	the	state	of	the	Internet](https://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx)
 
-[^footnote6]: [The	International	Telecommunications	Union	report	on	the	state	of	the	Internet](http://www.pewinternet.org/2015/08/19/the-demographics-of-social-media-users/)
+##### Note 6 
+ [The	International	Telecommunications	Union	report	on	the	state	of	the	Internet](http://www.pewinternet.org/2015/08/19/the-demographics-of-social-media-users/)
 
-[^footnote7]: [For	more	information	on	how	canadians	use	the	Internet](https://cira.ca/factbook/2014/the-canadian-internet.html)
+##### Note 7 
+ [For	more	information	on	how	canadians	use	the	Internet](https://cira.ca/factbook/2014/the-canadian-internet.html)
 
 <!--[comment]:(footnote 8 = original links not working)-->
  
 
-[^footnote8]: [100	billion	per	year - 2013	US	alone](http://www.wsj.com/articles/SB),[160	Billion	per	year - 2014](http://www.mcafee.com/ca/resources/reports/rp-economic-impact-cybercrime2.pdf),[7.6	million	per	business - 2015](http://www8.hp.com/us/en/software-solutions/ponemon-cyber-security-report/index)
+##### Note 8 
+ [100	billion	per	year - 2013	US	alone](http://www.wsj.com/articles/SB),[160	Billion	per	year - 2014](http://www.mcafee.com/ca/resources/reports/rp-economic-impact-cybercrime2.pdf),[7.6	million	per	business - 2015](http://www8.hp.com/us/en/software-solutions/ponemon-cyber-security-report/index)
 
-[^footnote9]: For	more	reading	on	the	history	of	the	Internet	see : [A Brief History of the Internet & Related Networks](https://www.internetsociety.org/internet/history-internet/brief-history-internet-related-networks) , [Internet History Timeline: ARPANET to the World Wide Web](https://www.livescience.com/20727-internet-history.html)
+##### Note 9 
+ For	more	reading	on	the	history	of	the	Internet	see : [A Brief History of the Internet & Related Networks](https://www.internetsociety.org/internet/history-internet/brief-history-internet-related-networks) , [Internet History Timeline: ARPANET to the World Wide Web](https://www.livescience.com/20727-internet-history.html)
 
 <!-- [comment]:(footnote 10 = original links not working)-->
 
-[^footnote10]: There	is	a	common	way	of	thinking	about	these	layers	called	the	Open	Systems	Interconnect	model.	For	a	simple	overview	of	the	layers	see: [The OSI Model](http://cisco.8bits.ca/osi/), [Support Microsoft](https://support.microsoft.com/en-us), [Internet History Timeline: ARPANET to the World Wide Web](https://www.livescience.com/20727-internet-history.html)
+##### Note 10 
+ There	is	a	common	way	of	thinking	about	these	layers	called	the	Open	Systems	Interconnect	model.	For	a	simple	overview	of	the	layers	see: [The OSI Model](http://cisco.8bits.ca/osi/), [Support Microsoft](https://support.microsoft.com/en-us), [Internet History Timeline: ARPANET to the World Wide Web](https://www.livescience.com/20727-internet-history.html)
 
-[^footnote11]: [TCP-IP Explained](https://www.youtube.com/watch?v=7rR8p6gsExY)
+##### Note 11 
+ [TCP-IP Explained](https://www.youtube.com/watch?v=7rR8p6gsExY)
 
-[^footnote12]: [Basic Internet Principles](http://cs.smu.ca/%7Eporter/csc/465/notes/net/internetprinciples.html)
+##### Note 12 
+ [Basic Internet Principles](http://cs.smu.ca/%7Eporter/csc/465/notes/net/internetprinciples.html)
 
 
 <!-- [comment]:(footnote 13 = original links not working : https://www.wholesale.bell.ca/our-network/ ; http://qexpressnet.com/network/routing-map)-->
 
-[^footnote13]: You	can	see	some	of	the	maps	for	this	physical	infrastructure	at: [Business Shaw](https://business.shaw.ca/), [ArcticFibre](http://qexpressnet.com/),[Global Internet Map 2012](https://global-internet-map-2012.telegeography.com/)
+##### Note 13 
+ You	can	see	some	of	the	maps	for	this	physical	infrastructure	at: [Business Shaw](https://business.shaw.ca/), [ArcticFibre](http://qexpressnet.com/),[Global Internet Map 2012](https://global-internet-map-2012.telegeography.com/)
 
-[^footnote14]: [Mobile Standard](http://www.3gpp.org/technologies/keywords-acronyms/98-lte)
+##### Note 14 
+ [Mobile Standard](http://www.3gpp.org/technologies/keywords-acronyms/98-lte)
 
-[^footnote15]: [2G networks are vulnerable to eavesdropping](https://media.blackhat.com/bh-dc-11/Perez-Pico/BlackHat_DC_2011_Perez-Pico_Mobile_Attacks-Slides.pdf)
+##### Note 15 
+ [2G networks are vulnerable to eavesdropping](https://media.blackhat.com/bh-dc-11/Perez-Pico/BlackHat_DC_2011_Perez-Pico_Mobile_Attacks-Slides.pdf)
 
 <!-- [comment]:(footnote 16 = original link not working : http://www.crtc.gc.ca/eng/com100/2011/r110503.htm)-->
 
-[^footnote16]: [The CRTC has committed to providing broadband to all Canadians](https://crtc.gc.ca/eng/home-accueil.htm)
+##### Note 16 
+ [The CRTC has committed to providing broadband to all Canadians](https://crtc.gc.ca/eng/home-accueil.htm)
 
-[^footnote17]: Each	ISP	provides	guides	on installing a home network	for	each	type	of	connection. They will normally send	a	technician to	Install	everything as some specialized	knowledge	and	tools	are	required. An example of set	up	guides	are	found	at: [Bell Canada](https://support.bell.ca/Internet/Connection-help/How-to-set-up-my-Connection-Hub#displayStep), [Videotron](https://support.videotron.com/residential/internet/connect-modem-router)
+##### Note 17 
+ Each	ISP	provides	guides	on installing a home network	for	each	type	of	connection. They will normally send	a	technician to	Install	everything as some specialized	knowledge	and	tools	are	required. An example of set	up	guides	are	found	at: [Bell Canada](https://support.bell.ca/Internet/Connection-help/How-to-set-up-my-Connection-Hub#displayStep), [Videotron](https://support.videotron.com/residential/internet/connect-modem-router)
 
-[^footnote18]: For more detailed information on Wi-Fi see:[Wireless tutorial](pages.cpsc.ucalgary.ca/%7Ecarey/CPSC641/slides/wireless/WirelessTutorial.pdf)
+##### Note 18 
+ For more detailed information on Wi-Fi see:[Wireless tutorial](pages.cpsc.ucalgary.ca/%7Ecarey/CPSC641/slides/wireless/WirelessTutorial.pdf)
 
-[^footnote19]: To read 	about	such	a	case,	see: [Hardware keyloggers discovered at public libraries](https://nakedsecurity.sophos.com/2011/02/14/hardware-keyloggers-discovered-public-libraries/)
+##### Note 19 
+ To read 	about	such	a	case,	see: [Hardware keyloggers discovered at public libraries](https://nakedsecurity.sophos.com/2011/02/14/hardware-keyloggers-discovered-public-libraries/)
 
-[^footnote20]: To	read	about	this,	see:[Big Vulnerability in Hotel Wi-Fi Router Puts Guests at Risk](http://www.wired.com/2015/03/big-vulnerability-hotel-wi-fi-router-puts-guests-risk/)
+##### Note 20 
+ To	read	about	this,	see:[Big Vulnerability in Hotel Wi-Fi Router Puts Guests at Risk](http://www.wired.com/2015/03/big-vulnerability-hotel-wi-fi-router-puts-guests-risk/)

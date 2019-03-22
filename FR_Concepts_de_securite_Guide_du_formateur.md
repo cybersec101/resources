@@ -122,7 +122,7 @@ prudemment. Votre connexion Internet et les ressources de votre ordinateur peuve
 	- Les organisations et les personnes cherchant à s’enrichir veulent en savoir plus sur vous.
 
 		- Elles pourraient dépasser les limites et violer votre vie privée.
-		- D’autre part, vos renseignements (comme ceux de votre carte de crédit) pourraient être subtilisés par des criminels[^footnote1].
+		- D’autre part, vos renseignements (comme ceux de votre carte de crédit) pourraient être subtilisés par des criminels[Note 1](#note-1).
 
 
 	- Soyez vigilant lorsque vous fournissez des renseignements.
@@ -389,4 +389,5 @@ Réseau de zombies | Regroupement d’ordinateurs contrôlés à distance.
 Zombie | Ordinateur infecté par un programme malveillant et contrôlé à distance; fait partie d’un réseau de zombies.
 
 
-[^footnote1]: [Commissariat à la protection de la vie privée du Canada](https://www.priv.gc.ca/fr/mesures-et-decisions-prises-par-le-commissariat/enquetes/)
+##### Note 1 
+ [Commissariat à la protection de la vie privée du Canada](https://www.priv.gc.ca/fr/mesures-et-decisions-prises-par-le-commissariat/enquetes/)
