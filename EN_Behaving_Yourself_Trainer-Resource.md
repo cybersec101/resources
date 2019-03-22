@@ -226,7 +226,7 @@ Social	networks	allow	us	to	share	in	a public or semi-private way.	They	are	an	e
 				- These	can	lead	to	other	pages,	which	install	malware	and	can	spread to	 your	social	media	contacts,	such	as	by	disguising	a	“share”	or 	‘like’ button	as	an	“X”.
 
 
-Image : ![Hidden Clickbait](/images/EN_Behaving_Yourself_1.png "The box on the right contains a hidden button to share where the “X” is shown (as revealed in the image on the left) to trick the user into sharing the posting.")
+Image : ![Hidden Clickbait](/images/EN_Behaving_Yourself_1.png "The box on the right contains a hidden button to share where the “X” is shown to trick the user into sharing the posting.")
 
 
 Figure 1 : [Analyzing a Facebook Clickbait Worm](https://blog.sucuri.net/2015/06/analyzing-a-facebook-clickbait-worm.html)
