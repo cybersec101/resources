@@ -355,7 +355,7 @@ au	sérieux.	Vérifiez	l’URL	de	nouveau	et	assurez-vous	que	c’est	bien	la	bo
 
 		- Le	filtre	d’hameçonnage	peut	vous aider à	 vous	protéger	de	l’hameçonnage, de	la	fraude	en	ligne	et	des	faux	sites	Web.
 
-		- Image : ![alt text](tbd.png "Optional Title")
+		- Image : ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_01.png "Optional Title")
 
 
 
@@ -363,14 +363,14 @@ au	sérieux.	Vérifiez	l’URL	de	nouveau	et	assurez-vous	que	c’est	bien	la	bo
 
 		- Le	mode	protégé	peut	aider à protéger votre ordinateur	des	sites	qui	tenteraient d’installer	des	programmes	malveillants	ou	d’enregistrer	des	fichiers	sur	votre ordinateur à votre insu.
 
-		- _Image 2 : Indicateur d’état du mode protégé_ ![alt text](tbd.png "Optional Title")
+		- _Image 2 : Indicateur d’état du mode protégé_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_02.png "Optional Title")
 
 			- Indicateur	d’état	du	mode	protégé
 				- Plus	le	niveau	de	sécurité	est	élevé,	plus	vous	êtes	susceptible	d’être à	l’abri	des	pirates	informatiques	et	des	attaques.
 				- La	barre	d’état	affiche	l’identité	des	sites	sécurisés	pour	éclairer	vos décisions	lorsque	vous	faites	des	transactions	sur	le	 Web.	De	plus, comme	Internet Explorer	prend	désormais	en	charge	les	certificats EV, les	propriétaires	des	sites	Web	y	sont	encore	mieux	identifiés.
 
 
-		- _Image 3 : Barre d’état (côté droit de la barre d’adresse)_![alt text](tbd.png "Optional Title")
+		- _Image 3 : Barre d’état (côté droit de la barre d’adresse)_![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_03.png "Optional Title")
 
 			- Barre	d’état	d’Internet	Explorer	(côté	droit	de	la	barre	d’adresse)
 
@@ -403,7 +403,7 @@ Vert|Le	certificat	profite	d’une	validation étendue. Cela	signifie que la com
 
 		- Si	 vous	cliquez	sur	l’icône,	une	boîte	de	dialogue	avec	le	message «	 Safari	utilise	une	connexion	chiffrée	à	www.icloud.com	»	s’affichera. Ce	message	indique	que	la	connexion	est	sécurisée.
 
-		- _Image 4 : Connexion à un site sécurisé dans Safari_ ![alt text](tbd.png "Optional Title")
+		- _Image 4 : Connexion à un site sécurisé dans Safari_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_04.png "Optional Title")
 
 
 
@@ -415,14 +415,14 @@ le site en question [Note 3](#note-3).
 
 
 
-			- _Image	5	:	Site	non	sécurisé	dans	Safari_ ![alt text](tbd.png "Optional Title")
+			- _Image	5	:	Site	non	sécurisé	dans	Safari_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_05.png "Optional Title")
 
 - Chrome
 
 
 	- Un	des	indicateurs	de	sécurité	le	plus	important	dans	Google	Chrome	est	situé dans	la	barre	d’adresse.	On	appelle	cette	barre	omnibox,	car	elle	peut	aussi	servir de	champ	de	recherche.
 
-	- _Image 6 : L’omnibox de Chrome_ ![alt text](tbd.png "Optional Title")
+	- _Image 6 : L’omnibox de Chrome_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_06.png "Optional Title")
 
 		- La	première	chose	à	noter	est	le	nom	de	domaine	du	site.	Celuici	indique	le site	Web	actuellement	affiché	dans	l’onglet.	Il	est	d’une	couleur	légèrement plus	foncée	que	le	reste.	Par	exemple,	sur	l’image	ci-dessus,	le	nom	de domaine est __www.google.com__.
 
@@ -434,22 +434,22 @@ Si	ce	n’est	pas	le	cas,	vous	avez	peut-être	affaire	à	un	faux	site	Web.
 certificat	de	la	page.	L’icône	affichée	peut	être	l’une	des	suivantes	:
 
 
-	 			- Cadenas	sur	fond	vert ![alt text](tbd.png)
+	 			- Cadenas	sur	fond	vert ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_07.png)
 
 					- Le	site	présente	un	certificat	de	sécurité	valide,	et	son	identité a	été	authentifiée	par	un	tiers	de	confiance.	Une	connexion sécurisée	a	été	établie	avec	le	site	auquel	vous	accédez	dans Google	Chrome.
 
 
-				- Point	d’exclamation	sur	fond	orange ![alt text](tbd.png)
+				- Point	d’exclamation	sur	fond	orange ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_08.png)
 
 					- Le	site	n’a	présenté	aucun	certificat	au	navigateur.	Cela	est normal	pour	les	sites	HTTP	standard,	car	les	certificats	ne	sont généralement	fournis	que	si	le	site	utilise	le	chiffrement.
 
 
-				- Page ![alt text](tbd.png)
+				- Page ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_09.png)
 
 					- Votre	connexion	au	site	n’est	pas	chiffrée.	Ceci	est	normal pour	les	sites	HTTP	standard.
 
 
-				- Cadenas	avec	triangle	d’avertissement	jaune ![alt text](tbd.png)
+				- Cadenas	avec	triangle	d’avertissement	jaune ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_10.png)
 
 					- Google	Chrome	a	accès	au	certificat	du	site,	mais	ce	dernier
 utilise	une	configuration	de	sécurité	faible.	Il	est	donc	possible
@@ -460,7 +460,7 @@ que	votre	connexion	ne	soit	pas	sécurisée.
 					- Si	 vous	voyez	cette	icône,	rien	ne	garantit	que	votre	connexion est	sécurisée.	Faites	preuve	de	prudence	et	n’entrez	aucun renseignement	personnel sur 	cette	page.
 
 
-				- Cadenas	sur	fond	rouge ![alt text](tbd.png)
+				- Cadenas	sur	fond	rouge ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_11.png)
 
 					- Des	problèmes	relatifs	au	 certificat	du	 site	et	 des	scripts	mixtes ont été détectés.
 
@@ -474,7 +474,7 @@ prudence [Note 4](#note-4).
 
 
 			- Certificat	de	validation	étendue	(EV) (voir l’adresse Web	et	la	boîte verte	qui	englobe	l’icône du cadenas sur l’image	ci-dessous).
-				- _Image 7 : Certificat de validation étendue de PayPal_ ![alt text](tbd.png)
+				- _Image 7 : Certificat de validation étendue de PayPal_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_12.png)
 
 				- Le	certificat	EV	permet	au	navigateur de déterminer le nom de	l’organisation	exploitant	le	site Web.
 
@@ -536,7 +536,7 @@ votre	confidentialité	n’est	pas	garantie.
 			- Google	Chrome
 
 
-				- Cliquez	sur ![alt text](tbd.png)
+				- Cliquez	sur ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_13.png)
 
 				- Sélectionnez	 __Paramètres__.
 
@@ -561,10 +561,10 @@ votre	confidentialité	n’est	pas	garantie.
 			- Internet	Explorer
 
 
-				- Ouvrez	Internet	Explorer	en	cliquant	sur ![alt text](tbd.png). Dans	le	champ	de recherche,	tapez « Internet Explorer	»,	puis	cliquez	sur __Internet Explorer__ dans la liste.
+				- Ouvrez	Internet	Explorer	en	cliquant	sur ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_14.png). Dans	le	champ	de recherche,	tapez « Internet Explorer	»,	puis	cliquez	sur __Internet Explorer__ dans la liste.
 
 
-				- Cliquez	sur ![alt text](tbd.png)
+				- Cliquez	sur ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_15.png)
 	,	sélectionnez	 __Sécurité__ ,	puis	cliquez	sur __Supprimer l’historique de navigation...__
 
 
@@ -620,9 +620,9 @@ le Mac.
 			- Android
 
 
-				- Ouvrez	Google	Chrome ![alt text](tbd.png)
+				- Ouvrez	Google	Chrome ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_16.png)
 
-				- Appuyez	sur ![alt text](tbd.png)
+				- Appuyez	sur ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_17.png)
 
 				- Appuyez	sur __Paramètres__ ,	puis	sur __Paramètres du site__.
 
@@ -644,7 +644,7 @@ où	le	risque	est	très	élevé.
 
 			- Google	Chrome
 
-				- Cliquez	sur ![alt text](tbd.png)
+				- Cliquez	sur ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_18.png)
 
 				- Dans	le	bas	de	la	page,	cliquez	sur	Afficher	les	 _**paramètres avancés**_...
 
@@ -888,7 +888,7 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 			- Vérifiez	le	nom	de	domaine	et	soyez	à	l’affût	des	possibles	coquilles,	comme 0	pour	O	ou	vv	pour	w.
 
-- Examiner	la	page ![alt text](tbd.png "Optional Title")
+- Examiner	la	page ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_19.png "Optional Title")
 
 
 
@@ -900,7 +900,7 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 
 
-	- La	page	suivante	comporte	des	indices	confirmant	son	authenticité. ![alt text](tbd.png "Optional Title")
+	- La	page	suivante	comporte	des	indices	confirmant	son	authenticité. ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_20.png "indices	confirmant	d'authenticité")
 
 
 
@@ -909,7 +909,7 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 		3. Le	nom	de	domaine	est	particulier;	toutefois,	la	boîte	verte	indiquant	le propriétaire	de	la	page	vient	l’appuyer	(live.com	est	une	marque	utilisée	par Microsoft	pour	rassembler	plusieurs	services	comme	Hotmail,	Outlook	et MSN).
 
 
-			- À	noter	aussi	l’absence	d’erreur	de	grammaire	et	de	propos	menaçant. ![alt text](tbd.png "Optional Title")
+			- À	noter	aussi	l’absence	d’erreur	de	grammaire	et	de	propos	menaçant. ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_21.png "Optional Title")
 
 
 		- Une	page	comme	celle-ci	est	un	clair	avertissement	que	la	page	à	laquelle	vous tentez	d’accéder	est	dangereuse.	Elle	s’affiche	lorsque	le	navigateur	détecte	que la	page	a	un	problème.	Cliquez	sur	le	bouton	de	retour	pour	éviter	le	site.

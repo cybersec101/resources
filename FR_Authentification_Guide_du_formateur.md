@@ -421,7 +421,7 @@ Servez-vous	d’un	gestionnaire	de	mots de passe si vous devez	vous	connecter	à
 
 ## Glossaire
 
-Glossaire ||
+Terme|Définition
 -----|-------
 Authentification à deux facteurs | Identification d’une personne	au	moyen de deux éléments	indépendants.
 Carte intelligente | Carte	dotée	d’une	puce.
