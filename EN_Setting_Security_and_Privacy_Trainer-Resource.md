@@ -261,14 +261,8 @@ Security	software	helps	manage	your	security.	It	is	sold	as	a	subscription	that	
 - Electronics	and	office	supplies	retailers often have a large	choice	of	security	software.
 
 	- There	is	no	good	way 	of 	recommending	which	product	to	buy,	but	there	is	a	list	of	what	not
-to	buy.	Many	applications	claim	to	be	anti-virus	software	but	are	actually	scams	or	viruses
+to	buy.	Many	applications	claim	to	be	anti-virus	software	but	are	actually	scams	or	viruses [Note 7](#note-7)
 themselves.
-
-[comment]: # (there was a footnote after the word themselves. link not working = http://www.asafercomputer.co.uk/?q=Library)
-
-
-
-
 	- When	buying	security	software,	you	are	buying	a	service	as	much	as	you	are	buying a	product.
 
 		- Threats	and	malware	on	the	Internet	change	constantly.	Your	security	software
@@ -465,7 +459,14 @@ Webcam|An	Internet	enabled	(World	Wide Web) video camera.
 ##### Note 6
  [Set screen lock on an Android device](https://support.google.com/android/answer/9079129?hl=en&visit_id=636876694905566612-1443867087&rd=1)
 
-<!--there is a comment on the text about the footnote 7-->
+##### Note 7
+ <!--
+  Stone-Gross, B., Abman, R., Kemmerer, R. A., Kruegel, C., Steigerwald, D. G., & Vigna, G. (2013). The underground economy of fake antivirus software. In Economics of information security and privacy III (pp. 55-78). Springer, New York, NY.
+
+  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.412.3289&rep=rep1&type=pdf
+  -->
+
+ [A List of Rogue AntiVirus on Wikipedia](https://en.wikipedia.org/wiki/List_of_rogue_security_software)
 
 ##### Note 8
  [Security software performance	comparison](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf). Note	that	faster does	not	mean	more	effective.
