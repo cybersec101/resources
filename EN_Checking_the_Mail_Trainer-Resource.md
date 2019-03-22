@@ -46,7 +46,7 @@ a web service, such as Gmail, Hotmail, Yahoo! mail and many more.
 	- In an email address, the name and information given are not guaranteed to be true—there is no verification.
 
  		- It is very easy to make a fake or misleading email address.
- 
+
  		- There is no limit on the number of email addresses one person can have.
 
 			- Many people have multiple email addresses (e.g., one for work, one for home, one for use when junk services ask for an address).
@@ -54,13 +54,13 @@ a web service, such as Gmail, Hotmail, Yahoo! mail and many more.
 			- Most email apps allow multiple email addresses.
 
 				- Use this to your advantage. If you don’t want to give away personal information but need to give an email address, use one from a free provider that does not contain personal information.
- 
+
 - Email addresses have three parts:
 
 	- The part before the ‘@’ symbol is a name chosen for the individual email account. It can
     be anything that has not already been chosen by someone at that provider (two people
     can’t have the same address).
-	
+
 	- The ‘@’ symbol is used as a divider in the address. All email addresses require this symbol.
 
 	- The portion after the ‘@’ symbol is the domain name or the name of the server that the
@@ -77,13 +77,13 @@ a web service, such as Gmail, Hotmail, Yahoo! mail and many more.
 the message to.
 
 		- The **_From_** field contains your email address and is usually automatically entered.
- 
+
 		- The **_CC_** (Carbon Copy) field is used when you want to send a copy of the message to another email address at the same time.
- 
+
 		- The **_BCC_** (Blind Carbon Copy) field is used when you want to quietly send a copy of the message to another email address without telling the other recipients (no-one but you will see that these people received a copy).
 
 		- The **_Subject Line_** should describe the email's contents.
- 
+
 		- The **_Message Body_** is where you type your message.
 
 	- The body of the email can contain many of the same aspects as a web page.
@@ -157,7 +157,7 @@ for email to transfer malware to people or to guide people to malicious web page
 		- View all links in emails with suspicion.
 
 	- Content in the email
- 
+
 		- An email can contain content that is downloaded from the Internet when you open the email.
 
 		- It is more secure to turn off this feature.
@@ -165,7 +165,7 @@ for email to transfer malware to people or to guide people to malicious web page
 		- When you do turn it off, you will not see everything in a lot of emails. This doesn’t mean that anything is broken.
 
 			- Image : ![alt text](tbd.png "Optional Title")
-			
+
 			- Email with blocked remote content
 
 		- Turning off remote content on **_Apple_** devices:
@@ -174,24 +174,24 @@ for email to transfer malware to people or to guide people to malicious web page
 
 			- On the preferences box select the Viewing options.
 Uncheck the option to Load remote content in messages.
-				
+
 				- Image : ![alt text](tbd.png "Optional Title")
 
 
 		- **_Gmail_**
 
 			- Open Gmail.
- 
+
 			- Click the gear icon in the top right.
- 
+
 			- Select **_Settings_**.
- 
+
 			- Stay in the **_General_** tab.
- 
+
 			- Scroll down to the **_Images_** section.
- 
+
 			- Choose Ask before displaying external images.
- 
+
 			- Click **_Save Changes_** at the bottom of the page.
 
 			- **_Outlook_** is configured by default to Block remote pictures[Note 2](#note-2).
@@ -350,7 +350,7 @@ Enable junk mail filtering is checked.
 				- Office 365[Note 4](#note-4)
 
 					- To get to the **_Junk Email_** page from the main Outlook Web App page, go to the upper corner and choose **_Options_** , then choose **_Junk Email_** from the list in the navigation pane.
-	
+
 					- Make sure the “Don't filter junk email” option is not selected[Note 5](#note-5).
 
 			- Gmail
@@ -380,7 +380,7 @@ If email is expected, and as expected, it is probably okay. If an email is unexp
 
 - Identifying genuine email:
 
-	- This email appears to be for me if: 
+	- This email appears to be for me if:
 
 		- the sender is known;
 
@@ -402,8 +402,6 @@ If email is expected, and as expected, it is probably okay. If an email is unexp
 		- Business messages sent from a domain name other than the one usually used
 by that business[Note 7](#note-7);
 
-##### Note 7 
- Note that sometimes businesses do outsource email services to third parties who use their own domain names but it is better to be safe than sorry
 
 		- Emails that require urgent or immediate action;
 
@@ -470,16 +468,16 @@ Smartphone | A phone that operates much like a computer and is able to browse th
 Webcam | A video camera that is able to transmit video signal over the Internet.
 YouTube | A website (youtube.com) that provides access to video content.
 
-##### Note 1 
+##### Note 1
  [Spear phishing email attack](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-spear-phishing-email-most-favored-apt-attack-bait.pdf)
 
-##### Note 2 
+##### Note 2
  [Block or unblock automatic picture downloads in email messages](https://support.office.com/en-us/article/Block-or-unblock-automatic-picture-downloads-in-email-messages-15e08854-6808-49b1-9a0a-50b81f2d617a)
 
-##### Note 3 
+##### Note 3
  [Canada's Anti-Spam Legislation](http://fightspam.gc.ca/eic/site/030.nsf/eng/00303.html#ic-subnav-2)
 
-##### Note 4 
+##### Note 4
  [Overview of the Junk Email Filter](https://support.office.com/en-us/article/overview-of-the-junk-email-filter-5ae3ea8e-cf41-4fa0-b02a-3b96e21de089?omkt=en-CA&ui=en-US&rs=en-CA&ad=CA)
 
 
@@ -490,11 +488,14 @@ ORIGINAL = Pour Office 2010 : <https://support.office.com/fr-fr/article/%C3%80
 -->
 
 
-##### Note 5 
+##### Note 5
  [Junk Email](https://support.office.com/en-US/article/Options-Junk-Email-068FA430-F8D7-4518-A8DA-8BC74958F05F)
 
 
 <!-- footnote 6 = error 404 = original link =  https://support.google.com/mail/answer/9008?hl=en -->
 
-##### Note 6 
+##### Note 6
  [Gmail Help](https://support.google.com/mail#topic=7065107)
+
+##### Note 7
+  Note that sometimes businesses do outsource email services to third parties who use their own domain names but it is better to be safe than sorry.

@@ -30,12 +30,12 @@ Advertising,	tracking,	drive-by	downloads,	man-in-the-middle	attacks,	typo-squat
 
 There	are	many	forms	of	threat	on	the	Internet.	Being	aware	of	common	forms	can	help	you	to avoid	some	dangers	and—more	importantly—take	action	after	encountering	a	threat	to	minimize the	harm	caused.
 
-	
+
 - Advertising
 
 	- Intermediaries	and	large	publishers	(such	as	Facebook	or	Google),	which	we	 will	callplatforms,	gather	and	analyze	a	considerable	amount	of	data	at	very	high	speed,	making	it
 possible	to	customize	advertising.
-	
+
 	- Advertisers	can	buy	advertising	in	auctions	with	the	cost	depending	on,	the	similarity	of
 the	 webpage	and	the	advertisement,	your	location,	your	browsing	history,	or	information
 you	gave	to	the	platform	or	its	partners	such	as	through	subscription	questionnaires,	or
@@ -88,7 +88,7 @@ parties	to	track	and	collect	peoples’	data.
 or the privacy implications and terms of service of the third-party
 service	provider.
 
-	
+
 
 
 - Drive-by download attacks
@@ -108,7 +108,7 @@ legitimate	webpages.
 
 			- 99%	of	webpages	are	okay.
 
-	
+
 - Typo-squatting
 
 	- Typo-squatting	is	the	deliberate	registration	of	a	domain	name	to	exploit	common	typing
@@ -141,29 +141,29 @@ phishing	sites,	or	serve	malware.
 
   <tr>
     <th>Typo-squatting</th>
-    <th>Type</th> 
+    <th>Type</th>
     <th></th>
   </tr>
-  
+
   <tr>
     <td>xample.com, example.com, xemple.com</td>
     <td>Misspelled address</td>
     <td rowspan="3">WARNING:	Do	not	visit any of  these sites. Some are known	to	contain	malware.</td>
   </tr>
-  
+
   <tr>
     <td>example.org, example.biz, example.info, example.ca</td>
     <td>Different domain (suffix)</td>
-   
+
   </tr>
   <tr>
     <td>example.cm</td>
     <td>Confusing domain suffix</td>   
   </tr>
-  
+
 </table>
 
-	
+
 
 
 - Man-in-the-Middle	(MITM)	attack
@@ -313,7 +313,7 @@ browser	cues.
 			- If 	the	browser	warns	you	against	visiting	a	page...	take	it	seriously.	Double-check
 the	URL,	make	sure	you	have	the	right	location.
 
-	
+
 - Identifying	the	security	features	of	your	browser
 
 	- Internet	Explorer
@@ -375,7 +375,7 @@ Colour What it means
 Colour|What it means
 -----|:------
 Red | The	certificate	is	out-of-date,	not	valid	or	has	an	error.
-Yellow | The	authenticity	of 	the	certificate	or	certification	authority	that issued	it	cannot	be	verified.	This	might	indicate	a	problem	with the	certification	authority's	website. 
+Yellow | The	authenticity	of 	the	certificate	or	certification	authority	that issued	it	cannot	be	verified.	This	might	indicate	a	problem	with the	certification	authority's	website.
 White| The	certificate	has	normal	validation.	This	means	that communication between	your	browser	and	the	website	is encrypted.	The	certification	authority	makes	no	assertion	about the	business	practices	of	the	website.
 Green | The	certificate	uses	extended	validation.	This	means	that communication	between	your	browser	and	website	is encrypted,	and	that	the	certification	authority	has	confirmed the	 website	is	owned	or	operated	by	a	business	that	is	legally organized	under	the	jurisdiction	shown	in	the	certificate	and on	the	security	status	bar.	The	certification	authority	makes	no assertion	about	the	business	practices	of	the	website [Note 1](#note-1) [Note 2](#note-2)
 
@@ -387,21 +387,21 @@ Green | The	certificate	uses	extended	validation.	This	means	that communication	
 
 		- If 	you	click	the	lock	icon,	you	will	see	a	dialog	box	saying	that	“Safari	is	using an	encrypted	connection	to	www.icloud.com.”	This	tells	you	the	connection is	secure.
 
- 
+
  - Image : ![alt text](tbd.png "Optional Title")
 
- 
+
  - _Image tag : Connected to a legitimate site on Safari_
 
 
-		- If 	you	connect	to	a	website	that	isn’t	secure,	you	will	see	a	message that	says	“Safari	can’t	verify	the	identity	of 	the	website.”	If 	you	see	this message,	do	not	proceed	or	attempt	to	sign	in[Note 3](#note-3).
+	- If 	you	connect	to	a	website	that	isn’t	secure,	you	will	see	a	message that	says	“Safari	can’t	verify	the	identity	of 	the	website.”	If 	you	see	this message,	do	not	proceed	or	attempt	to	sign	in[Note 3](#note-3).
 
 
 	- Image : ![alt text](tbd.png "Optional Title")
- 
-	-  _Image tag : An unverified site on Safari_
 
-	
+	- _Image tag : An unverified site on Safari_
+
+
 
 
 - Chrome
@@ -465,7 +465,7 @@ personal	information	on	this	page.
 
 
 
-	 			- Red	lock	icon ![alt text](tbd.png)	
+	 			- Red	lock	icon ![alt text](tbd.png)
 
 					- There	are	problems	with	the	site's	certificate	or	mixed	scripting.
 
@@ -477,7 +477,7 @@ page	is	safe	or	not.	Proceed	with	caution[Note 4](#note-4).
 
 			- Extended	validation	(EV)	certificate	(see	green	box	over	the	lock	icon  and	the	web	address	in	the	image	below).
 
-			
+
 - Image : ![alt text](tbd.png "Optional Title")
 
 
@@ -507,7 +507,7 @@ allow	in	 your	browser.
 
 #### 3.2 In Detail
 
-	
+
 - Dangerous	websites	are	written	with	the	same	programming	tools	as	legitimate	websites.They
 are	an	easy	way 	to	stay	in	touch	with	friends,	family	and	acquaintances.
 
@@ -553,7 +553,7 @@ without	using	cookies.
 			- Google	Chrome
 
 
-				- Select	the	Chrome	menu icon ![alt text](tbd.png).	
+				- Select	the	Chrome	menu icon ![alt text](tbd.png).
 
 				- Select _**Settings**_.
 
@@ -647,10 +647,10 @@ cookies	and	data	on	your	Mac.
 			- Android
 
 
-				- Open	the	Chrome	app ![alt text](tbd.png);	
-				
-				- Touch	the	menu ![alt text](tbd.png);	
-				
+				- Open	the	Chrome	app ![alt text](tbd.png);
+
+				- Touch	the	menu ![alt text](tbd.png);
+
 				- Touch	 _**Site settings**_;
 
 
@@ -675,7 +675,7 @@ be	 very	high.
 			- Google	Chrome
 
 
-				- Select	the	Chrome	menu	icon ![alt text](tbd.png).	
+				- Select	the	Chrome	menu	icon ![alt text](tbd.png).
 
 
 				- Select _**Settings**_.
@@ -934,12 +934,9 @@ name	that	we	 would	expect	to	see.	This	indicates	that	this	page	is	probably	a f
 
 
 		- Some	indicators	on	this	page	provide	clues	that	the	page	is	legitimate:
-		
+
 		- Image : ![alt text](tbd.png "Optional Title")
-
-
-
-			1.	 	A	green	lock	symbol.	This	indicates	a	secure	connection.
+			1.	 A	green	lock	symbol.	This	indicates	a	secure	connection.
 			2.	 A	certificate	belonging	to	the	organization	you	would	expect	to	own
 this	website.
 
@@ -947,11 +944,8 @@ this	website.
 provides	reassurance.	(Live.com	is	a	brand	used	to	unify	a	number
 of 	Microsoft	services	to	assist	with	living;	such	as	Hotmail,	outlook,	and
 MSN	Messenger).
-
-
-
 				- Also,	note	the	lack	of	grammar	errors	or	threatening	language.  
-				
+
 				- Image : ![alt text](tbd.png "Optional Title")
 
 
@@ -1001,44 +995,43 @@ Phishing|Emails,	calls	or	other	communication	designed	to	trick	you	to give	away
 
 <!--footnote 1 = original link not working : https://support.microsoft.com/fr-fr/hub/4338813/windows-help#1TC=windows-7
 -->
-##### Note 1 
+##### Note 1
  [Windows 7](https://support.microsoft.com/en-ca/help/4057281/windows-7-support-will-end-on-january-14-2020)
 
 <!--footnote 2 = original link not working : http://windows.microsoft.com/lo-la/windows-vista/internet-explorer-at-a-glance-->
 
-##### Note 2 
+##### Note 2
  [Internet Explorer](https://support.microsoft.com/en-ca/help/17454/lifecycle-faq-internet-explorer)
 
-##### Note 3 
+##### Note 3
  [Learn how to verify that your browser is securely connected to iCloud.com](https://support.apple.com/en-us/HT203126)
 
-##### Note 4 
+##### Note 4
  [Check if a site's connection is secure](https://support.google.com/chrome/answer/95617?hl=en)
 
-##### Note 5 
+##### Note 5
  [Understanding the omnibox for better security](https://chrome.googleblog.com/2010/10/understanding-omnibox-for-better.html)
 
-##### Note 6 
+##### Note 6
  [Turn cookies on or off](https://support.google.com/accounts/answer/61416?hl=en)
 
-##### Note 7 
+##### Note 7
  [Clear, enable, and manage cookies in Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
-##### Note 8 
+##### Note 8
  [Delete and manage cookies](https://support.microsoft.com/en-ca/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-##### Note 9 
+##### Note 9
  [Clear the history and cookies from Safari on your iPhone, iPad, or iPod touch](https://support.apple.com/en-ca/HT201265)
 
-##### Note 10 
+##### Note 10
  [How to enable JavaScript in Windows](https://support.microsoft.com/en-ca/help/3135465/how-to-enable-javascript-in-windows)
 
-##### Note 11 
+##### Note 11
  [How to disable the Java web plug-in in Safari](https://support.apple.com/en-us/HT202447)
 
-##### Note 12 
+##### Note 12
  This	is	not	an	endorsement	of	either	of	these	products.	We	have	not	tested	them	in	any	way.
 
-##### Note 13 
+##### Note 13
  [Disable Flash](https://gizmodo.com/disable-flash-1688209571)
-

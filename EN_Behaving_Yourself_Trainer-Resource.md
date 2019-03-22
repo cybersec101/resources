@@ -242,7 +242,7 @@ The box on the right contains a hidden button to share where the “X” is show
 - A	potential	source	of	conflict	can	be	with	the	public	announcement	of	relationship status	on	social	media.
 	- For 	example,	Facebook	allows	people	to	state	that	they	are	“in	a	relationship with”	another	member	of 	Facebook,	and	will	link	their	profiles.
 
-		- Publicizing	this	relationship	status	is	called	going	“Facebook	Official.”
+		- Publicizing	this	relationship	status	is	called	going	“Facebook	Official” or "FBO".
 
 		- Going	FBO	is	a	very	public	broadcasting	of	the	relationship	to	large social	groups,	and	thus	could	be	considered	a	greater	step	than	more traditional	stages	of	commitment	in	relationships.
 
