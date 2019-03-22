@@ -175,7 +175,7 @@ intégrées   de  chiffrement des fichiers [Note 4](#note-4).
 
 
         - Aucune application ne peut garantir la confidentialité de vos communications.
-        
+
             - Même    si  un  logiciel    était   entièrement sûr (ce qui est très    peu probable),
 personne n’est à l’abri d’une erreur.
 
@@ -191,7 +191,7 @@ ne peut intervenir dans ce cas.
 
 
             - Le  simple  fait que Snapchat soit installé sur un  appareil ne  signifie en rien que ce dernier est utilisé pour envoyer des sextos.
-        
+
         	- Snapchat    n’est   pas l’application   la  plus    sécuritaire sur le  marché.
 Elle    n’est   pas recommandée pour    l’envoi de  photos  intimes.
 
@@ -311,8 +311,8 @@ seulement   cinq    minutes »   ou  « Émission  en  HD, visionnez-la! ».
 
 
                 - Ces annonces peuvent mener vers d’autres pages où se trouvent des programmes malveillants, qui se propageront au sein de vos contacts si, par exemple, vous cliquez sur un bouton pour partager l’article, l’aimer ou le fermer au moyen du __X__.
-                
-                - Figure 1 – [Analyzing a Facebook Clickbait Worm](https://blog.sucuri.net/2015/06/analyzing-a-facebook-clickbait-worm.html) : ![alt text](tbd.png)
+
+                - Figure 1 – [Analyzing a Facebook Clickbait Worm](https://blog.sucuri.net/2015/06/analyzing-a-facebook-clickbait-worm.html) : ![Image n'est pas disponible](/images/FR_Votre_Comportement_01.png)
 
 - _La fenêtre de droite cache un bouton de partage à l’endroit du X (comme montré sur
 l’image de gauche) afin de duper l’utilisateur pour qu’il partage la publication_.
@@ -401,20 +401,20 @@ vous    pouvez  choisir d’en    faire   une publication à   laquelle    les a
     - Cliquez sur l’icône située à côté de la date de publication (un globe terrestre, deux
 silhouettes,    un  cadenas ou  un  engrenage)  pour    choisir qui pourra  voir    la  publication.
 
-        - Globe   terrestre   =   Public ![alt text](tbd.png)
+        - Globe   terrestre   =   Public ![Image n'est pas disponible](/images/FR_Votre_Comportement_02.png)
 
             - Tous les utilisateurs Facebook et quiconque vous cherche sur Google (à  moins   que le  paramètre   des moteurs de  recherche   soit    désactivé).
 
-        - Deux    silhouettes =   Amis    (et les amis    des personnes   identifiées) ![alt text](tbd.png)
+        - Deux    silhouettes =   Amis    (et les amis    des personnes   identifiées) ![Image n'est pas disponible](/images/FR_Votre_Comportement_03.png)
 
             - Vos amis et les amis des personnes que vous identifiez. Vous pourriez aussi   voir    trois   silhouettes qui signifient  « les   amis    des amis »  ou  une
 seule   silhouette  qui signifie    « les   amis,   mais    pas les connaissances ».
 
-        - Cadenas =   Seulement   moi ![alt text](tbd.png)
+        - Cadenas =   Seulement   moi ![Image n'est pas disponible](/images/FR_Votre_Comportement_04.png)
 
             - Seulement vous pouvez voir le contenu.
 
-        - Engrenage   =   Personnalisé ![alt text](tbd.png)
+        - Engrenage   =   Personnalisé ![Image n'est pas disponible](/images/FR_Votre_Comportement_05.png)
 
             - Certaines listes personnalisées (listes créées sur Facebook pour rassembler
 des personnes   en  particulier,    comme   la  famille,    les collègues   de  travail ou
@@ -422,14 +422,15 @@ les camarades   d’école)    peuvent voir    la  publication.    Vous    pouve
 des personnes de voir la publication de façon individuelle, même si elle
 figure  parmi   vos amis.
 
-        -  Image : ![alt text](tbd.png)
+        -   ![Image n'est pas disponible](/images/FR_Votre_Comportement_06.png)
+        -   ![Image n'est pas disponible](/images/FR_Votre_Comportement_07.png)
 
         - Vous    pouvez  choisir qui peut    voir    votre   nouvelle    photo   de  profil. Par contre,
 la   visibilité de  la  photo   de  profil  en  soi ne  sera    pas modifiée.
 
             - Si vous voulez changer la visibilité de la photo de profil, vous devez aller à   la  photo.  
-            
-            - Image : ![alt text](tbd.png)
+
+            -  ![Image n'est pas disponible](/images/FR_Votre_Comportement_08.png)
 
     - Gardez en tête que votre photo actuelle de profil et vos photos de couverture
 sont publiques.
@@ -443,12 +444,12 @@ plus de renseignements à ce sujet ci-dessous).
 
 
         - Lorsqu’il   y   a   plus    d’une   photo   de profil, les paramètres  des photos  antérieures peuvent être modifiés. La  photo   de  profil  actuelle    demeure toutefois   visible à tous,   peu importe les réglages.   Les photos  de  couverture et  les publications    y   étant reliées sont toujours publiques.  
-        
-        - Image : ![alt text](tbd.png)
+
+        -  ![Image n'est pas disponible](/images/FR_Votre_Comportement_09.png)
 
     - Pour choisir rapidement qui peut voir vos publications, allez à l’icône des raccourcis de  confidentialité dans    le  coin    supérieur   droit   du  profil.  
-    
-    - Image : ![alt text](tbd.png)
+
+    -  ![Image n'est pas disponible](/images/FR_Votre_Comportement_10.png)
 
 
         - Trois   options s’offrent   à   vous    :
@@ -463,8 +464,8 @@ plus de renseignements à ce sujet ci-dessous).
 
 
         - Cliquez sur __Qui peut voir mon contenu?__  pour   dévoiler    les options de  contrôle de visibilité de vos publications.  
-        
-        - Image : ![alt text](tbd.png)
+
+        -  ![Image n'est pas disponible](/images/FR_Votre_Comportement_11.png)
 
     - Souvenez-vous que votre vie privée en ligne est définie par les paramètres de
 confidentialité de   votre  profil  et   par    la   manière    dont    vous    interagissez    avec    les  autres profils.
@@ -488,8 +489,8 @@ menant  à   son profil.
 Votre comportement
 
         - Si  quelqu’un   vous    identifie   dans    une publication où  vous    ne  voulez  pas être identifié,  vous   pouvez  supprimer   l’identification.  
-        
-        - Image : ![alt text](tbd.png)
+
+        -  ![Image n'est pas disponible](/images/FR_Votre_Comportement_12.png)
 
         - Facebook    vous    informera   alors   que l’identification    est supprimée,  mais    qu’elle
 demeure visible dans    les fils    d’actualité des autres  et  les résultats   de  recherche.
@@ -497,8 +498,8 @@ demeure visible dans    les fils    d’actualité des autres  et  les résultat
             - Vous pouvez supprimer l’identification, mais pas votre nom du contenu.
 
             - Vous avez aussi l’option de signaler le contenu dans lequel vous avez été identifié.  
-            
-            - Image : ![alt text](tbd.png)
+
+            -  ![Image n'est pas disponible](/images/FR_Votre_Comportement_13.png)
 
         - Remarquez que le nom demeure dans la publication; toutefois, il n’y a plus
 d’hyperlien vers    votre   profil. Par contre, les amis    de  la  personne    qui a   fait    la
@@ -517,18 +518,18 @@ notamment l’emploi, les relations, les pages aimées et les coordonnées.
         - Vous    pouvez  donc    choisir avec    qui vous    partagez    ces renseignements
 sur Facebook    en  cliquant    sur l’icône appropriée.
 
-            - Par exemple, vous pouvez choisir qui pourra voir votre emploi. 
-            
-            - Image : ![alt text](tbd.png)
+            - Par exemple, vous pouvez choisir qui pourra voir votre emploi.
+
+            -  ![Image n'est pas disponible](/images/FR_Votre_Comportement_14.png)
 
             - Une fois le choix enregistré, Facebook vous demande si vous voulez en faire une publication.    Dès que la  publication est créée,  il  vous    est possible    de changer le  groupe  d’utilisateurs  qui peuvent la  voir,   comme   c’est   le  cas pour toutes les publications.
-            
-            - Image : ![alt text](tbd.png "Optional Title")
+
+            -  ![Image n'est pas disponible](/images/FR_Votre_Comportement_15.png "changer le  groupe  d’utilisateurs  qui peuvent la  voir")
 
 
 
         - __Mise en garde__ : Certaines sources externes, par exemple la section des
-commentaires    Facebook    de  sites   populaires  comme   BuzzFeed    et  The 
+commentaires    Facebook    de  sites   populaires  comme   BuzzFeed    et  The
 Huffington  Post,   ou  des applications    comme   Tinder, diffuseront publiquement
 votre emploi et vos renseignements professionnels, même s’ils ne sont pas
 publics sur votre compte.
@@ -540,9 +541,9 @@ permet de les réviser grâce à la fonction Voir en tant que...
 autres le voient, qu’il s’agisse de vos amis en général, d’un groupe
 en particulier, du grand public ou de vous uniquement
 
-            - Image ![alt text](tbd.png)
-            
-            - Image ![alt text](tbd.png)
+            - Image ![Image n'est pas disponible](/images/FR_Votre_Comportement_16.png)
+
+            - Image ![Image n'est pas disponible](/images/FR_Votre_Comportement_17.png)
 
 
             - De  cette   façon,  vous    pouvez  vérifier    si  les éléments    que vous    voulez
@@ -551,7 +552,7 @@ définis.
 
 
 - Qui peut    me  trouver avec    une recherche   et  me  contacter?
-    
+
     - Il y a de nombreuses façons de trouver votre profil sur Facebook.
 
         - Ce  peut    être    au  moyen   de  votre   adresse courriel,   de  votre   numéro  de  téléphone
@@ -560,7 +561,7 @@ ou  de  moteurs de  recherche   comme   Google  et  Bing.
             - Les options à ce sujet se trouvent dans Afficher plus de paramètres sous
 l’icône des raccourcis  de  confidentialité illustrée   un  peu plus    haut.
 
-            - Image ![alt text](tbd.png)
+            - Image ![Image n'est pas disponible](/images/FR_Votre_Comportement_18.png)
 
         - Dans    ces paramètres, vous    pouvez  choisir qui peut    communiquer avec    vous.
 C’est   aussi   à   cet endroit que vous    pouvez  désactiver  les paramètres  pour    ne
@@ -577,7 +578,7 @@ ou  des profils publics sont    visibles    partout,    même    sur Google.
 cette information à partir de Google, même si vous avez désactivé le paramètre   des moteurs de  recherche   ou  modifier    vos paramètres  quant
 aux pages aimées.
 
-            - Image ![alt text](tbd.png)
+            - Image ![Image n'est pas disponible](/images/FR_Votre_Comportement_19.png)
 
                 - Par     exemple,    une recherche   pour    Jean    Bon,    un  profil  dont    le  paramètre
 des moteurs de  recherche   est désactivé,  donne   tout    de  même    un
@@ -612,32 +613,32 @@ Réseaux sociaux|Services servant à trouver d’autres utilisateurs,à communiq
 Sextage|Combinaison des mots    sexe    et  textage :   envoi   d’images    ou de messages intimes au moyen d’un service de messagerie.
 
 
-##### Note 1 
+##### Note 1
  [Balancing Free Speech and Social Harmony](http://www.lawnow.org/whatcott-case-balancing-free-speech-social-harmony/) , [When is it hate speech?](https://www.cbc.ca/news/canada/when-is-it-hate-speech-7-significant-canadian-cases-1.1036731) , [Site Web de la législation (Justice)](http://laws-lois.justice.gc.ca/fra/lois/C-46/page-71.html).
 
-##### Note 2 
+##### Note 2
  [Secure Messaging?](https://www.eff.org/deeplinks/2018/03/secure-messaging-more-secure-mess)
 
-##### Note 3 
+##### Note 3
  [TrueCrypt](http://truecrypt.sourceforge.net/)
 
-##### Note 4 
+##### Note 4
  How to encrypt a file : [Windows](https://support.microsoft.com/en-ph/help/4026312/windows-10-how-to-encrypt-a-file), [Apple](https://support.apple.com/en-us/HT208344)
 
-##### Note 5 
+##### Note 5
  Les médias ont souvent fait référence à cet acte comme une « vengeance pornographique » dans le passé.
 
-##### Note 6 
+##### Note 6
  [Cour suprême du Canada](https://www.canlii.org/fr/ca/csc/doc/2001/2001csc2/2001csc2.html)
 
-##### Note 7 
+##### Note 7
  [Code criminel - L.R.C.-1985, ch. C-46](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-162.1.html)
 
-##### Note 8 
+##### Note 8
  [Site Web de la législation](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-163.1.html)
 
-##### Note 9 
+##### Note 9
  [Kids help phone](https://kidshelpphone.ca/wp-signup.php?new=org)
 
-##### Note 10 
+##### Note 10
  [Que faire si je n’aime pas une publication dans laquelle je suis identifié(e) ?](https://www.facebook.com/help/196434507090362)

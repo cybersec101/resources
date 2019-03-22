@@ -154,7 +154,7 @@ sur Internet.
             - Si vous le faites, beaucoup de courriels vous paraîtront incomplets. C’est normal : rien n’est brisé pour autant.
 
 
-            - Image : Courriel avec contenu (images) distant bloqué ![alt text](tbd.png)
+            - Image : Courriel avec contenu (images) distant bloqué ![Image n'est pas disponible](/images/FR_Utiliser_le_Courriel_01.png)
 
 
 
@@ -164,8 +164,8 @@ sur Internet.
 
 
                 - Dans la boîte Préférences, sélectionnez Présentation. Décochez Charger le contenu distant des messages.  
-                
-                - Image: ![alt text](tbd.png)
+
+                - ![Image n'est pas disponible](/images/FR_Utiliser_le_Courriel_02.png)
 
             - __Gmail__
 
@@ -325,11 +325,11 @@ donc récupérer ces messages manuellement dans le dossier « Pourriel » ou « 
                 - Dans la barre de menus de l’application de courriel d’Apple en haut
 de l’écran, cliquez sur __Mail__ , puis sélectionnez __Préférences__.
 
-                - Dans la boîte __Préférences__ , sélectionnez __Courrier indésirable__. Assurez-vous que la case __Filtrer le courrier indésirable__ est cochée. 
-                
-                - Image : ![alt text](tbd.png)
+                - Dans la boîte __Préférences__ , sélectionnez __Courrier indésirable__. Assurez-vous que la case __Filtrer le courrier indésirable__ est cochée.
 
-            - Office 365 [Note 4](#note-4) 
+                - Image : ![Image n'est pas disponible](/images/FR_Utiliser_le_Courriel_03.png)
+
+            - Office 365 [Note 4](#note-4)
 
                 - Pour ouvrir la page __Courrier indésirable__ à partir de la page principale
 d’Outlook Web App, sélectionnez __Options__ dans le coin supérieur, puis sélectionnez __Courrier indésirable__ dans la liste du volet de navigation.
@@ -402,9 +402,9 @@ de fournir ou de mettre à jour vos renseignements personnels;
 
          - Réfléchissez avant de cliquer sur une pièce jointe ou un lien.
 
-        - Vérifiez manuellement les URL des hyperliens en plaçant votre curseur dessus (cette pratique est dangereuse et déconseillée). 
-        
-        - Image : ![alt text](tbd.png)
+        - Vérifiez manuellement les URL des hyperliens en plaçant votre curseur dessus (cette pratique est dangereuse et déconseillée).
+
+        - Image : ![Image n'est pas disponible](/images/FR_Utiliser_le_Courriel_04.png)
 
 
         - Règle générale, vous n’êtes pas obligé de cliquer sur un lien contenu dans un courriel. Si c’est important, vous pouvez vous rendre sur le site Web de l’expéditeur
@@ -465,20 +465,20 @@ Serveur|Ordinateur transmettant de l’information ou exécutant des fonctions p
 
 
 
-##### Note 1 
+##### Note 1
  [What Is Spear Phishing?](http://www.trendmicro.com/cloud-content/us/pdfs/security-intelligence/white-papers/wp-spear-phishing-email-most-favored-apt-attack-bait.pdf)
 
-##### Note 2 
+##### Note 2
  [Bloquer ou débloquer le téléchargement automatique d’images](https://support.office.com/fr-fr/article/Bloquer-ou-d%C3%A9bloquer-le-t%C3%A9l%C3%A9chargement-automatique-d-images-dans-les-messages-%C3%A9lectroniques-15e08854-6808-49b1-9a0a-50b81f2d617a?ui=fr-FR&rs=fr-FR&ad=FR)
 
-##### Note 3 
+##### Note 3
  [LE POURRIEL : QU'EN EST-IL?](http://fightspam.gc.ca/eic/site/030.nsf/fra/00303.html#ic-subnav-2)
 
-##### Note 4 
+##### Note 4
  [À propos du filtre Courrier indésirable](https://support.office.com/fr-fr/article/%C3%80-propos-du-filtre-courrier-ind%C3%A9sirable-5ae3ea8e-cf41-4fa0-b02a-3b96e21de089)
 
-##### Note 5 
+##### Note 5
  [Options > Courrier indésirable](https://support.office.com/fr-fr/article/Options-Courrier-ind%C3%A9sirable-068FA430-F8D7-4518-A8DA-8BC74958F05F?ui=fr-FR&rs=fr-)
 
-##### Note 6 
+##### Note 6
  [Personnaliser les paramètres de filtre antispam](https://support.google.com/a/answer/2368132?hl=fr)
