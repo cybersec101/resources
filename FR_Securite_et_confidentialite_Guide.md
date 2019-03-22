@@ -474,7 +474,7 @@ Verrouillage de l’écran|Barrière	prévenant l’accès aux fonctions	d’un	
  http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.412.3289&rep=rep1&type=pdf
  -->
 
-[Une liste d'antivirus malhonnêtes sur wikipedia] (https://en.wikipedia.org/wiki/List_of_rogue_security_software)
+[Une liste d'antivirus malhonnêtes sur wikipedia](https://en.wikipedia.org/wiki/List_of_rogue_security_software)
 
 ##### Note 8
  [Pour	voir	une	comparaison	de	la	performance](www.av-comparatives.org/wp-content/uploads/2015/11/avc_per_201510_en.pdf)
