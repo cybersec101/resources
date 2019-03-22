@@ -37,7 +37,7 @@ Internet	regorge	de	menaces,	lesquelles	peuvent	prendre	plusieurs	formes.	Le	sim
 d’en	connaître	les	plus	communes	peut	aider	à	éviter	des	dangers	et,	plus	important	encore,
 à en atténuer les conséquences.
 
-	
+
 
 - Publicité
 
@@ -85,7 +85,7 @@ de	confiance.
 les	sites	Web	de	bandeaux	publicitaires	et	de	compteur	de	 visiteurs,	d’intégrer	la	publicité
 aux	réseaux	sociaux,	et	bien	plus	encore.
 
-	
+
 	- Ils	suscitent	toutefois	des	questionnements	quant	à	la	protection	de	la	vie	privée.
 
 	- Les	fournisseurs	de	services	tiers donnent la possibilité	aux	annonceurs	de	surveiller vos habitudes de navigation	à	partir	de	nombreux	sites, puis d’adapter la publicité en conséquence.
@@ -111,9 +111,9 @@ malveillantes	ou	encore	installer	d’autres	programmes	malveillants.
 			- Ces	pages	Web	peuvent	être	créées	par	des	criminels	ou	être	des	pages
 authentiques	qui	ont	été	attaquées.
 
-			- Toutefois,	99 %	des	pages	Web	sont	sûres.
+			- Toutefois,	la plupart	des	pages	Web	sont	sûres.
 
-	
+
 
 
 - Typosquattage
@@ -151,26 +151,26 @@ __exemple.com__ :
 
   <tr>
     <th>Adresse URL typosquattée</th>
-    <th>Type d’erreur</th> 
+    <th>Type d’erreur</th>
     <th></th>
   </tr>
-  
+
   <tr>
     <td>xample.com, example.com, xemple.com</td>
     <td>Faute	de	frappe</td>
     <td rowspan="3">MISE	EN	GARDE :	Ne visitez	aucun	de ces sites. Certains contiennent des programmes	malveillants.</td>
   </tr>
-  
+
   <tr>
     <td>example.org, example.biz, example.info, example.ca</td>
     <td>Domaine différent (suffixe)</td>
-   
+
   </tr>
   <tr>
     <td>example.cm</td>
     <td>Domaine semblable (suffixe)</td>   
   </tr>
-  
+
 </table>
 
 
@@ -203,7 +203,7 @@ directement une vulnérabilité.
 
 		- Modification	du	code	binaire
 
-			- L’attaquant	réécrit	une	partie	du	code	d’un	fichier	exécutable	pour	y	
+			- L’attaquant	réécrit	une	partie	du	code	d’un	fichier	exécutable	pour	y
 introduire	un	programme	malveillant	ou	perpétrer	d’autres	actes	malveillants.
 
 
@@ -249,7 +249,7 @@ de	ces	«	participants	».
 - Ce	type	d’attaque	consiste	à	empêcher	l’utilisateur	de	se	servir	de	ses	plus
 récents	(et	plus	sûrs)	protocoles	ou	capacités.
 
-	
+
 
 - Hameçonnage
 
@@ -304,7 +304,7 @@ Servez-vous-en,	mais	faites	preuve	de	jugement;	votre	expérience	n’en	sera	qu
 
 #### 2.2 En détail
 
-	
+
 - Lorsque	vous	naviguez	sur	le	 Web,	pensez	aux	points	suivants	:
 
 	- Ne	faites	confiance	qu’aux	icônes	et	aux	repères	propres	au	navigateur,	PAS	à	ceux	qui	font
@@ -353,27 +353,27 @@ au	sérieux.	Vérifiez	l’URL	de	nouveau	et	assurez-vous	que	c’est	bien	la	bo
 
 
 
-		- Le	filtre	d’hameçonnage	peut	vous aider à	 vous	protéger	de	l’hameçonnage, de	la	fraude	en	ligne	et	des	faux	sites	Web. 
-		
-		- Image : ![alt text](tbd.png "Optional Title") 
+		- Le	filtre	d’hameçonnage	peut	vous aider à	 vous	protéger	de	l’hameçonnage, de	la	fraude	en	ligne	et	des	faux	sites	Web.
+
+		- Image : ![alt text](tbd.png "Optional Title")
 
 
 
 		- _Image1:Barre d’adresse d’Internet Explorer avec un avertissement d’hameçonnage_
-		
+
 		- Le	mode	protégé	peut	aider à protéger votre ordinateur	des	sites	qui	tenteraient d’installer	des	programmes	malveillants	ou	d’enregistrer	des	fichiers	sur	votre ordinateur à votre insu.
-		
-		- _Image 2 : Indicateur d’état du mode protégé_ ![alt text](tbd.png "Optional Title") 
-			
+
+		- _Image 2 : Indicateur d’état du mode protégé_ ![alt text](tbd.png "Optional Title")
+
 			- Indicateur	d’état	du	mode	protégé
 				- Plus	le	niveau	de	sécurité	est	élevé,	plus	vous	êtes	susceptible	d’être à	l’abri	des	pirates	informatiques	et	des	attaques.
 				- La	barre	d’état	affiche	l’identité	des	sites	sécurisés	pour	éclairer	vos décisions	lorsque	vous	faites	des	transactions	sur	le	 Web.	De	plus, comme	Internet Explorer	prend	désormais	en	charge	les	certificats EV, les	propriétaires	des	sites	Web	y	sont	encore	mieux	identifiés.
 
 
 		- _Image 3 : Barre d’état (côté droit de la barre d’adresse)_![alt text](tbd.png "Optional Title")
-			
+
 			- Barre	d’état	d’Internet	Explorer	(côté	droit	de	la	barre	d’adresse)
-				
+
 				- Lorsque	vous	visitez	un	site	Web	sécurisé,	la	couleur	de	la	barre	d’état vous	indique	si	le	certificat	de	sécurité	est	valide	ou	non	ainsi	que	le niveau	de	la	validation	effectuée	par	l’organisme	de	certification.
 
 
@@ -402,7 +402,7 @@ Vert|Le	certificat	profite	d’une	validation étendue. Cela	signifie que la com
 	- Lorsque	vous	vous	connectez	à	un	site	Web	chiffré	dans	Safari,	vous	verrez, dans	la	barre	d’outils,	une	icône	de	cadenas	verte	à	côté	du	nom	de	l’entreprise à	laquelle	vous	vous	êtes	connecté	(p.	ex.,	Apple	Inc.).
 
 		- Si	 vous	cliquez	sur	l’icône,	une	boîte	de	dialogue	avec	le	message «	 Safari	utilise	une	connexion	chiffrée	à	www.icloud.com	»	s’affichera. Ce	message	indique	que	la	connexion	est	sécurisée.
-		
+
 		- _Image 4 : Connexion à un site sécurisé dans Safari_ ![alt text](tbd.png "Optional Title")
 
 
@@ -421,11 +421,11 @@ le site en question [Note 3](#note-3).
 
 
 	- Un	des	indicateurs	de	sécurité	le	plus	important	dans	Google	Chrome	est	situé dans	la	barre	d’adresse.	On	appelle	cette	barre	omnibox,	car	elle	peut	aussi	servir de	champ	de	recherche.
-	
+
 	- _Image 6 : L’omnibox de Chrome_ ![alt text](tbd.png "Optional Title")
 
 		- La	première	chose	à	noter	est	le	nom	de	domaine	du	site.	Celuici	indique	le site	Web	actuellement	affiché	dans	l’onglet.	Il	est	d’une	couleur	légèrement plus	foncée	que	le	reste.	Par	exemple,	sur	l’image	ci-dessus,	le	nom	de domaine est __www.google.com__.
-			
+
 			- Vérifiez	si	le	nom	de	domaine	indiqué	est	bien	celui	que	vous	voulez.
 Si	ce	n’est	pas	le	cas,	vous	avez	peut-être	affaire	à	un	faux	site	Web.
 
@@ -477,10 +477,10 @@ prudence [Note 4](#note-4).
 				- _Image 7 : Certificat de validation étendue de PayPal_ ![alt text](tbd.png)
 
 				- Le	certificat	EV	permet	au	navigateur de déterminer le nom de	l’organisation	exploitant	le	site Web.
-				
+
 				- L’indicateur	de	certificat	EV	vous	permet de savoir quelle organisation	gère	la	page	affichée.	Par	exemple,	pour	le	site	Web www.benefitaccess.com/,	on	aperçoit	Citigroup Inc. [US] [Note 5](#note-5).
 
-				
+
 
 
 
@@ -536,7 +536,7 @@ votre	confidentialité	n’est	pas	garantie.
 			- Google	Chrome
 
 
-				- Cliquez	sur ![alt text](tbd.png)	
+				- Cliquez	sur ![alt text](tbd.png)
 
 				- Sélectionnez	 __Paramètres__.
 
@@ -620,7 +620,7 @@ le Mac.
 			- Android
 
 
-				- Ouvrez	Google	Chrome ![alt text](tbd.png)	
+				- Ouvrez	Google	Chrome ![alt text](tbd.png)
 
 				- Appuyez	sur ![alt text](tbd.png)
 
@@ -644,7 +644,7 @@ où	le	risque	est	très	élevé.
 
 			- Google	Chrome
 
-				- Cliquez	sur ![alt text](tbd.png)	
+				- Cliquez	sur ![alt text](tbd.png)
 
 				- Dans	le	bas	de	la	page,	cliquez	sur	Afficher	les	 _**paramètres avancés**_...
 
@@ -872,7 +872,7 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 #### 4.2 En détail
 
-	
+
 
 - Fiez-vous	à	l’exemple	suivant	pour	naviguer	sur 	une	page	et	repérer	les	dangers	potentiels	:
 
@@ -906,7 +906,7 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 		1. L’icône	de	cadenas	verte	confirme	la	présence	d’une	connexion	sécurisée.
 		2. Il	y	a	un	certificat	de	sécurité	provenant	de	l’organisation	qui	est	censée posséder	ce	site.
-		3. Le	nom	de	domaine	est	particulier;	toutefois,	la	boîte	verte	indiquant	le propriétaire	de	la	page	vient	l’appuyer	(live.com	est	une	marque	utilisée	par Microsoft	pour	rassembler	plusieurs	services	comme	Hotmail,	Outlook	et MSN). 
+		3. Le	nom	de	domaine	est	particulier;	toutefois,	la	boîte	verte	indiquant	le propriétaire	de	la	page	vient	l’appuyer	(live.com	est	une	marque	utilisée	par Microsoft	pour	rassembler	plusieurs	services	comme	Hotmail,	Outlook	et MSN).
 
 
 			- À	noter	aussi	l’absence	d’erreur	de	grammaire	et	de	propos	menaçant. ![alt text](tbd.png "Optional Title")
@@ -958,45 +958,45 @@ Témoin|Donnée	enregistrée	dans	un	navigateur et utilisée par	un site Web.
 
 <!--[comment]: # (footnote 1 = original link not working = http://windows.microsoft.com/fr-ca/windows/know-online-transaction-secure#1TC=windows-7)-->
 
-##### Note 1 
+##### Note 1
  [microsoft.com](https://support.microsoft.com/en-us)
 
 <!--[comment]: # (footnote 2 = original link not working = https://support.microsoft.com/en-us/hub/4338813/windows-help)-->
 
-##### Note 2 
+##### Note 2
  [microsoft.com](https://support.microsoft.com/en-us)
 
-##### Note 3 
+##### Note 3
  [Informations concernant la protection des données à l’adresse iCloud.com](https://support.apple.com/fr-ca/HT203126)
 
-##### Note 4 
+##### Note 4
  [Vérifier la sécurité de la connexion d'un site](https://support.google.com/chrome/answer/95617?hl=fr)
 
-##### Note 5 
+##### Note 5
  [Understanding the omnibox for better security](https://chrome.googleblog.com/2010/10/understanding-omnibox-for-better.html)
 
-##### Note 6 
+##### Note 6
  [Activer ou désactiver les cookies](https://support.google.com/accounts/answer/61416?hl=fr)
 
-##### Note 7 
+##### Note 7
  [Supprimer, autoriser et gérer les cookies dans Chrome](https://support.google.com/chrome/answer/95647?hl=fr)
 
 <!--[comment]: # (footnote 8 = had 2 links. this one is not working = http://windows.microsoft.com/fr-ca/windows7/how-to-manage-cookies-in-internet-explorer-9  )-->
 
-##### Note 8 
+##### Note 8
  [Delete and manage cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
 
-##### Note 9 
+##### Note 9
  [Effacer l’historique et les cookies enregistrés dans Safari sur votre iPhone, iPad ou iPod touch](https://support.apple.com/fr-ca/HT201265)
 
-##### Note 10 
+##### Note 10
  [Procédure d’activation de JavaScript dans Windows](https://support.microsoft.com/fr-ca/kb/3135465)
 
-##### Note 11 
+##### Note 11
  [Désactivation du module Web Java dans Safari](https://support.apple.com/fr-ca/HT202447)
 
-##### Note 12 
+##### Note 12
  Nous ne faisons pas la promotion de ces produits. Nous ne les avons pas mis à l’essai.
 
-##### Note 13 
+##### Note 13
  [Disable Flash](https://gizmodo.com/disable-flash-1688209571)

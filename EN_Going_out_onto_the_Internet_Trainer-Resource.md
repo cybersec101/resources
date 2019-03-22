@@ -106,7 +106,7 @@ malicious	actions	or	install	other	malware.
 			- These	pages	could	be	controlled	by	criminals	or	they	might	undermine
 legitimate	webpages.
 
-			- 99%	of	webpages	are	okay.
+			- Most	webpages	are	okay.
 
 
 - Typo-squatting
@@ -921,7 +921,7 @@ dangerous	website.
 
 
 
-		- A	number	of 	clues	on	this	page	show	that	it	is	dangerous.	Two	are	very	clear indicators	(1&2).	Two	are	less	clear	(3&4)	but	add	to	the	assessment.
+		- A	number	of 	clues	on	this	page	show	that	it	is	dangerous.	Two	are	very	clear indicators	(a & b).	Two	are	less	clear	(c & d)	but	add	to	the	assessment.
 
 			1.	 There	is	no	lock	icon	or	green	in	the	address	box.	This	tells	us	that	the	page	is not	using	a	secure	connection	and	that	there	is	no	certificate.	We	expect	that our	outlook.com	page	would	have	both.
 
