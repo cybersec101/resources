@@ -285,21 +285,14 @@ si vous ne portez pas votre ceinture.
 	- Il	n’est	pas	possible	de	recommander	un	produit	spécifique,	mais	il	existe	une	liste	de ce qu’il ne faut pas acheter. De nombreuses applications prétendent être des antivirus,
     mais	ne	sont	en	réalité	que	des	arnaques	ou	des	virus	eux-mêmes.
 
-
 [comment]: # (the footnote 7 was after the word: eux-mêmes. original links not working = http://asafercomputer.co.uk/?q=Library)
 
-
 	- Lorsque vous achetez un logiciel de sécurité, vous achetez à la fois un produit et un service.
-
-		- Sur Internet, les menaces et les programmes malveillants changent sans
-cesse. Votre logiciel de sécurité doit donc être capable de s’adapter pour
-bien vous protéger.
-
-			- L’entreprise qui vous vend le logiciel de sécurité doit le mettre
+	- Sur Internet, les menaces et les programmes malveillants changent sans cesse. Votre logiciel de sécurité doit donc être capable de s’adapter pour bien vous protéger.
+		- L’entreprise qui vous vend le logiciel de sécurité doit le mettre
     à jour constamment.
 
 		- Les modalités d’abonnement varient d’un produit à l’autre.
-
 
 		- Informez-vous	de	la	durée	de	l’abonnement	et	du	nombre d’appareils protégés.
 
