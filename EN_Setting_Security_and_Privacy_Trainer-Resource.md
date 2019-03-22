@@ -109,7 +109,7 @@ for **_Spotlight Suggestions_** and **_Bing Web Searches_**.
 	 					- You	can	manually	set your location for weather	applications.
 
 	 					- If you choose to have some applications access your location automatically,	uncheck the other applications,	click	on	the system	services button and uncheck	the	 **_Safari_** and **_Spotlight Suggestions_** option.
-	 					- : ![Image Missing](/images/Setting_Security_and_Privacy_01.png "Setting Spotlight Suggestions")
+	 					- : ![Image Missing](/images/EN_Setting_Security_and_Privacy_01.png "Setting Spotlight Suggestions")
 
 
 	 				- Disable	automatic	web	searches.
@@ -217,7 +217,7 @@ this	option.
 				- Android
 
 
-					- Open	your	device's	 **_Settings_** app ![Image Missing](/images/Setting_Security_and_Privacy_02.png). Scroll	down	and	touch Security.	Touch	 **_Screen lock_**.
+					- Open	your	device's	 **_Settings_** app ![Image Missing](/images/EN_Setting_Security_and_Privacy_02.png). Scroll	down	and	touch Security.	Touch	 **_Screen lock_**.
 
 						- If 	you	already	set	a	lock,	enter	the	pattern,	PIN	or	password before	choosing	a	different	lock.
 
