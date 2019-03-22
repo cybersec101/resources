@@ -393,7 +393,7 @@ DO	have	offline	conversations	about	online	behaviour
  [Offences Against Rights of Property](https://www.laws-lois.justice.gc.ca/eng/acts/C-46/page-73.html#h-93)
 
 ##### Note 5
- For videos and lessons discussing how hate speech after 9/11 affects those of Arab descent, middle easterners and Muslims see: [Le cyberautre](http://projectsomeone.ca/fr/theonlineother)
+ For videos and lessons discussing how hate speech after 9/11 affects those of Arab descent, middle easterners and Muslims see: [The Online Other](https://projectsomeone.ca/theonlineother)
 
 ##### Note 6
  For a discussion on free speech: [Witherspoon](https://www.huffingtonpost.com/entry/free-speech-or-hate-speech-where-do-we-drawthe-line_us_5970df19e4b0f68541cd6316),2017. The Canadian Human Rights Commission (2016) have a [guide](cdpdj.qc.ca/Publications/Charte_simplifiee_EN.pdf) to help understand your rights.
