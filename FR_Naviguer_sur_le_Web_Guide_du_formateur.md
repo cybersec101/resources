@@ -355,22 +355,25 @@ au	sérieux.	Vérifiez	l’URL	de	nouveau	et	assurez-vous	que	c’est	bien	la	bo
 
 		- Le	filtre	d’hameçonnage	peut	vous aider à	 vous	protéger	de	l’hameçonnage, de	la	fraude	en	ligne	et	des	faux	sites	Web.
 
-		- Image : ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_01.png "Optional Title")
+		-  ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_01.png "Optional Title")
 
 
 
-		- _Image1:Barre d’adresse d’Internet Explorer avec un avertissement d’hameçonnage_
+		- _Image :Barre d’adresse d’Internet Explorer avec un avertissement d’hameçonnage_
 
 		- Le	mode	protégé	peut	aider à protéger votre ordinateur	des	sites	qui	tenteraient d’installer	des	programmes	malveillants	ou	d’enregistrer	des	fichiers	sur	votre ordinateur à votre insu.
 
-		- _Image 2 : Indicateur d’état du mode protégé_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_02.png "Optional Title")
+		- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_02.png "Optional Title")
+
+		- _Image : Indicateur d’état du mode protégé_
 
 			- Indicateur	d’état	du	mode	protégé
 				- Plus	le	niveau	de	sécurité	est	élevé,	plus	vous	êtes	susceptible	d’être à	l’abri	des	pirates	informatiques	et	des	attaques.
 				- La	barre	d’état	affiche	l’identité	des	sites	sécurisés	pour	éclairer	vos décisions	lorsque	vous	faites	des	transactions	sur	le	 Web.	De	plus, comme	Internet Explorer	prend	désormais	en	charge	les	certificats EV, les	propriétaires	des	sites	Web	y	sont	encore	mieux	identifiés.
 
+		- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_03.png "Optional Title")
 
-		- _Image 3 : Barre d’état (côté droit de la barre d’adresse)_![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_03.png "Optional Title")
+		- _Image : Barre d’état (côté droit de la barre d’adresse)_
 
 			- Barre	d’état	d’Internet	Explorer	(côté	droit	de	la	barre	d’adresse)
 
@@ -403,7 +406,9 @@ Vert|Le	certificat	profite	d’une	validation étendue. Cela	signifie que la com
 
 		- Si	 vous	cliquez	sur	l’icône,	une	boîte	de	dialogue	avec	le	message «	 Safari	utilise	une	connexion	chiffrée	à	www.icloud.com	»	s’affichera. Ce	message	indique	que	la	connexion	est	sécurisée.
 
-		- _Image 4 : Connexion à un site sécurisé dans Safari_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_04.png "Optional Title")
+		- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_04.png "un site sécurisé dans Safari")
+
+		- _Image 4 : Connexion à un site sécurisé dans Safari_
 
 
 
@@ -412,17 +417,18 @@ Vert|Le	certificat	profite	d’une	validation étendue. Cela	signifie que la com
 ne	tentez	pas	de	vous	connecter	ou	de	poursuivre	votre	navigation	sur
 le site en question [Note 3](#note-3).
 
+			- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_05.png "Site	non	sécurisé	dans	Safari")
 
-
-
-			- _Image	5	:	Site	non	sécurisé	dans	Safari_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_05.png "Optional Title")
+			- _Image	:	Site	non	sécurisé	dans	Safari_
 
 - Chrome
 
 
 	- Un	des	indicateurs	de	sécurité	le	plus	important	dans	Google	Chrome	est	situé dans	la	barre	d’adresse.	On	appelle	cette	barre	omnibox,	car	elle	peut	aussi	servir de	champ	de	recherche.
 
-	- _Image 6 : L’omnibox de Chrome_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_06.png "Optional Title")
+	- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_06.png "L’omnibox de Chrome")
+
+	- _Image : L’omnibox de Chrome_
 
 		- La	première	chose	à	noter	est	le	nom	de	domaine	du	site.	Celuici	indique	le site	Web	actuellement	affiché	dans	l’onglet.	Il	est	d’une	couleur	légèrement plus	foncée	que	le	reste.	Par	exemple,	sur	l’image	ci-dessus,	le	nom	de domaine est __www.google.com__.
 
@@ -474,7 +480,9 @@ prudence [Note 4](#note-4).
 
 
 			- Certificat	de	validation	étendue	(EV) (voir l’adresse Web	et	la	boîte verte	qui	englobe	l’icône du cadenas sur l’image	ci-dessous).
-				- _Image 7 : Certificat de validation étendue de PayPal_ ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_12.png)
+
+				- ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_12.png)
+				- _Image : Certificat de validation étendue de PayPal_
 
 				- Le	certificat	EV	permet	au	navigateur de déterminer le nom de	l’organisation	exploitant	le	site Web.
 
@@ -671,22 +679,11 @@ où	le	risque	est	très	élevé.
 
 				- Cliquez	sur _**OK**_ 	dans	le	bas	de	la	fenêtre	des	options	Internet	pour fermer	la	boîte	de	dialogue [Note 10](#note-10).
 
-
-
-
-
-
 			- Apple	Safari
+				- Dans	le	menu	de	Safari,	cliquez	sur Préférences . Dans	la	sous-fenêtre Sécurité ,	activez JavaScript.
+		- Java
 
-
-
-- Dans	le	menu	de	Safari,	cliquez	sur Préférences . Dans	la	sous-fenêtre Sécurité ,	activez JavaScript.
-
-[comment]: # (exemple unexpected formating)
-
-	- Java
-
-		- Il	faut	distinguer	Java	de	JavaScript.	Java	est	un	outil	qui	permet
+			- Il	faut	distinguer	Java	de	JavaScript.	Java	est	un	outil	qui	permet
 aux	programmeurs	d’écrire	des	logiciels	sur	une	plateforme.
 
 			- Il	est	fort	pratique	pour	les	programmeurs;	ces	derniers	n’ont	pas	à écrire	une	version	de	leur	programme	pour	chaque	type	d’ordinateur.
@@ -694,49 +691,45 @@ aux	programmeurs	d’écrire	des	logiciels	sur	une	plateforme.
 
 			- Il	aussi	très	pratique	pour	les	développeurs	de	programmes malveillants.
 
-		- Java	n’est	pas	nécessaire	pour	la	majorité	des	opérations	sur	un	ordinateur;
+			- Java	n’est	pas	nécessaire	pour	la	majorité	des	opérations	sur	un	ordinateur;
 il	vaut	donc	mieux	de	le	désactiver.
 
 
-		- Il	se	peut	que	vous	n’ayez	pas	Java	sur	votre	ordinateur.	Si	vous	l’avez, vous	pouvez	le	désactiver	en	deux	étapes.
+			- Il	se	peut	que	vous	n’ayez	pas	Java	sur	votre	ordinateur.	Si	vous	l’avez, vous	pouvez	le	désactiver	en	deux	étapes.
 
 
-			- Étape 1	(Trouver	le	panneau	de	configuration	de	Java)
+				- Étape 1	(Trouver	le	panneau	de	configuration	de	Java)
 
-				- Windows
+					- Windows
 
-					- Lancez	le	menu	 **_Démarrer_**.
-					- Cliquez	sur **_Programmes_**.
-					- Trouvez	 **_Java_** 	dans	la	liste	des	programmes.
-					- Cliquez	sur **_Configurer Java_** 	pour	ouvrir	le	 _**Panneau de configuration Java**_.
-
-
-				- Windows	(versions	antérieures)
-
-					- Utilisez	l’option	de	recherche	pour	trouver	le	panneau de	configuration.
-
-					- Sur	le	clavier,	appuyez	sur	la	touche	logo	de	Windows	+	W pour	ouvrir	le	champ	de	recherche.
-
-						OU
-
-					- Placez	le	pointeur	de	la	souris	dans	le	coin	inférieur	droit de	l’écran,	puis	cliquez	sur	l’icône	de	recherche.
-
-					- Dans	le	champ	de	recherche,	inscrivez	«	Panneau de	configuration	Java	».
-
-					- Cliquez	sur	l’icône	Java	pour	ouvrir	le	panneau de	configuration.
+						- Lancez	le	menu	 **_Démarrer_**.
+						- Cliquez	sur **_Programmes_**.
+						- Trouvez	 **_Java_** 	dans	la	liste	des	programmes.
+						- Cliquez	sur **_Configurer Java_** 	pour	ouvrir	le	 _**Panneau de configuration Java**_.
 
 
-				- Mac	OS
+					- Windows	(versions	antérieures)
 
-					- Cliquez	sur	l’icône	d’Apple	dans	le	coin	supérieur	gauche de	l’écran.
+						- Utilisez	l’option	de	recherche	pour	trouver	le	panneau de	configuration.
 
-					- Allez	à	 **_Préférences Système_**.
+						- Sur	le	clavier,	appuyez	sur	la	touche	logo	de	Windows	+	W pour	ouvrir	le	champ	de	recherche.
 
-					- Cliquez	sur	l’icône	Java	pour	ouvrir	le	panneau	de configuration	Java[Note 11](#note-11).
+						*OU*
+
+						- Placez	le	pointeur	de	la	souris	dans	le	coin	inférieur	droit de	l’écran,	puis	cliquez	sur	l’icône	de	recherche.
+
+						- Dans	le	champ	de	recherche,	inscrivez	«	Panneau de	configuration	Java	».
+
+						- Cliquez	sur	l’icône	Java	pour	ouvrir	le	panneau de	configuration.
 
 
+					- Mac	OS
 
+						- Cliquez	sur	l’icône	d’Apple	dans	le	coin	supérieur	gauche de	l’écran.
 
+						- Allez	à	 **_Préférences Système_**.
+
+						- Cliquez	sur	l’icône	Java	pour	ouvrir	le	panneau	de configuration	Java[Note 11](#note-11).
 
 
 			- Étape 2	(Désactiver	Java	–	identique	pour	Windows	et	Mac	OS)
@@ -893,10 +886,10 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 
 	- Plusieurs	indices	sur	la	page	ci-dessus indiquent qu’elle	est	dangereuse. Deux	d’entre	eux sont très évidents	(1 et 2).	Les	deux	autres	le	sont un peu moins (3 et 4),	mais	viennent	appuyer	les	premiers.
-		1. Il	n’y 	a	pas	d’icône	de	cadenas ni de vert dans	la	barre	d’adresse.	Cela	indique que la page n’utilise	pas	de	connexion	sécurisée	et	ne présente aucun certificat	de	sécurité.	La	page	outlook.com devrait avoir	les	deux.
-		2. Le	nom	de	domaine	n’appartient pas	à	Microsoft.	En	effet,	«	native-adventure. com	»	n’est	pas	ce	qu’on	devrait	voir.	Cela	nous	indique	que	la	page	est probablement	fausse	et	qu’elle	sert	à	de	l’hameçonnage.
-		3. Propos	menaçants.	Il	n’est	pas	normal	pour	les	entreprises	authentiques	de menacer	les	clients	de	désactiver	leur	compte.
-		4. Grammaire	de	piètre	qualité.	Il	est	très	peu	probable	qu’une	grande entreprise	comme	Microsoft	publie	du	contenu	mal	rédigé.
+		_1_: Il	n’y 	a	pas	d’icône	de	cadenas ni de vert dans	la	barre	d’adresse.	Cela	indique que la page n’utilise	pas	de	connexion	sécurisée	et	ne présente aucun certificat	de	sécurité.	La	page	outlook.com devrait avoir	les	deux.
+		_2_: Le	nom	de	domaine	n’appartient pas	à	Microsoft.	En	effet,	«	native-adventure. com	»	n’est	pas	ce	qu’on	devrait	voir.	Cela	nous	indique	que	la	page	est probablement	fausse	et	qu’elle	sert	à	de	l’hameçonnage.
+		_3_: Propos	menaçants.	Il	n’est	pas	normal	pour	les	entreprises	authentiques	de menacer	les	clients	de	désactiver	leur	compte.
+		_4_: Grammaire	de	piètre	qualité.	Il	est	très	peu	probable	qu’une	grande entreprise	comme	Microsoft	publie	du	contenu	mal	rédigé.
 
 
 
@@ -904,9 +897,9 @@ des	pages	Web,	aux	indicateurs	de	sécurité	et	aux	messages	d’avertissement	l
 
 
 
-		1. L’icône	de	cadenas	verte	confirme	la	présence	d’une	connexion	sécurisée.
-		2. Il	y	a	un	certificat	de	sécurité	provenant	de	l’organisation	qui	est	censée posséder	ce	site.
-		3. Le	nom	de	domaine	est	particulier;	toutefois,	la	boîte	verte	indiquant	le propriétaire	de	la	page	vient	l’appuyer	(live.com	est	une	marque	utilisée	par Microsoft	pour	rassembler	plusieurs	services	comme	Hotmail,	Outlook	et MSN).
+		_1_: L’icône	de	cadenas	verte	confirme	la	présence	d’une	connexion	sécurisée.
+		_2_: Il	y	a	un	certificat	de	sécurité	provenant	de	l’organisation	qui	est	censée posséder	ce	site.
+		_3_: Le	nom	de	domaine	est	particulier;	toutefois,	la	boîte	verte	indiquant	le propriétaire	de	la	page	vient	l’appuyer	(live.com	est	une	marque	utilisée	par Microsoft	pour	rassembler	plusieurs	services	comme	Hotmail,	Outlook	et MSN).
 
 
 			- À	noter	aussi	l’absence	d’erreur	de	grammaire	et	de	propos	menaçant. ![Image n'est pas disponible](/images/FR_Naviguer_sur_le_web_21.png "Optional Title")
