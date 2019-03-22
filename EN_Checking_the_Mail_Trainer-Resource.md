@@ -1,7 +1,7 @@
 #Checking the mail
 
 
-This document is a reference and preparation sheet for the trainer,and a companion to the lesson plan.
+This document is a reference and preparation sheet for the trainer, and a companion to the lesson plan.
 
 The Learning Objectives summarize the knowledge that learners should have gained by the time they reach the end of the module.
 
@@ -164,7 +164,7 @@ for email to transfer malware to people or to guide people to malicious web page
 
 		- When you do turn it off, you will not see everything in a lot of emails. This doesn’t mean that anything is broken.
 
-			- Image : ![alt text](tbd.png "Optional Title")
+			- Image : ![Blocked Images](images/EN_Checking_the_Mail_1.png "Missing Images")
 
 			- Email with blocked remote content
 
@@ -175,7 +175,7 @@ for email to transfer malware to people or to guide people to malicious web page
 			- On the preferences box select the Viewing options.
 Uncheck the option to Load remote content in messages.
 
-				- Image : ![alt text](tbd.png "Optional Title")
+				- Image : ![Preferences](images/EN_Checking_the_Mail_2.png "Preferences")
 
 
 		- **_Gmail_**
@@ -342,7 +342,7 @@ from the junk/spam folder manually.
 				- In the **_Preferences_** box, select the **_Junk Mail_** options. Make sure that
 Enable junk mail filtering is checked.
 
-					- Image : ![alt text](tbd.png "Optional Title")
+					- Image : ![Preferences](images/EN_Checking_the_Mail_3.png "Preferences")
 
 
 			- Microsoft Outlook
@@ -415,7 +415,7 @@ by that business[Note 7](#note-7);
 
 		- Manually check the URLs behind email hyperlinks by hovering the mouse over them (This is dangerous and is not to be recommended).
 
-			- Image : ![alt text](tbd.png "Optional Title")
+			- Image : ![Mouse Hovering](images/EN_Checking_the_Mail_4.png "Mouse Hovering")
 
 		- As a rule there is no reason you should ever have to click on a link in an email. If it seems important you can visit the sender’s website by typing the URL yourself or just call them.
 
