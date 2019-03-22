@@ -85,7 +85,6 @@ have, such as a phone number or a unique device.
 		- Currently, passwords are the least worst option for most of the Internet and the
 main way of proving who you are [Note 2](#note-2).
 
-
 			- Passwords are sometimes referred to as passphrases.
 
 				- Passphrases differ from passwords only in length.
