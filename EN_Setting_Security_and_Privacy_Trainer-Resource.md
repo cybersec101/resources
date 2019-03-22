@@ -261,8 +261,7 @@ Security	software	helps	manage	your	security.	It	is	sold	as	a	subscription	that	
 - Electronics	and	office	supplies	retailers often have a large	choice	of	security	software.
 
 	- There	is	no	good	way 	of 	recommending	which	product	to	buy,	but	there	is	a	list	of	what	not
-to	buy.	Many	applications	claim	to	be	anti-virus	software	but	are	actually	scams	or	viruses [Note 7](#note-7)
-themselves.
+to	buy.	Many	applications	claim	to	be	anti-virus	software	but	are	actually	scams	or	viruses [Note 7](#note-7).
 	- When	buying	security	software,	you	are	buying	a	service	as	much	as	you	are	buying a	product.
 
 		- Threats	and	malware	on	the	Internet	change	constantly.	Your	security	software
