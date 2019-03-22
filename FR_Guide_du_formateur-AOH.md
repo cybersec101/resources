@@ -1,14 +1,14 @@
 # Aborder le discours haineux en ligne
 
 
-Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
+_Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
 
 Les connaissances que l’apprenant doit avoir acquises au terme du module se trouvent dans la section « Objectifs d’apprentissage ».
 
 La section « Contexte et détail pour le formateur » contient
 quant à elle une description du contenu ainsi que des liens
 vers des références permettant au formateur d’en apprendre
-plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière. Par ailleurs, chaque élément de la section « Contexte et détail pour le formateur » vient étayer une partie du scénario.
+plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière. Par ailleurs, chaque élément de la section « Contexte et détail pour le formateur » vient étayer une partie du scénario._
 
 ### Objectifs d’apprentissage
 
@@ -45,7 +45,7 @@ discrimination.
 
 
 
-		- Les	2e	et	15e	articles	de	la	Charte	canadienne	des	droits	et	libertés [Note 2](#note-2).	
+		- Les	2e	et	15e	articles	de	la	Charte	canadienne	des	droits	et	libertés [Note 2](#note-2).
 
 
 
@@ -238,7 +238,7 @@ différents	outils	des	médias	en	ligne	sont	utilisés	pour	répandre	le	discour
 
 	- Le	Rapporteur	Spécial	du	Conseil	des	Droits	de	l'homme	sur	les	questions	minoritaires s'est	dit	«	préoccupé	par	la	généralisation	de	la	désinformation,	des	discours	de	haine	et l'incitation	à	la	violence,	à	la	discrimination	et	à	l'hostilité	dans	les	organes	de	presse	et	sur Internet,	qui	ciblaient	tout	particulièrement	les	communautés	musulmanes	» [Note 9](#note-9).
 
-	
+
 
 
 
@@ -446,7 +446,7 @@ de	préjugés	et	de	stéréotypes;
 
 			- «[Racines	de	l'empathie](https://frcan.rootsofempathy.org/)»	enseigne	comment	être	des	citoyens	socialement compétents.
 
-			- 	«	[Qui	suis-je?](https://www.commonsense.org/education/app/who-am-i-race-awareness-game)	»	est	un	jeu	de	course	en	ligne	de	sensibilisation	aux	discours haineux,	destiné	aux	enfants	
+			- 	«	[Qui	suis-je?](https://www.commonsense.org/education/app/who-am-i-race-awareness-game)	»	est	un	jeu	de	course	en	ligne	de	sensibilisation	aux	discours haineux,	destiné	aux	enfants
 
 
 
@@ -503,35 +503,35 @@ Genre|Ensemble	de	caractéristiques	culturellement spécifiques qui se	rapporten
 Propagande|Information	utilisée	pour	promouvoir ou faire connaitre	une idéologie	ou	un	point	de	vue souvent biaisé ou trompeur.
 
 
-##### Note 1 
+##### Note 1
  [La Déclaration universelle des droits de l'homme](http://www.un.org/fr/universal-declaration-human-rights/index.html)
 
-##### Note 2 
+##### Note 2
  [CHARTE CANADIENNE DES DROITS ET LIBERTÉS](https://laws-lois.justice.gc.ca/fra/Const/page-15.html)
 
-##### Note 3 
+##### Note 3
  [Charte des droits et libertés de la personne](http://legisquebec.gouv.qc.ca/fr/showdoc/cs/C-12)
 
-##### Note 4 
+##### Note 4
  [Code criminel canadien](https://laws-lois.justice.gc.ca/fra/lois/C-46/section-319.html)
 
-##### Note 5 
+##### Note 5
  Pour	des	vidéos	et	des	leçons	discutant	la	manière	dont	le	discours	haineux	affecte	les	personnes	d'origine	arabe,	du	Moyen-Orient	et	de confession	musulmane	depuis	les	attentats	du	11	septembre,	voir: [Le cyberautre](http://projectsomeone.ca/fr/theonlineother)
 
-##### Note 6 
- Pour une	discussion	sur	la liberté d'opinion:[Witherspoon (2017)](https://www.huffingtonpost.com/entry/free-speech-or-hate-speech-where-do-we-draw-the-line_us_5970df19e4b0f68541cd6316). La commission des droits	de	la	personne	et	de	la	jeunesse (2016) ont publié un [guide](http://www.cdpdj.qc.ca/Publications/Charte_simplifiee.pdf)	pour	vous	aider à comprendre vos droits 
+##### Note 6
+ Pour une	discussion	sur	la liberté d'opinion:[Witherspoon (2017)](https://www.huffingtonpost.com/entry/free-speech-or-hate-speech-where-do-we-draw-the-line_us_5970df19e4b0f68541cd6316). La commission des droits	de	la	personne	et	de	la	jeunesse (2016) ont publié un [guide](http://www.cdpdj.qc.ca/Publications/Charte_simplifiee.pdf)	pour	vous	aider à comprendre vos droits
 
-##### Note 7 
+##### Note 7
  Pour	de	plus	amples	informations	sur	les	points	de	vue	des	absolutistes	voir:	[Ahmad	(2012)](https://tribune.com.pk/story/439935/freedom-of-expression-where-can-we-draw-the-line/)	et	Meiklejohn	(1961).	The	First	Amendment	is	an	absolute.	The	Supreme	Court	Review,	1961,	245-266	(en anglais)
 
-##### Note 8 
+##### Note 8
  Pour	en	savoir	plus	sur	les	problématiques liées à la liberté d'opinion,	voir:	Barendt,	E.	(2005). Freedom of speech. Oxford	University	Press	(en anglais)
 
-##### Note 9 
+##### Note 9
  Voir	le	Rapport	sur	la	Rapporteuse spéciale sur les questions	relatives	aux	minorités,	Rita Izsak, Nations Unies, 5	janvier	2015,	A/HCR/28/64
 
-##### Note 10 
+##### Note 10
  Voir	le	[Rapport](https://www.ohchr.org/EN/HRBodies/HRC/RegularSessions/Session28/Documents/A_HRC_28_64_Add_1_fr.doc) sur	la	Rapporteuse spéciale sur les questions relatives aux minorités,	Rita Izsak, Nations Unies, 5 janvier 2015, A/HCR/28/64. [Face au discours de haine, les médias doivent réagir](http://europeanjournalists.org/fr/2015/08/12/face-au-discours-de-haine-les-medias-doivent-reagir/)
 
-##### Note 11 
+##### Note 11
  [Hate on Social Media](https://www.safehome.org/resources/hate-on-social-media/)

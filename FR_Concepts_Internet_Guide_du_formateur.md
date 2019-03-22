@@ -1,14 +1,14 @@
 # Concepts Internet
 
 
-Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
+_Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
 
 Les connaissances que l’apprenant doit avoir acquises au terme du module se trouvent dans la section « Objectifs d’apprentissage ».
 
 La section « Contexte et détail pour le formateur » contient
 quant à elle une description du contenu ainsi que des liens
 vers des références permettant au formateur d’en apprendre
-plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière. Par ailleurs, chaque élément de la section « Contexte et détail pour le formateur » vient étayer une partie du scénario.
+plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière. Par ailleurs, chaque élément de la section « Contexte et détail pour le formateur » vient étayer une partie du scénario._
 
 ### Objectifs d’apprentissage
 
@@ -50,20 +50,20 @@ comme	les	livres,	les	magazines,	les	émissions	de	télévision,	les	films,	etc.
 		-  les	outils	de	recherche	en	ligne,	comme	Google	Ngram	Viewer[Note 3](#note-3) et	 Wolfram|Alpha[Note 4](#note-4)
 
 
-	
-	
-	
+
+
+
 - Internet	est	utilisé	par	3,2 	milliards de personnes, dont 2	milliards	proviennent	de	pays en développement[Note 5](#note-5)
 
 
-	
+
 - En	plus	de	ses	usages	bien	connus	comme les courriels, les	tableaux	d’affichage en	direct et les forums, Internet est	de	plus	en	plus	utilisé	pour	naviguer dans	les	médias	sociaux.
 
 	- Aux	États-Unis,	62 %	des	adultes utilisent Facebook, dont	70 %	chaque	jour[Note 6](#note-6)
 
 
 
-	
+
 
 
 - Les	Canadiens	utilisent	généralement	Internet	pour	se	divertir,	lire	les	nouvelles, envoyer	des	courriels	(89 %),	réaliser	des	transactions	bancaires	(69 %)	et	vaquer à	leurs	activités	personnelles	(64 %).	Le	clavardage	vidéo	et	les	jeux	sont	aussi	de plus	en	plus	populaires[Note 7](#note-7).
@@ -88,7 +88,7 @@ Principaux	risques	sur	Internet	:
 
 - Comment	savoir	à	qui	ou	à	quoi	faire	confiance?
 
-	
+
 - Êtes-vous	réellement	la	personne	que	vous	prétendez	être?
 
 #### 2.2 En détail
@@ -132,15 +132,15 @@ qui	a	été	le	tournant	de	sa	mise	en	œuvre.
 les	petits	réseaux	ensemble[Note 9](#note-9).
 
 
-	
+
 - Les	technologies	sous-jacentes	d’Internet	se	composent	en	fait	de	différentes	couches
 de	protocoles	d’exploitation	et	de	normes	communes	travaillant	ensemble	pour	gérer
 des	tâches	aussi	simples	que	le	transfert	d’un	signal	d’un	appareil	à	un	autre,	ou	aussi
 complexes	que	la	gestion	des	services	réseau	d’une	application[Note 10](#note-10).
 
 
-	
-	
+
+
 - Pas	besoin	de	comprendre	tous	les	rouages	d’Internet	pour	l’utiliser.
 
 
@@ -161,7 +161,7 @@ et	IP.
 
 
 
-- Le	routage	se	compare	à	un	système	postal	mondial	géré	par	des	milliards	de	bénévoles	:	
+- Le	routage	se	compare	à	un	système	postal	mondial	géré	par	des	milliards	de	bénévoles	:
 imaginez	l’importance	de	la	confiance.
 
 	- Contrairement	à	une	vraie	enveloppe,	le	protocole	TCP 	ne	scelle	pas	le	paquet	et	n’indique
@@ -199,16 +199,16 @@ Les	fournisseurs	d’accès	Internet	(FAI)	fournissent	une	connexion	à	Internet
 un	service	fixe,	comme	pour	une	maison,	ou	mobile,	comme	pour	un	téléphone	cellulaire
 
 #### 4.2 En détail
- 
+
 
 - Le	Canada	compte	de	nombreux	FAI.
 
 	- Beaucoup	de	FAI	achètent	les	services	de	gros	d’autres	fournisseurs	pour	les	revendre.
 
-	
+
 - Au	Canada,	la	disponibilité	des	infrastructures	matérielles	limite	l’accès	à	Internet.
 
-	
+
 - Il	est	important	de	savoir	comment	les	FAI	se	connectent	au	reste	d’Internet.
 
 	- Dans	le	Grand	Nord	canadien,	les	FAI	se	connectent	aux	signaux	de	l’Angleterre,
@@ -228,7 +228,7 @@ des	points	de	connexion	majeurs	à	l’Asie,	près	de	Seattle,	et	à	l’Europe,
 
 	- Les	messages	échangés	entre	deux	points	de	la	même	ville,	voire	de	la	même	maison, peuvent	passer	par 	un	autre	pays	avant	d’arriver	à	destination.
 
-	
+
 
 
 
@@ -267,12 +267,12 @@ Pour	vous	connecter	en	toute	sécurité, vérifiez que le symbole 3G,	4G	ou	LTE
 
 - Les	connexions	Internet	à	large	bande	permettent	aux	réseaux	à	domicile	de	se	connecter à	Internet.
 
-	
+
 - Les	fonctions	de	sécurité	devraient	être	activées	sur	les	réseaux	à	domicile	sans	fil	(Wi-Fi).
 
 #### 5.2 En détail
 
-	
+
 - Au	Canada,	on	peut	connecter	son	domicile	à	Internet	par	ADSL,	DSL,	câble	de	fibre	optique,
 câble	coaxial	et	accès	fixe	sans	fil.
 
@@ -300,7 +300,7 @@ Internet[Note 17](#note-17).
 
 
 
-	
+
 
 
 
@@ -363,7 +363,7 @@ Il	faut	être	très	prudent	lorsque	l’on	transmet	des	données	sur	ces	réseau
 
 	 - Dans	un	réseau	d’entreprise,	l’entreprise	donne	accès	à	son	réseau	à	un	groupe	restreint d’utilisateurs	dont	elle	tient	un	registre.
 
-	
+
 - Les	réseaux	publics	ont	souvent	peu	de	restrictions	sur	qui	peut	utiliser	le	réseau.
 
 	- Prenons	l’exemple	d’un	café	où	le	mot	de	passe	est	fourni	à	tous	les	clients	ou	écrit sur	un	tableau.
@@ -436,64 +436,64 @@ Station Wi-Fi de base | Appareil	donnant accès à un réseau Wi-Fi,	et	souvent	
 Technologie LTE | Technologie	d’évolution à long terme améliorant	la	prestation de	services	mobiles de quatrième génération.
 Wi-Fi | Ensemble	de	technologies	de	réseautage informatique sans	fil pour	petit	réseau.
 
-##### Note 1 
+##### Note 1
  [The New York Public Library](http://digitalcollections.nypl.org)
 
-##### Note 2 
+##### Note 2
  [Khan Academy](fr.khanacademy.org)
 
-##### Note 3 
+##### Note 3
  [ Google Books 	Ngram Viewer](https://books.google.com/ngrams)
 
-##### Note 4 
+##### Note 4
 	[Wolfram|Alpha](https://www.wolframalpha.com/)
 
-##### Note 5 
+##### Note 5
  International	Telecommunications	Union.	ICT	Facts	&	Figures	[rapport	sur	l’état	d’Internet]	(en	ligne),	Genève,	mai	2015. Sur	Internet	:[ICT Facts Figures 2015](https://www.itu.int/en/ITU-D/Statistics/Documents/facts/ICTFactsFigures2015.pdf).
 
-##### Note 6 
+##### Note 6
  [The Demographics of Social Media Users](http://www.pewinternet.org/2015/08/19/the-demographics-of-social-media-users/)
 
-##### Note 7 
+##### Note 7
  Pour	en	savoir	plus	sur	l’[utilisation	d’Internet	au	Canada](https://cira.ca/factbook/2014/fr/the-canadian-internet.html)
 
-##### Note 8 
+##### Note 8
  [100 milliards	par	année	(en	2013,	aux États-Unis seulement)](http://www.wsj.com/articles/SB990); [160 milliards	par	année (en 2014)](http://www.mcafee.com/ca/resources/reports/rp-economic-impact-cybercrime2.pdf); [7,6 millions par entreprise- en 	2015](http://www8.hp.com/ca/fr/software-solutions/ponemon-cyber-security-report/index.html?jumpid=va_fwvpqe387s)
 
-##### Note 9 
+##### Note 9
  Pour	en	savoir	plus	sur	l’histoire	d’Internet, consulter	les	sites	: [Internet History 1962 to 1992](http://www.computerhistory.org/internethistory/) , [A Brief History of the Internet & Related Networks](http://www.internetsociety.org/internet/what-internet/history-internet/brief-history-internet-related-networks)	et [nternet History Timeline](http://www.livescience.com/20727-internet-history.html).
 
-##### Note 10 
+##### Note 10
  Ces	couches	sont	illustrées	dans	le modèle de référence	d’interconnexion	de	systèmes	ouverts (OSI). Pour avoir	un	aperçu	des	couches, consulter	le site :	[The OSI Model](http://cisco.8bits.ca/osi/) ;	[Windows Network Architecture and the OSI Model](https://support.microsoft.com/fr-ca/kb/103884).
 
-##### Note 11 
+##### Note 11
  [TCP-IP	Explained - vidéo](https://www.youtube.com/watch?v=7rR8p6gsExY), réalisée	par	Medialab, Ericsson Radio Systems	AB,	1999. Sur	Internet.
 
-##### Note 12 
+##### Note 12
  Pour	en	savoir	plus	sur	les	protocoles TCP et IP, consulter le	site	:	[Basic Internet Principles](http://cs.smu.ca/~porter/csc/465/notes/net/internetprinciples.html).
 
 <!--footnote 13 = review original : not working = -->
 
-##### Note 13 
+##### Note 13
  Pour	voir	des	cartes	de	l’infrastructure matérielle, consulter	les	sites	: [Business Shaw](http://business.shaw.ca/Wholesale/) ; [Arctic Fibre](http://qexpressnet.com/);	[Bell Canada](https://www.wholesale.bell.ca/) et 	[Global internet map](http://global-internet-map-2012.telegeography.com).
 
-##### Note 14 
- [Mobile Standard](http://www.3gpp.org/technologies/keywords-acronyms/98-lte) 
+##### Note 14
+ [Mobile Standard](http://www.3gpp.org/technologies/keywords-acronyms/98-lte)
 
-##### Note 15 
+##### Note 15
  Les réseaux 2G sont vulnérables aux intrusions. Pour obtenir une explication technique, consulter la [présentation sur les attaques aux appareils mobiles](https://media.blackhat.com/bh-dc-11/Perez-Pico/BlackHat_DC_2011_Perez-Pico_Mobile_Attacks-Slides.pdf).
 
-##### Note 16 
+##### Note 16
  Le CRTC s’est engagé à fournir un accès Internet à large bande à tous les Canadiens. [Conseil de la radiodiffusion et des télécommunications canadiennes](https://crtc.gc.ca/recherche-search/?n=f).
 
-##### Note 17 
+##### Note 17
  Chaque FAI fournit un guide pour l’installation d’un réseau à domicile selon le type de connexion. Généralement, il envoie un technicien pour installer le matériel puisque certaines connaissances et certains outils spécialisés peuvent être nécessaires. Pour voir un exemple de guide d’installation, consulter les sites : [Bell Canada](https://soutien.bell.ca/Services-Internet/Aide-connexion) et [Videotron](https://soutien.videotron.com/residentiel/internet/brancher-modem-routeur).
 
-##### Note 18 
- Pour	en	savoir	plus	sur	les	 [connexions Wi-Fi](http://pages.cpsc.ucalgary.ca/~carey/CPSC641/slides/wireless/WirelessTutorial.pdf) 
+##### Note 18
+ Pour	en	savoir	plus	sur	les	 [connexions Wi-Fi](http://pages.cpsc.ucalgary.ca/~carey/CPSC641/slides/wireless/WirelessTutorial.pdf)
 
-##### Note 19 
+##### Note 19
  [Hardware keyloggers discovered at public libraries](https://nakedsecurity.sophos.com/2011/02/hardware-keyloggers-discovered-public-libraries/)
 
-##### Note 20 
+##### Note 20
  [Big Vulnerability in Hotel Wi-Fi Router Puts Guests at Risk](http://www.wired.com/2015/03/big-vulnerability-hotel-wi-fi-router-puts-guests-risk/) et 	[Darkhotel’s attacks in 2015](https://securelist.com/blog/research/71713/darkhotels-attacks-in-2015/).

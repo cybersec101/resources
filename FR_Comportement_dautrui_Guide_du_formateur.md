@@ -1,11 +1,11 @@
 #Comportement d’autrui
 
 
-Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
+_Le présent document sert de guide de référence et de préparation pour le formateur, ainsi que de complément au plan de leçon.
 
 Les connaissances que l’apprenant doit avoir acquises au terme du module se trouvent dans la section « Objectifs d’apprentissage ».
 
-La section « Contexte et détail pour le formateur » contient quant à elle une description du contenu ainsi que des liens vers des références permettant au formateur d’en apprendre plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière. Par ailleurs, chaque élément de la section « Contexte et détail pour le formateur » vient étayer une partie du scénario.
+La section « Contexte et détail pour le formateur » contient quant à elle une description du contenu ainsi que des liens vers des références permettant au formateur d’en apprendre plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière. Par ailleurs, chaque élément de la section « Contexte et détail pour le formateur » vient étayer une partie du scénario._
 
 ### Objectifs d’apprentissage
 
@@ -31,7 +31,7 @@ L’intimidation en ligne est un comportement inacceptable, de par ses effets n�
 
 - En pratique, il n’y a aucune différence entre le harcèlement en ligne et l’intimidation en ligne, aussi appelée cyberintimidation.
 
-	- Ces termes sont souvent utilisés de manière interchangeable, bien que l’intimidation soit plus fréquemment associée aux environnements scolaires et professionnels[Note 1](#note-1). 
+	- Ces termes sont souvent utilisés de manière interchangeable, bien que l’intimidation soit plus fréquemment associée aux environnements scolaires et professionnels[Note 1](#note-1).
 
 
 
@@ -55,7 +55,7 @@ L’intimidation en ligne est un comportement inacceptable, de par ses effets n�
 
 	- Les actes qui créent des préjudices sont variés et difficiles à catégoriser ou à cibler[Note 4](#note-4).
 
-	
+
 
 	- Leur répétitivité est l’aspect le plus important et le plus facile à percevoir[Note 5](#note-5).
 
@@ -94,7 +94,7 @@ L’intimidation en ligne est un comportement inacceptable, de par ses effets n�
 
 Les leçons de la vie peuvent toutes être enseignées d’une manière plus humaine et appropriée que par l’intimidation.
 
-	
+
 
 - Qu’est-ce qu’un intimidateur?
 
@@ -204,13 +204,13 @@ Les leçons de la vie peuvent toutes être enseignées d’une manière plus hum
 		- Information sur la cyberintimidation : [Non à la cyberintimidation](http://www.pensezcybersecurite.gc.ca/cnt/cbrbllng/index-fr.aspx)
 
 		- [Information sur la cyberintimidation pour les adolescents](http://www.pensezcybersecurite.gc.ca/cnt/cbrbllng/tns/index-fr.aspx)
-		
+
 		- [Jeunesse j'ecoute](https://jeunessejecoute.ca/)
-		
+
 		- [SPVM](https://spvm.qc.ca/fr)
 
 
-<!-- links not working : 
+<!-- links not working :
 
 http://jeunessejecoute.ca/Teens/InfoBooth/Bullying/Cyberbullying.aspx?lang=fr-ca
 
@@ -219,7 +219,7 @@ http://www.spvm.qc.ca/fr/jeunesse/ado-Cyberintimidation.asp
 
 -->
 
-	
+
 
 #### 1.3 En pratique
 
@@ -241,7 +241,7 @@ L’exploitation sexuelle est un des dangers du Web, et les jeunes sont plus à 
 
 - L’Internet offre un moyen facile aux prédateurs de communiquer avec les personnes vulnérables et d’en abuser. Ils peuvent donc viser les jeunes.
 
-	- La victime peut se faire convaincre ou être contrainte : 
+	- La victime peut se faire convaincre ou être contrainte :
 		- d’envoyer ou de publier des photos sexuellement explicites d’elle;
 		- de prendre part à des activités sexuelles par caméra Web ou sur un téléphone intelligent;
 		- d’avoir des conversations à caractère sexuel par messagerie texte ou en ligne; de rencontrer l’agresseur en personne.
@@ -251,7 +251,7 @@ L’exploitation sexuelle est un des dangers du Web, et les jeunes sont plus à 
 
 		- C’est exactement ce qui rend le harcèlement sexuel en ligne particulièrement nocif : les torts perdurent.
 
-	
+
 - Il n’y a pas qu’un facteur de risque qui mène aux agressions.
 
 	- Il s’agit plutôt d’une combinaison complexe de facteurs de risque et de l’absence de facteurs de protection qui peuvent diminuer la capacité de résilience d’un jeune
@@ -270,7 +270,7 @@ et le rendre vulnérable aux agressions.
 - Les prédateurs développent des relations avec les jeunes sur une période étendue et de différentes façons.
 
 	- Ce processus peut prendre quelques secondes comme des années.
-	
+
 	- La manipulation peut se présenter sous différentes formes, mais la plupart du temps, les agresseurs utilisent les flatteries, posent des questions sur les parents et l’horaire
 du jeune et abordent rapidement le sujet de la sexualité.
 
@@ -286,7 +286,7 @@ du jeune et abordent rapidement le sujet de la sexualité.
 
 
 		- Ces moyens visent à désensibiliser la victime et à la préparer psychologiquement jusqu’à ce qu’elle soit plus encline à avoir une relation sexuelle.
-	
+
 
 - Un parent qui s’intéresse aux comportements de son enfant sur Internet et qui exerce une surveillance peut agir comme une protection contre ce type d’agression.
 
@@ -294,7 +294,7 @@ du jeune et abordent rapidement le sujet de la sexualité.
 
 	- Un jeune qui sait que ses parents surveillent son utilisation d’Internet et y participent, et qui entretient une bonne relation avec eux et ses proches, est moins susceptible de devenir une victime du Web.
 
-	
+
 - Les réactions des victimes face aux agressions sont variées.
 
 	- Elles peuvent tenter de faire face à la situation en tentant de l’oublier, en la niant ou en modifiant la réalité.
@@ -319,10 +319,10 @@ du jeune et abordent rapidement le sujet de la sexualité.
 
 			- Il leur devient plus facile de se confier lorsque le sujet est déjà abordé et que le moment est propice à la discussion.
 
-	
+
 - Pour dénoncer une agression sexuelle ou pour en savoir plus sur le sujet, rendez-vous à l’adresse [CyberAide](https://www.cybertip.ca/app/fr/report)
 
-	
+
 - Plusieurs outils et ressources sont offerts à l’adresse [Centre canadien de protection de l’enfance](https://www.protectchildren.ca/app/fr/index).
 
 #### 2.3 En pratique
@@ -341,10 +341,10 @@ Il y a de la fraude en ligne. Pour repérer les risques et ne pas se faire prend
 
 #### 3.2 En détail
 
-	
+
 - La facilité avec laquelle on peut communiquer sur Internet permet aux fraudeurs et aux escrocs d’atteindre un grand nombre de personnes facilement.
 
-	
+
 - Les fraudeurs se servent notamment d’appels téléphoniques, de faux sites Web, de courriels et de la messagerie en ligne pour tenter de convaincre les gens de leur fournir leurs renseignements personnels ou ceux d’autres personnes, ou encore de leur donner de l’argent.
 
 - Il est important d’être à l’affût des fraudes, de prendre son temps et de se méfier des personnes suspectes.
@@ -352,7 +352,7 @@ Il y a de la fraude en ligne. Pour repérer les risques et ne pas se faire prend
 - Certes, connaitre les principales arnaques peut vous aider à repérer les escrocs, mais il existe une tonne de façons de frauder.
 
 	- Demandes d’argent
-	
+
 	- Fausses situations d’urgence
 
 
@@ -391,7 +391,7 @@ des frais d’hospitalisation, d’avocat ou de cautionnement. Généralement, i
 			- Méfiez-vous des personnes qui prétendent résider au Canada ou aux États-Unis mais travailler à l’étranger.
 
 			- Méfiez-vous des personnes qui se proclament amoureuses très rapidement.
-			
+
 			- Méfiez-vous si elles disent vouloir venir vous rencontrer, mais qu’une situation quelconque les en empêche.
 
 			- Si vous êtes sur un site de rencontre, quittez le site. Le fraudeur vous demandera probablement de poursuivre les échanges par un système de messagerie instantanée ou par courriel.
@@ -517,7 +517,7 @@ même entrer son NIP sur le pavé numérique du téléphone.
 
 
 			- Ne faites aucune transaction hors du site d’enchères.
-			
+
 			- Lisez les modalités et assurez-vous de comprendre les modes de paiement, la politique de retour et la garantie du produit.
 
 			- Vérifiez la protection contre la fraude offerte pour le mode de paiement que vous utilisez. L’option la plus sécuritaire est souvent de payer par un service de paiement en ligne ou par carte de crédit.
@@ -546,17 +546,17 @@ même entrer son NIP sur le pavé numérique du téléphone.
 	- Comment se protéger
 
 		- Demandez l’opinion d’une personne de confiance.
-		
+
 		- Faites des recherches sur l’acheteur.
-		
+
 		- Authentifiez le paiement avant d’envoyer l’article.
-		
+
 		- Si possible, faites l’échange en personne (endroit public, en présence d’autres personnes, de jour, etc.).
 
 		- Ne communiquez pas seulement par courriel; demandez un numéro de téléphone (si l’acheteur ne veut pas vous en donner un, c’est mauvais signe).
 
 		- Prenez votre temps; ne précipitez pas la transaction.
-		
+
 		- Ne vous sentez pas obligé de faire une transaction dont vous n’êtes pas certain.
 
 		- Faites confiance à votre instinct.
@@ -638,24 +638,24 @@ et vos fournisseurs de services.
 - Vous rendre compte que vous avez été victime d’une fraude est un bon début,
 mais vous pouvez aussi prendre certaines mesures.
 
-	
+
 - Personne n’est à l’abri d’une erreur; il n’y a donc aucune raison d’avoir honte.
 
 
 - Il y a beaucoup de choses que vous pouvez faire pour amenuiser les conséquences.
 
-	
+
 - Modifiez vos mots de passe, vérifiez vos relevés de compte et faites des appels pour
 confirmer que tout est normal.
 
 - Il est important de toujours signaler une fraude.
 
-	
+
 - Le Centre antifraude du Canada est résolu à vous aider à « identifier, signaler et enrayer la fraude ».
 
 	- Si vous croyez que vous ou un proche êtes victime de fraude, communiquez avec le Centre antifraude du Canada, par téléphone au 1 888 495-8501, ou en ligne à l’adresse du [Centre antifraude du Canada](http://www.antifraudcentre.ca).
 
-	
+
 
 
 - Si vous soupçonnez une tentative de fraude en lien avec un compte bancaire ou une carte de crédit, communiquez sans tarder avec l’institution financière en question. Leurs coordonnées se trouvent habituellement sur leur site Web. En voici quelques-unes
@@ -726,13 +726,13 @@ qui pourraient vous être utiles.
 
 	- TD
 		- [Signalement de fraude en ligne](https://www.td.com/francais/confidentialite-et-securite/confidentialite-et-securite/signaler-une-fraude-en-ligne/reportfraud.jsp)
-		
+
 		- TD Canada Trust : 1 866 222-3456
-		
+
 		- Placements directs TD : 1 800 465-5463
-		
+
 		- TD Assurance : 1 877 397-4187
-		
+
 		- Services bancaires par Internet aux entreprises : 1 800 668-7328
 
 
@@ -791,7 +791,7 @@ qui pourraient vous être utiles.
 		- Canada : 1 800 847-2911
 		- [Visa en ligne](https://www.visa.ca/en_CA)
 
-<!--original link not working 
+<!--original link not working
 http://www.visa.ca/fr/aboutcan/contacts/index.jsp-->
 
 #### 4.3 En pratique
@@ -820,17 +820,17 @@ Téléphone intelligent | Téléphone fonctionnant comme un ordinateur et avec l
 [YouTube](https://youtube.com)| Site Web hébergeant du contenu vidéo (youtube.com).
 
 
-##### Note 1 
+##### Note 1
  [Harcèlement par Internet ou cyberharcèlement](http://www.cchst.ca/oshanswers/psychosocial/cyberbullying.html)
 
-##### Note 2 
+##### Note 2
  [Harcèlement criminel : Guide à l'intention des policiers et des procureurs de la Couronne](https://www.justice.gc.ca/fra/pr-rp/jp-cj/vf-fv/har/part1.html)
 
-##### Note 3 
+##### Note 3
  [L’intimidation fait encore l’objet de fausses croyances qui incitent les gens à penser que c’est un passage normal dans le développement de l’enfant. ](https://www.prevnet.ca/fr/intimidation/faits-et-solutions)
 
-##### Note 4 
+##### Note 4
  [Consulter la partie 1.6 du guide à l'intention des policiers et des procureurs de la Couronne](https://www.justice.gc.ca/fra/pr-rp/jp-cj/vf-fv/har/part1.html)
 
-##### Note 5 
+##### Note 5
  [Qu’est-ce que la cyberintimidation?](https://www.securitepublique.gc.ca/cnt/ntnl-scrt/cbr-scrt/cbrbllng/prnts/cbrbllng-fr.aspx)

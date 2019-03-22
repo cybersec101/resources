@@ -1,8 +1,7 @@
 # Un ordinateur en bon état
 
 
-
-Le présent document sert de guide de référence et de préparation
+_Le présent document sert de guide de référence et de préparation
 pour le formateur, ainsi que de complément au plan de leçon.
 
 Les connaissances que l’apprenant doit avoir acquises au terme
@@ -13,7 +12,7 @@ quant à elle une description du contenu ainsi que des liens
 vers des références permettant au formateur d’en apprendre
 plus sur le sujet. Il pourra ainsi mener les discussions et répondre aux questions avec assurance, sans être limité par la matière.
 Par ailleurs, chaque élément de la section « Contexte et détail
-pour le formateur » vient étayer une partie du scénario.
+pour le formateur » vient étayer une partie du scénario._
 
 
 ### Objectifs d’apprentissage
