@@ -87,7 +87,7 @@ software you are installing.
 	- Often, the option to install is selected by default, and you will need to
     manually deselect the installation [^footnote1].
 
-- ![Image not available](/images/EN_A_Healthy_Computer01.png "Read Carefully to be sure what will be installed")
+- ![Image not available](/images/EN_A_Healthy_Computer_01.png "Read Carefully to be sure what will be installed")
 
 -	_Image : Read the instructions during the process of installation carefully to see if a secondary application will be installed_
 
@@ -164,7 +164,7 @@ on your computer, such as a fake update window.
 		- Apple Computer
 
 - ![Image not available](/images/EN_A_Healthy_Computer_02.png "Apple updates")
-		
+
 		- Go to **_Apple menu_** > **_System Preferences,_** then click **_System Preferences._** Click
     **_App Store_** , then select the settings you want.
 		- Turn on all the automatic update options.
@@ -176,7 +176,7 @@ on your computer, such as a fake update window.
 - Windows 10
 
 - ![Image not available](/images/EN_A_Healthy_Computer_03.png "Windows 10 updates")
-		
+
 	- Open **_Windows Update_** by swiping in from the right edge of the screen (or,
     if you're using a mouse, pointing to the lower-right corner of the screen and
     moving the mouse pointer up).
