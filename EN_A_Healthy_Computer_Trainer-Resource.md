@@ -175,7 +175,7 @@ on your computer, such as a fake update window.
 
 - Windows 10
 
-- ![Image not available](/images/EN_A_Healthy_Computer_03.png"Windows 10 updates")
+- ![Image not available](/images/EN_A_Healthy_Computer_03.png "Windows 10 updates")
 
 	- Open **_Windows Update_** by swiping in from the right edge of the screen (or,
     if you're using a mouse, pointing to the lower-right corner of the screen and
@@ -197,7 +197,7 @@ on your computer, such as a fake update window.
 	- Type Windows Update in the search box, tap or click Settings, then tap or
     click Turn automatic updating on or off.
 - ![Image not available](/images/EN_A_Healthy_Computer_04.png "Windows 8 updates")
-_Image : Windows 8 Windows Update Settings (source: http://blogs.msdn.
+- _Image : Windows 8 Windows Update Settings (source: http://blogs.msdn.
 com/b/olivnie/archive/2013/04/05/updates-and-maintenance.aspx)_
 
 	- Under **_Important updates_** , choose **_Install updates automatically_**.
@@ -237,9 +237,9 @@ Tonight_** or **_Remind Me Later_**. If you tap **_Install Tonight_** , just plu
 device in to power before you go to sleep. Overnight, your device will
 update automatically.
 	-  If asked, enter your passcode.
-- Android phone or tablet[Note 6](#note-6).
+- Android phone or tablet [Note 6](#note-6).
 
-	- Open the Google Play Store app - ![Image not available](/images/EN_A_Healthy_Computer_06.png). Touch the Menu icon ![Image not available](/images/EN_A_Healthy_Computer_07![Image not available](/images/EN_A_Healthy_Computer_06.png)
+	- Open the Google Play Store app - ![Image not available](/images/EN_A_Healthy_Computer_06.png). Touch the Menu icon ![Image not available](/images/EN_A_Healthy_Computer_07.png)
 	- .png) > **_Settings_**.
     Touch **_Auto-update apps_**. Select an option.
 	- **_Auto update apps at any time_** : Updates apps at any time, using either Wi-Fi or
@@ -250,9 +250,6 @@ update automatically.
 #### 2.3 In Practice
 
 Do set up automatic updates for your computers, tablets and smartphones.
-
-
-
 
 ### Glossary of Terms
 
