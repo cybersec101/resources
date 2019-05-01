@@ -164,7 +164,6 @@ on your computer, such as a fake update window.
 		- Apple Computer
 
 - ![Image not available](/images/EN_A_Healthy_Computer_02.png "Apple updates")
-
 		- Go to **_Apple menu_** > **_System Preferences,_** then click **_System Preferences._** Click
     **_App Store_** , then select the settings you want.
 		- Turn on all the automatic update options.
