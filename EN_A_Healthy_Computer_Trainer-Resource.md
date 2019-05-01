@@ -85,7 +85,7 @@ for sending a record of your Internet use to marketing companies.
 software you are installing.
 
 	- Often, the option to install is selected by default, and you will need to
-    manually deselect the installation [^footnote1].
+    manually deselect the installation [Note 1](#note-1).
 
 - ![Image not available](/images/EN_A_Healthy_Computer_01.png "Read Carefully to be sure what will be installed")
 
@@ -169,13 +169,13 @@ on your computer, such as a fake update window.
     **_App Store_** , then select the settings you want.
 		- Turn on all the automatic update options.
 - You may have to click the little padlock at the bottom left and then enter your
-    password to make changes [^footnote2].
+    password to make changes [Note 2](#note-2).
 
 - Windows
 
 - Windows 10
 
-- ![Image not available](/images/EN_A_Healthy_Computer_03.png "Windows 10 updates")
+- ![Image not available](/images/EN_A_Healthy_Computer_03.png"Windows 10 updates")
 
 	- Open **_Windows Update_** by swiping in from the right edge of the screen (or,
     if you're using a mouse, pointing to the lower-right corner of the screen and
@@ -186,7 +186,7 @@ on your computer, such as a fake update window.
 	- Under Recommended updates, select the Give me recommended updates
     the same way I receive important updates check box.
 	- Under Microsoft Update, select the Give me updates for other Microsoft
-    products when I update Windows check box, and then tap or click Apply. [^footnote3]
+    products when I update Windows check box, and then tap or click Apply.[Note 3](#note-3)
 
 
 - Windows 8
@@ -202,7 +202,7 @@ com/b/olivnie/archive/2013/04/05/updates-and-maintenance.aspx)_
 
 	- Under **_Important updates_** , choose **_Install updates automatically_**.
 	- Under Recommended updates, select the Give me recommended updates
-    the same way I receive important updates check box, Then Click OK. [^footnote4]
+    the same way I receive important updates check box, Then Click OK.[Note 4](#note-4)
 
 
 - Windows 7
@@ -219,7 +219,7 @@ com/b/olivnie/archive/2013/04/05/updates-and-maintenance.aspx)_
 	- Click **_OK_**. If you are prompted for an administrator password or confirmation,
     type the password or provide confirmation.
 
-- Apple Phone or iPad [^footnote5]
+- Apple Phone or iPad [Note 5](#note-5)
 
 	- If a message says that an update is available, tap **_Install Now_** or follow these
     steps:
@@ -237,7 +237,7 @@ Tonight_** or **_Remind Me Later_**. If you tap **_Install Tonight_** , just plu
 device in to power before you go to sleep. Overnight, your device will
 update automatically.
 	-  If asked, enter your passcode.
-- Android phone or tablet[^footnote6]
+- Android phone or tablet[Note 6](#note-6).
 
 	- Open the Google Play Store app - ![Image not available](/images/EN_A_Healthy_Computer_06.png). Touch the Menu icon ![Image not available](/images/EN_A_Healthy_Computer_07![Image not available](/images/EN_A_Healthy_Computer_06.png)
 	- .png) > **_Settings_**.
@@ -267,14 +267,20 @@ Patch|A software patch is a change applied to the code of a program after it is 
 Toolbar (Browser)| A browser toolbar is an add-on that provides a feature. Usually these features are not useful and the toolbar can send information to marketing companies.
 Update| A software update is a change applied to the code of a program to improve function of the program.
 
-[^footnote1]: This software is often referred to as Spyware if it collects information, Adware if it delivers advertising or crapware for obvious reasons. More detail can be found at: [http://www.avgjoeguide.com/wordpress/just-because-its-freeware-doesnt-mean-that-it-doesnt-contain-crapware](http://www.avgjoeguide.com/wordpress/just-because-its-freeware-doesnt-mean-that-it-doesnt-contain-crapware)
+##### Note 1
+ This software is often referred to as Spyware if it collects information, Adware if it delivers advertising or crapware for obvious reasons. More detail can be found at: [http://www.avgjoeguide.com/wordpress/just-because-its-freeware-doesnt-mean-that-it-doesnt-contain-crapware](http://www.avgjoeguide.com/wordpress/just-because-its-freeware-doesnt-mean-that-it-doesnt-contain-crapware)
 
-[^footnote2]: [https://support.apple.com/en-us/HT](https://support.apple.com/en-us/HT)
+##### Note 2
+[https://support.apple.com/en-us/HT](https://support.apple.com/en-us/HT)
 
-[^footnote3]: [http://windows.microsoft.com/en-ca/windows/turn-automatic-updating-on-off#turn-automatic-updating-on-off=windows-](http://windows.microsoft.com/en-ca/windows/turn-automatic-updating-on-off#turn-automatic-updating-on-off=windows-)
+##### Note 3
+[http://windows.microsoft.com/en-ca/windows/turn-automatic-updating-on-off#turn-automatic-updating-on-off=windows-](http://windows.microsoft.com/en-ca/windows/turn-automatic-updating-on-off#turn-automatic-updating-on-off=windows-)
 
-[^footnote4]: [https://www.microsoft.com/security/pc-security/updates.aspx](https://www.microsoft.com/security/pc-security/updates.aspx)
+##### Note 4
+[https://www.microsoft.com/security/pc-security/updates.aspx](https://www.microsoft.com/security/pc-security/updates.aspx)
 
-[^footnote5]: [https://support.google.com/googleplay/answer/113412?hl=en](https://support.google.com/googleplay/answer/113412?hl=en)
+##### Note 5
+[https://support.google.com/googleplay/answer/113412?hl=en](https://support.google.com/googleplay/answer/113412?hl=en)
 
-[^footnote6]: [https://support.apple.com/en-ca/HT](https://support.apple.com/en-ca/HT)
+##### Note 6
+[https://support.apple.com/en-ca/HT](https://support.apple.com/en-ca/HT)
