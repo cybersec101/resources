@@ -29,7 +29,6 @@ Backups are important. Copy (back up) your data frequently in case something hap
 the original.
 
 #### 1.2 In Detail
-<!-- Backing up is explained as a seperate process from archiving. Archiving is a harm minimization option removing data from the active network to limit accessability to that information by physical means.  The 3,2,1 rule for backups that is used by many businesses here (3 backups, 2 in rotation, 1 offsite) is considered as a complex option that might make backing up appear complex and expensive. This guide is primarily for those that have no backups.  The cloud option is introduced as a potential 'offsite'.  Note that a process of taking a backup disk out of rotation then purging files on active media is a valid method of archiving.  --!>
 
 - There are two processes, archiving and backing up. Archiving moves a file to storage, backing
 up makes a copy of a file.  	
@@ -52,14 +51,20 @@ back up and a drive for archive; they could be the same type of drive.
 
 - Backing up data on a computer is becoming more and more important because people often
 don’t have other copies of their information.
+
  	- Photos, music and documents are on our computers—and nowhere else.
  	- Having only one single copy of important files is very risky.
+
 		- The devices within the computer that store the information wear out with use and
 time. Eventually, they will fail.
 		- The software that stores and retrieves the data may also fail.
+
  	- Perhaps the biggest risk to your information is from software created with malicious intentions (malware).
+
+
 		- Malware affects how the computer functions and could lead to a loss of data.
 		- Ransomware is a type of malware that prevents access to stored information or the computer from responding to commands. It then demands payment to restore normal access.
+
 	- Backing up your information regularly solves many problems, and can save time, money
 and heartache in the event of a computer problem.
 
@@ -129,24 +134,44 @@ up to the cloud or through a home computer.
 	- Hard disk drives can be connected to the computer directly through an external port or
     indirectly over a Wi-Fi connection.
 	- When buying a hard disk drive, consider the following criteria:
+
  		- _Speed_ is not a concern, as you will not be interacting with the files on the drive on
 a regular basis.
+
  		- The _capacity_ of the disk and the _reliability_ of the drive are more important.
+
 			- Reliability is not guaranteed on consumer grade disks; however, you should stick to well-established manufactures such as Western Digital or Seagate that offer warranties.
+
 			- Choose a drive that has twice the capacity of the drive in your computer. If your computer disk is 256 Gb, a 500 Gb external disk is a good solution. This will allow the backup drive to hold:
+
 				- A full copy of the contents of your computer; and
 				- Many system “snapshots” to counteract data loss and system failures.
+
+
+
 		- An external hard disk drive will connect (plug in) to the computer at an external port.
+
  			- Check which ports your computer has before shopping (they are at the side of
     a laptop or at the back of a desktop computer).
+
     			- A USB drive is the best option for most computers.
 				- A USB port on your computer will often be marked with this symbol:
+
 				- I  ![Image Missing](/images/EN_Have_a_Backup_01.png "USB Symbol")
+
+
+
 				- USB ports are rectangular and are a little over a centimeter:
 (about ½ inch) wide.
+
+
 					-  USB 3.0 Ports ![Image Missing](/images/EN_Have_a_Backup_02.png)
+
 					-  USB 2.0 Ports ![Image Missing](/images/EN_Have_a_Backup_03.png)
+
 					-  Thunderbolt & USB 3.0 Ports![Image Missing](/images/EN_Have_a_Backup_04.png)
+
+
 				- The standard of USB is not of great importance either. A USB 3.0 disk
 will provide faster data transfer when connected to a USB 3.0 port,
 but the difference in speed will not make a practical difference to the
