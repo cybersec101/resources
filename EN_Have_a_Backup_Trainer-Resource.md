@@ -29,6 +29,7 @@ Backups are important. Copy (back up) your data frequently in case something hap
 the original.
 
 #### 1.2 In Detail
+<!-- Backing up is explained as a seperate process from archiving. Archiving is a harm minimization option removing data from the active network to limit accessability to that information by physical means.  The 3,2,1 rule for backups that is used by many businesses here (3 backups, 2 in rotation, 1 offsite) is considered as a complex option that might make backing up appear complex and expensive. This guide is primarily for those that have no backups.  The cloud option is introduced as a potential 'offsite'.  Note that a process of taking a backup disk out of rotation then purging files on active media is a valid method of archiving.  --!>
 
 - There are two processes, archiving and backing up. Archiving moves a file to storage, backing
 up makes a copy of a file.  	
